@@ -218,6 +218,7 @@ name,source,gender,wikidata,type
 "Rue Danielle Casanova",wikidata,F,Q457505,relation
 "Rue Delphine Seyrig",wikidata,F,Q261456,relation+way
 "Rue Dorothea Lange",wikidata,F,Q230673,relation
+"Rue Eliane Jeannin Garreau",wikidata,F,Q8078202,relation
 "Rue Élisa Lemonnier",wikidata,F,Q3587831,relation
 "Rue Élisabeth Vigée-Le-Brun",wikidata,F,Q213163,relation
 "Rue Ella Fitzgerald",wikidata,F,Q1768,relation
@@ -905,7 +906,7 @@ name,source,gender,wikidata,type
 "Place Gustave Toudouze",wikidata,M,Q3121332,relation
 "Place Henri Bergson",wikidata,M,Q42156,relation
 "Place Henri Fiszbin",wikidata,M,Q3131083,relation
-"Place Henri Frenay",wikidata,M,Q463367,relation+way
+"Place Henri Frenay",wikidata,M,Q463367,relation
 "Place Henri Krasucki",wikidata,M,Q477747,relation
 "Place Henri Langlois",wikidata,M,Q745858,relation
 "Place Henri Malberg",wikidata,M,Q19721403,relation
@@ -1246,7 +1247,7 @@ name,source,gender,wikidata,type
 "Rue Antoine Arnauld",wikidata,M,Q353887,relation
 "Rue Antoine Bourdelle",wikidata,M,Q314350,relation
 "Rue Antoine Chantin",wikidata,M,Q90285674,relation
-"Rue Antoine Dubois",wikidata,M,Q429680,relation
+"Rue Antoine Dubois",wikidata,M,Q429680,relation+way
 "Rue Antoine Hajje",wikidata,M,Q26269723,relation
 "Rue Antoine Roucher",wikidata,M,Q2715980,relation
 "Rue Antoine Vollon",wikidata,M,Q587078,relation
@@ -1449,7 +1450,7 @@ name,source,gender,wikidata,type
 "Rue Championnet",wikidata,M,Q1379668,relation
 "Rue Champollion",wikidata,M,Q260,relation
 "Rue Chanez",wikidata,M,Q15967704,relation
-"Rue Changarnier",wikidata,M,Q569416,relation
+"Rue Changarnier",wikidata,M,Q569416,relation+way
 "Rue Chanzy",wikidata,M,Q239760,relation
 "Rue Chappe",wikidata,M,Q361305,relation
 "Rue Chaptal",wikidata,M,Q708011,relation
@@ -1999,7 +2000,6 @@ name,source,gender,wikidata,type
 "Rue Humblot",wikidata,M,Q27307712,relation
 "Rue Huyghens",wikidata,M,Q39599,relation
 "Rue Huysmans",wikidata,M,Q210798,relation
-"Rue Irénée Blanc",wikidata,M,Q41021071,relation
 "Rue Isabey",wikidata,M,Q551132,relation
 "Rue Jacquard",wikidata,M,Q310833,relation
 "Rue Jacquemont",wikidata,M,Q63739,relation
@@ -2341,12 +2341,11 @@ name,source,gender,wikidata,type
 "Rue Molitor",wikidata,M,Q128488,relation
 "Rue Mollien",wikidata,M,Q3340335,relation
 "Rue Moncey",wikidata,M,Q350662,relation
-"Rue Mondonville",wikidata,M,Q371862,way
+"Rue Mondonville",wikidata,M,Q371862,relation
 "Rue Monge",wikidata,M,Q206832,relation
 "Rue Monseigneur Rodhain",wikidata,M,Q3174381,relation
 "Rue Monsieur",wikidata,M,Q7750,relation
 "Rue Monsigny",wikidata,M,Q705124,relation+way
-"Rue Montalembert",wikidata,M,Q577504,relation
 "Rue Montalivet",wikidata,M,Q713950,relation
 "Rue Montbrun",wikidata,M,Q2662592,relation
 "Rue Montcalm",wikidata,M,Q453589,relation
@@ -2858,6 +2857,7 @@ name,source,gender,wikidata,type
 "Rue de Martignac",wikidata,M,Q958953,relation
 "Rue de Mirbel",wikidata,M,Q765542,relation
 "Rue de Miromesnil",wikidata,M,Q2861978,relation
+"Rue de Montalembert",wikidata,M,Q577504,relation
 "Rue de Montfaucon",wikidata,M,Q705306,relation
 "Rue de Montholon",wikidata,M,Q15967350,relation
 "Rue de Monttessuy",wikidata,M,Q3121367,relation
@@ -3100,6 +3100,7 @@ name,source,gender,wikidata,type
 "Square Jean-Paul Laurens",wikidata,M,Q708568,relation
 "Square Jouvenet",wikidata,M,Q712455,relation
 "Square Jules Chéret",wikidata,M,Q610202,relation
+"Square La Bruyère",wikidata,M,Q314975,relation
 "Square Lamarck",wikidata,M,Q82122,relation
 "Square Lamartine",wikidata,M,Q188697,relation
 "Square Leibniz",wikidata,M,Q9047,relation
@@ -3137,7 +3138,6 @@ name,source,gender,wikidata,type
 "Square de la Motte Picquet",wikidata,M,Q2446788,relation
 "Square de la Tour Maubourg",wikidata,M,Q941947,relation
 "Square du Docteur Blanche",wikidata,M,Q3058532,relation
-"Square la Bruyère",wikidata,M,Q314975,relation
 "Square la Fontaine",wikidata,M,Q49496,relation
 "Terrasse Modigliani",wikidata,M,Q120993,relation
 "Terrasse du Commandant Jacques Blasquez",wikidata,M,Q88819603,relation

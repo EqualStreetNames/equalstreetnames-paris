@@ -57,7 +57,7 @@ name,source,gender,wikidata,type
 "Avenue de Montmorency",wikidata,,Q316891,relation
 "Avenue de Neuilly",wikidata,,Q48958,relation+way
 "Avenue de New York",wikidata,,Q60,relation
-"Avenue de Nogent",wikidata,,Q212274,relation
+"Avenue de Nogent",wikidata,,Q212274,relation+way
 "Avenue de Péterhof",wikidata,,Q178310,relation
 "Avenue de Pologne",wikidata,,Q36,relation
 "Avenue de Provence",wikidata,,Q290327,relation
@@ -148,13 +148,13 @@ name,source,gender,wikidata,type
 "Boulevard Marguerite de Rochechouart",wikidata,,Q3451012;Q3290789,relation
 "Boulevard Montmartre",wikidata,,Q3398926,relation+way
 "Boulevard Pereire",wikidata,,Q286386,relation+way
-"Boulevard Poissonnière",wikidata,,Q3449588,relation+way
+"Boulevard Poissonnière",wikidata,,Q3449588,relation
 "Boulevard Saint-Denis",wikidata,,Q2174628,relation+way
 "Boulevard Saint-Germain",wikidata,,Q255910,relation
 "Boulevard Saint-Jacques",wikidata,,Q3452300;Q43999,relation+way
 "Boulevard Saint-Marcel",wikidata,,Q1398337,relation+way
 "Boulevard Saint-Martin",wikidata,,Q1478999;Q656302;Q133704,relation
-"Boulevard Saint-Michel",wikidata,,Q1329076,relation+way
+"Boulevard Saint-Michel",wikidata,,Q1329076,relation
 "Boulevard d'Algérie",wikidata,,Q262,relation+way
 "Boulevard d'Auteuil",wikidata,,Q784536,relation
 "Boulevard d'Indochine",wikidata,,Q43467,relation
@@ -198,7 +198,7 @@ name,source,gender,wikidata,type
 "Boulevard du Palais",wikidata,,Q143080,relation
 "Boulevard du Temple",wikidata,,Q3280072,relation
 "Carrefour de Longchamp",wikidata,,Q1542489,relation+way
-"Carrefour de Norvège",wikidata,,Q20,relation
+"Carrefour de Norvège",wikidata,,Q20,relation+way
 "Carrefour de l'Odéon",wikidata,,Q1133501,relation
 "Carrefour de la Croix Catelan",wikidata,,Q3003238,relation
 "Carrefour de la Patte d'Oie",wikidata,,Q14396423,relation
@@ -707,7 +707,7 @@ name,source,gender,wikidata,type
 "Place Pigalle",wikidata,,Q3448435,relation
 "Place Saint-André des Arts",wikidata,,Q1230964,relation
 "Place Saint-Charles",wikidata,,Q3449851;Q7758,relation+way
-"Place Saint-Estèphe",wikidata,,Q188750,relation
+"Place Saint-Estèphe",wikidata,,Q188750,relation+way
 "Place Saint-Georges",wikidata,,Q3449876,relation
 "Place Saint-Germain des Prés",wikidata,,Q334186,relation
 "Place Saint-Michel",wikidata,,Q1329076,relation
@@ -907,7 +907,7 @@ name,source,gender,wikidata,type
 "Quai de la Marne",wikidata,,Q41983,relation
 "Quai de la Mégisserie",wikidata,,Q3332813,relation
 "Quai de la Rapée",wikidata,,Q19060423,relation+way
-"Quai de la Seine",wikidata,,Q1471,relation
+"Quai de la Seine",wikidata,,Q1471,relation+way
 "Quai de la Tournelle",wikidata,,Q513655,relation
 "Quai des Célestins",wikidata,,Q657921,relation
 "Quai des Orfèvres",wikidata,,Q11202319,relation
@@ -2145,7 +2145,7 @@ name,source,gender,wikidata,type
 "Carré Necker",,,,relation
 "Carré des Rosiers",,,,way
 "Carré du Sanglier",,,,way
-"Carrefour de Beauté",,,,relation
+"Carrefour de Beauté",,,,relation+way
 "Carrefour de Conservation",,,,relation
 "Carrefour de la Ferme de la Faisanderie",,,,relation
 "Carrefour des Cascades",,,,way
@@ -2509,6 +2509,7 @@ Ledru-Rollin,,,,way
 "Péristyle de Valois",,,,relation
 Petit-Pont,,,,way
 "Petit-Pont - Cardinal Lustiger",,,,way
+"Place Albert Memmi",,,,way
 "Place Baudoyer",,,,relation
 "Place Charles Monselet",,,,way
 "Place Charles Tillon",,,,relation
@@ -2746,7 +2747,6 @@ Petit-Pont,,,,way
 "Rue Duris",,,,relation
 "Rue Edmond Roger",,,,relation
 "Rue Édouard Glissant",,,,relation
-"Rue Eliane Jeannin Garreau",,,,relation
 "Rue Émélie",,,,relation
 "Rue Ernestine",,,,relation
 "Rue Evette",,,,relation
@@ -2774,6 +2774,7 @@ Petit-Pont,,,,way
 "Rue Haxo",,,,relation
 "Rue Hélène",,,,relation
 "Rue Intérieure RATP",,,,way
+"Rue Irénée Blanc",,,,relation
 "Rue Jacob",,,,relation
 "Rue Jacquier",,,,relation
 "Rue Jean Bleuzen",,,,relation
@@ -3435,7 +3436,6 @@ Sortie,,,,way
 "Villa des Buttes Chaumont",,,,relation
 "Villa des Entrepreneurs",,,,relation
 "Villa des Falaises",,,,relation
-"Villa des Fêtes",,,,way
 "Villa des Glizières",,,,relation
 "Villa des Gobelins",,,,relation
 "Villa des Guignières",,,,relation
