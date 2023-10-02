@@ -456,7 +456,6 @@ name,source,gender,wikidata,type
 "Avenue Ernest Reyer",wikidata,M,Q516937,relation
 "Avenue Félicien Rops",wikidata,M,Q378129,relation
 "Avenue Félix Faure",wikidata,M,Q296076,relation
-"Avenue Félix d'Herelle",wikidata,M,Q962057,relation
 "Avenue Félix d'Hérelle",wikidata,M,Q962057,relation
 "Avenue Ferdinand Buisson",wikidata,M,Q273607,relation
 "Avenue Ferdousi",wikidata,M,Q43459,relation
@@ -593,7 +592,6 @@ name,source,gender,wikidata,type
 "Avenue du Docteur Arnold Netter",wikidata,M,Q2863365,relation
 "Avenue du Docteur Brouardel",wikidata,M,Q217650,relation
 "Avenue du Docteur Gley",wikidata,M,Q3059895,relation
-"Avenue du Docteur Lannelongue",wikidata,M,Q2331612,relation
 "Avenue du Général Balfourier",wikidata,M,Q3300348,relation
 "Avenue du Général Clavery",wikidata,M,Q110797782,relation
 "Avenue du Général Détrie",wikidata,M,Q3370444,relation
@@ -663,6 +661,7 @@ name,source,gender,wikidata,type
 "Boulevard Ney",wikidata,M,Q40756,relation+way
 "Boulevard Ornano",wikidata,M,Q128777,relation
 "Boulevard Pasteur",wikidata,M,Q529,relation
+"Boulevard Périphérique Intérieur",wikidata,M,Q242609,way
 "Boulevard Pershing",wikidata,M,Q272383,relation
 "Boulevard Poniatowski",wikidata,M,Q154382,relation+way
 "Boulevard Raspail",wikidata,M,Q682230,relation
@@ -900,6 +899,7 @@ name,source,gender,wikidata,type
 "Place Georges Moustaki",wikidata,M,Q293985,relation+way
 "Place Georges Mulot",wikidata,M,Q3260556,relation
 "Place Georges Pompidou",wikidata,M,Q2185,relation
+"Place Gérard Oury",wikidata,M,Q470798,relation
 "Place Gilbert Perroy",wikidata,M,Q110684225,relation
 "Place Gilbert Privat",wikidata,M,Q2399675,relation
 "Place Goldoni",wikidata,M,Q165534,relation
@@ -1118,7 +1118,6 @@ name,source,gender,wikidata,type
 "Pont Alexandre III",wikidata,M,Q120180,relation
 "Pont Charles de Gaulle",wikidata,M,Q2042,relation+way
 "Pont Louis-Philippe",wikidata,M,Q7771,way
-"Pont Masséna",wikidata,M,Q242609,way
 "Pont Mirabeau",wikidata,M,Q218747,relation
 "Pont Royal",wikidata,M,Q7742,relation
 "Pont Saint-Louis",wikidata,M,Q346,relation
@@ -3016,7 +3015,7 @@ name,source,gender,wikidata,type
 "Rue du Général Malleterre",wikidata,M,Q3093849,relation
 "Rue du Général Maud'huy",wikidata,M,Q543437,relation
 "Rue du Général Niessel",wikidata,M,Q977006,relation
-"Rue du Général Niox",wikidata,M,Q945147,relation
+"Rue du Général Niox",wikidata,M,Q945147,relation+way
 "Rue du Général Renault",wikidata,M,Q3385460,relation
 "Rue du Général Roques",wikidata,M,Q752089,relation
 "Rue du Général Séré de Rivières",wikidata,M,Q481316,relation

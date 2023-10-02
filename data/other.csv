@@ -69,6 +69,7 @@ name,source,gender,wikidata,type
 "Avenue de Taillebourg",wikidata,,Q2890107,relation
 "Avenue de Verdun",wikidata,,Q130847;Q154748,relation+way
 "Avenue de Versailles",wikidata,,Q621,relation
+"Avenue de Verzy",wikidata,,Q93351,relation
 "Avenue de Wagram",wikidata,,Q467777,relation+way
 "Avenue de l'École de Joinville",wikidata,,Q3152447,relation
 "Avenue de l'Hippodrome",wikidata,,Q3135866,relation+way
@@ -710,7 +711,7 @@ name,source,gender,wikidata,type
 "Place Saint-Estèphe",wikidata,,Q188750,relation+way
 "Place Saint-Georges",wikidata,,Q3449876,relation
 "Place Saint-Germain des Prés",wikidata,,Q334186,relation
-"Place Saint-Michel",wikidata,,Q1329076,relation
+"Place Saint-Michel",wikidata,,Q1329076,relation+way
 "Place Saint-Sulpice",wikidata,,Q295844,relation
 "Place Sainte-Geneviève",wikidata,,Q583251,relation
 "Place Sainte-Opportune",wikidata,,Q3585250;Q1561994,relation
@@ -861,11 +862,10 @@ name,source,gender,wikidata,type
 "Pont de Bir Hakeim",wikidata,,Q836128,relation
 "Pont de Grenelle - Cadets de Saumur",wikidata,,Q18199186,relation
 "Pont de Puteaux",wikidata,,Q234743,relation+way
-"Pont de Suresnes",wikidata,,Q193929,relation
 "Pont de Tolbiac",wikidata,,Q3451089,relation
 "Pont de l'Alma",wikidata,,Q913604,relation
 "Pont de l'Archevêché",wikidata,,Q1242250,relation
-"Pont de la Concorde",wikidata,,Q746321,relation
+"Pont de la Concorde",wikidata,,Q746321,relation+way
 "Pont de la Tournelle",wikidata,,Q1476769,relation
 "Pont des Arts",wikidata,,Q2018526,relation
 "Pont des Invalides",wikidata,,Q188977,relation+way
@@ -1068,7 +1068,7 @@ name,source,gender,wikidata,type
 "Rue Hassard",wikidata,,Q618532,relation
 "Rue Henri Bocquillon",wikidata,,Q618532,relation
 "Rue Henri Duchène",wikidata,,Q618532,relation
-"Rue Hermann Lachapelle",wikidata,,Q618532,relation
+"Rue Hermann-Lachapelle",wikidata,,Q618532,relation
 "Rue Hermel",wikidata,,Q618532,relation+way
 "Rue Herran",wikidata,,Q618532,relation
 "Rue Honoré Chevalier",wikidata,,Q618532,relation
@@ -2106,7 +2106,6 @@ name,source,gender,wikidata,type
 "Avenue Transversale n° 1",,,,way
 "Avenue de Choisy",,,,relation+way
 "Avenue de Rouvray",,,,relation
-"Avenue de Verzy",,,,relation
 "Avenue de Villiers",,,,relation
 "Avenue de l'Ermitage",,,,relation
 "Avenue de la Cascade",,,,relation
@@ -2123,6 +2122,7 @@ name,source,gender,wikidata,type
 "Avenue des Tribunes",,,,relation
 "Avenue du Belvédère",,,,relation
 "Avenue du Boulevard",,,,way
+"Avenue du Docteur Lannelongue",,,,relation
 "Avenue du Général Archinard",,,,way
 "Avenue du Général d'Étrie",,,,way
 "Avenue du Roule",,,,relation
@@ -2134,7 +2134,6 @@ name,source,gender,wikidata,type
 "Boulevard Bineau",,,,relation
 "Boulevard Morbier",,,,way
 "Boulevard Périphérique Extérieur",,,,way
-"Boulevard Périphérique Intérieur",,,,way
 "Boulevard de Beauséjour",,,,relation
 "Boulevard de la Commanderie",,,,relation
 "Boulevard des Frères Voisins",,,,way
@@ -2197,6 +2196,7 @@ name,source,gender,wikidata,type
 "Cloître Saint-Séverin",,,,way
 "Cour Aguesseau",,,,way
 "Cour Carrée",,,,relation
+"Cour Clisson",,,,way
 "Cour Cuvier",,,,way
 "Cour Droussals",,,,way
 "Cour Greneta",,,,relation
@@ -2219,8 +2219,10 @@ name,source,gender,wikidata,type
 "Cour d'Avril",,,,way
 "Cour d'Honneur",,,,relation+way
 "Cour d'Oran",,,,relation
-"Cour d'honneur",,,,relation
+"Cour d'honneur",,,,relation+way
+"Cour de Clisson",,,,way
 "Cour de Février",,,,way
+"Cour de Guise",,,,way
 "Cour de Janvier",,,,way
 "Cour de Jonction",,,,way
 "Cour de Juin",,,,way
@@ -2245,6 +2247,7 @@ name,source,gender,wikidata,type
 "Cour des Grands Moulins",,,,way
 "Cour des Petites Écuries",,,,relation
 "Cour des Trois Frères",,,,relation
+"Cour des marroniers",,,,way
 "Cour du 36 Quai des Orfèvres",,,,way
 "Cour du Bel Air",,,,relation
 "Cour du Dépot",,,,way
@@ -2282,13 +2285,14 @@ name,source,gender,wikidata,type
 "Escalier Y",,,,way
 "Escalier Z",,,,way
 "Escalier d'Honneur",,,,way
+"Escalier d'honneur",,,,way
 "Escalier des Carrières du Jardin des Plantes",,,,way
 "Espace chapiteaux",,,,way
 "Esplanade André Tollet",,,,relation
 "Esplanade Bernard Duperier",,,,relation
 "Esplanade Léo Hamon",,,,way
 "Esplanade Renée Lebas",,,,way
-"Esplanade Valéry Giscard d'Estaing",,,,way
+"Esplanade Valéry Giscard d'Estaing",,,,relation
 "Esplanade d'Arménie",,,,relation
 "Esplanade des Feuillants",,,,way
 "Esplanade du Dinh",,,,way
@@ -2392,6 +2396,7 @@ Ledru-Rollin,,,,way
 "Parvis Radio France",,,,way
 "Parvis Verseau",,,,way
 "Parvis des 260 Enfants",,,,relation
+"Passage AO/20",,,,relation
 "Passage Anatole",,,,way
 "Passage Augier",,,,way
 "Passage B/10",,,,relation
@@ -2517,7 +2522,6 @@ Petit-Pont,,,,way
 "Place Emmanuel Lévinas",,,,relation
 "Place FO/13",,,,relation
 "Place Ferdinand Forest",,,,way
-"Place Gérard Oury",,,,relation
 "Place Hebert",,,,relation
 "Place Jean-Paul Sartre et Simone de Beauvoir",,,,way
 "Place Jeanne Bohec",,,,way
@@ -2567,14 +2571,13 @@ Petit-Pont,,,,way
 "Place du Puits de l'Ermite",,,,relation
 "Place du Tertre",,,,relation
 "Place en Hommage aux Femmes Victimes de Violence",,,,relation
-"Pont Amont",,,,way
-"Pont Aval",,,,way
 "Pont Berthier",,,,way
 "Pont Eiffel",,,,way
 "Pont Khmer",,,,way
 "Pont Marie",,,,relation+way
 "Pont Saint-Michel",,,,relation+way
 "Pont Tonkinois",,,,way
+"Pont de Suresnes",,,,way
 "Pont de la Salpêtrière",,,,way
 "Port Debilly",,,,relation
 "Port d'Auteuil",,,,way
@@ -2825,6 +2828,7 @@ Petit-Pont,,,,way
 "Rue Mesnil",,,,relation
 "Rue Michal",,,,relation
 "Rue Michel le Comte",,,,relation
+"Rue Michel-Ange",,,,way
 "Rue Mignet",,,,relation
 "Rue Mignon",,,,relation
 "Rue Mizon",,,,relation
@@ -2837,8 +2841,8 @@ Petit-Pont,,,,way
 "Rue Myrha",,,,relation
 "Rue Neuve Popincourt",,,,relation
 "Rue Neuve Tolbiac",,,,relation
+"Rue Neuve de la Chardonnière",,,,relation
 "Rue Neuve des Boulets",,,,relation
-"Rue Neuve la Chardonnière",,,,relation
 "Rue Nicolas Roret",,,,relation
 "Rue Notre-Dame de Lorette",,,,way
 "Rue Notre-Dame-de-Bonne-Nouvelle",,,,way
@@ -3346,9 +3350,7 @@ Sortie,,,,way
 "Terrasse du Jeu de Paume",,,,relation+way
 "Tunnel Champerret",,,,way
 "Tunnel Concorde",,,,way
-"Tunnel Fougères",,,,way
 "Tunnel Grand-Maillot",,,,way
-"Tunnel Lilas",,,,way
 "Tunnel d'Italie",,,,way
 "Tunnel d'Orléans",,,,way
 "Tunnel de l'Étoile",,,,way
@@ -3382,6 +3384,7 @@ Sortie,,,,way
 "Villa Georgina",,,,relation
 "Villa Hallé",,,,relation
 "Villa Hardy",,,,relation
+"Villa Henri Chevreau",,,,relation
 "Villa Herran",,,,relation
 "Villa Industrielle",,,,relation
 "Villa Jacquemont",,,,relation
@@ -3433,7 +3436,7 @@ Sortie,,,,way
 "Villa de la Terrasse",,,,relation
 "Villa de la Tour",,,,relation
 "Villa des Boërs",,,,relation
-"Villa des Buttes Chaumont",,,,relation
+"Villa des Buttes-Chaumont",,,,relation
 "Villa des Entrepreneurs",,,,relation
 "Villa des Falaises",,,,relation
 "Villa des Glizières",,,,relation
@@ -3483,7 +3486,6 @@ Sortie,,,,way
 "Voie AO/12",,,,relation
 "Voie AO/14",,,,relation
 "Voie AO/19",,,,relation
-"Voie AO/20",,,,relation
 "Voie AP/14",,,,relation
 "Voie AP/19",,,,relation
 "Voie AQ/16",,,,relation
@@ -3800,7 +3802,6 @@ Sortie,,,,way
 "Voie U/19",,,,relation
 "Voie V/12",,,,relation
 "Voie V/16",,,,relation
-"Voie V/20",,,,relation
 "Voie W/16",,,,relation
 "Voie X/16",,,,relation
 "Voie Y/18",,,,relation
