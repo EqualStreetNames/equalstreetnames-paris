@@ -73,7 +73,7 @@ name,source,gender,wikidata,type
 "Avenue de Wagram",wikidata,,Q467777,relation+way
 "Avenue de l'École de Joinville",wikidata,,Q3152447,relation
 "Avenue de l'Hippodrome",wikidata,,Q3135866,relation+way
-"Avenue de l'Observatoire",wikidata,,Q461340,relation
+"Avenue de l'Observatoire",wikidata,,Q461340,relation+way
 "Avenue de l'Opéra",wikidata,,Q187840,relation
 "Avenue de la Dhuys",wikidata,,Q3025732,relation
 "Avenue de la Grande Armée",wikidata,,Q504721,relation
@@ -136,7 +136,7 @@ name,source,gender,wikidata,type
 "Avenue du Bel Air",wikidata,,Q3413267,relation
 "Avenue du Cimetière des Batignolles",wikidata,,Q2655037,relation
 "Avenue du Coq",wikidata,,Q2971540,relation
-"Avenue du Maine",wikidata,,Q732738,relation+way
+"Avenue du Maine",wikidata,,Q732738,relation
 "Avenue du Nouveau Conservatoire",wikidata,,Q1094302,relation
 "Avenue du Parc de Passy",wikidata,,Q3364156,relation
 "Avenue du Père Lachaise",wikidata,,Q311,relation
@@ -155,7 +155,7 @@ name,source,gender,wikidata,type
 "Boulevard Saint-Jacques",wikidata,,Q3452300;Q43999,relation+way
 "Boulevard Saint-Marcel",wikidata,,Q1398337,relation+way
 "Boulevard Saint-Martin",wikidata,,Q1478999;Q656302;Q133704,relation
-"Boulevard Saint-Michel",wikidata,,Q1329076,relation
+"Boulevard Saint-Michel",wikidata,,Q1329076,relation+way
 "Boulevard d'Algérie",wikidata,,Q262,relation+way
 "Boulevard d'Auteuil",wikidata,,Q784536,relation
 "Boulevard d'Indochine",wikidata,,Q43467,relation
@@ -760,7 +760,7 @@ name,source,gender,wikidata,type
 "Place de l'Église d'Auteuil",wikidata,,Q1550337,relation
 "Place de l'Escadrille Normandie-Niemen",wikidata,,Q1345569,relation
 "Place de l'Estrapade",wikidata,,Q1545625,relation
-"Place de l'Hôtel-de-Ville - Esplanade de la Libération",wikidata,,Q640968,relation
+"Place de l'Hôtel-de-Ville - Esplanade de la Libération",wikidata,,Q640968;Q697829,relation
 "Place de l'Île de Sein",wikidata,,Q228472,relation
 "Place de l'Île de la Reunion",wikidata,,Q17070,relation
 "Place de l'Île de la Réunion",wikidata,,Q17070,relation
@@ -792,7 +792,7 @@ name,source,gender,wikidata,type
 "Place de la Porte de Passy",wikidata,,Q3399078,relation
 "Place de la Porte de Saint-Cloud",wikidata,,Q1974824,relation
 "Place de la Porte de Vanves",wikidata,,Q3399099,relation
-"Place de la Porte de Versailles",wikidata,,Q3399102,relation
+"Place de la Porte de Versailles",wikidata,,Q3399102,relation+way
 "Place de la République",wikidata,,Q7270,relation+way
 "Place de la République Dominicaine",wikidata,,Q786,relation
 "Place de la République de Panama",wikidata,,Q804,relation
@@ -822,7 +822,6 @@ name,source,gender,wikidata,type
 "Place du 22 Novembre 1943",wikidata,,Q10560877,relation
 "Place du 25 Août 1944",wikidata,,Q696835,relation
 "Place du 8 Novembre 1942",wikidata,,Q194132,relation
-"Place du 8-Février-1962",wikidata,,Q2825948,way
 "Place du Bataillon Français de l'ONU en Corée",wikidata,,Q488964,relation
 "Place du Bataillon du Pacifique",wikidata,,Q3455192,relation
 "Place du Caire",wikidata,,Q85,relation
@@ -935,7 +934,7 @@ name,source,gender,wikidata,type
 "Route des Pins",wikidata,,Q12024,relation
 "Route du Bac",wikidata,,Q2878108,relation
 "Route du Fort de Gravelle",wikidata,,Q3422936,relation
-"Route du Lac de Saint-Mandé",wikidata,,Q384109,relation
+"Route du Lac de Saint-Mandé",wikidata,,Q384109,relation+way
 "Route l'Asile National",wikidata,,Q30279947,relation
 "Rue Abel Rabaud",wikidata,,Q618532,relation
 "Rue Achille",wikidata,,Q618532,relation
@@ -966,6 +965,7 @@ name,source,gender,wikidata,type
 "Rue Bénard",wikidata,,Q618532,relation
 "Rue Bessières",wikidata,,Q2921783,relation
 "Rue Blanche",wikidata,,Q23444,relation
+"Rue Boissière",wikidata,,Q158703,relation
 "Rue Bosquet",wikidata,,Q2873537,relation
 "Rue Boucry",wikidata,,Q618532,relation
 "Rue Bouilloux-Lafont",wikidata,,Q618532,relation
@@ -1679,7 +1679,7 @@ name,source,gender,wikidata,type
 "Rue des Deux Avenues",wikidata,,Q2873911;Q2873898,relation+way
 "Rue des Deux Gares",wikidata,,Q745942;Q757180,relation
 "Rue des Deux Ponts",wikidata,,Q963509;Q513655,relation
-"Rue des Écluses Saint-Martin",wikidata,,Q105731,relation
+"Rue des Écluses Saint-Martin",wikidata,,Q105731,relation+way
 "Rue des Épinettes",wikidata,,Q2426877,relation
 "Rue des Fêtes",wikidata,,Q200538,relation
 "Rue des Filles Saint-Thomas",wikidata,,Q3001715,relation
@@ -1862,7 +1862,7 @@ name,source,gender,wikidata,type
 "Rue du Surmelin",wikidata,,Q2368614,relation
 "Rue du Tage",wikidata,,Q14294,relation
 "Rue du Télégraphe",wikidata,,Q3546615,relation
-"Rue du Temple",wikidata,,Q3280072;Q3413286,relation+way
+"Rue du Temple",wikidata,,Q3280072;Q3413286,relation
 "Rue du Texel",wikidata,,Q9966,relation
 "Rue du Théâtre",wikidata,,Q3527472,relation
 "Rue du Tibre",wikidata,,Q13712,relation
@@ -2247,6 +2247,7 @@ name,source,gender,wikidata,type
 "Cour des Grands Moulins",,,,way
 "Cour des Petites Écuries",,,,relation
 "Cour des Trois Frères",,,,relation
+"Cour des chevaux du Soleil",,,,way
 "Cour des marroniers",,,,way
 "Cour du 36 Quai des Orfèvres",,,,way
 "Cour du Bel Air",,,,relation
@@ -2327,7 +2328,6 @@ Hémicycle,,,,way
 "Impasse Maubert",,,,relation
 "Impasse Milord",,,,relation+way
 "Impasse Mousseau",,,,relation
-"Impasse Putigneux",,,,relation
 "Impasse Rothschild",,,,relation
 "Impasse Saint-Ange",,,,relation
 "Impasse Saint-Fiacre",,,,relation
@@ -2362,6 +2362,7 @@ Hémicycle,,,,way
 "Impasse du Pilier",,,,relation
 "Impasse du Rouet",,,,relation
 "Impasse du Talus",,,,relation
+"Jardin Arnaud Beltrame",,,,way
 "Jardin Francais",,,,way
 "Jardin de la Porte de Saint-Cloud",,,,relation
 "Jardin des Présentateurs",,,,way
@@ -2489,7 +2490,7 @@ Ledru-Rollin,,,,way
 "Passage des Soupirs",,,,relation
 "Passage des Voûtes",,,,way
 "Passage du Bourg l'Abbé",,,,relation
-"Passage du Bureau",,,,relation
+"Passage du Bureau",,,,relation+way
 "Passage du Champ Marie",,,,relation
 "Passage du Champ à Loup",,,,relation
 "Passage du Chantier",,,,relation
@@ -2542,7 +2543,6 @@ Petit-Pont,,,,way
 "Place Saint-Jean",,,,relation
 "Place Saint-Pierre",,,,relation
 "Place Sans Nom",,,,relation
-"Place Stuart Merril",,,,relation
 "Place de Dublin",,,,way
 "Place de Flore",,,,relation
 "Place de Thorigny",,,,relation
@@ -2554,6 +2554,7 @@ Petit-Pont,,,,way
 "Place des Combattantes et Combattants du Sida",,,,relation
 "Place des Combattants en Afrique du Nord",,,,relation
 "Place des Droits de l'Enfant",,,,relation
+"Place des Généraux de Trentinian",,,,relation
 "Place des Grès",,,,relation
 "Place des Magasins de l'Opéra Comique",,,,way
 "Place des Martyrs de la Résistance de la Porte de Sèvres",,,,relation
@@ -2720,7 +2721,6 @@ Petit-Pont,,,,way
 "Rue Bleue",,,,relation+way
 "Rue Blomet",,,,relation
 "Rue Bois le Vent",,,,relation
-"Rue Boissière",,,,relation
 "Rue Boucher",,,,relation
 "Rue Boudreau",,,,relation
 "Rue Boutebrie",,,,relation
@@ -3266,6 +3266,7 @@ Petit-Pont,,,,way
 "Ruelle Planchette",,,,relation
 "Ruelle Sourdis",,,,relation
 "Ruelle au Père Fragile",,,,relation
+"Ruelle de la Roche",,,,way
 "Ruelle du Soleil d'Or",,,,relation
 "Saint-Marcel Jeanne d'Arc",,,,way
 "Sente à Bigot",,,,relation
@@ -3348,12 +3349,12 @@ Sortie,,,,way
 "Terrasse des Tuileries",,,,way
 "Terrasse du Bord de l'Eau",,,,way
 "Terrasse du Jeu de Paume",,,,relation+way
-"Tunnel Champerret",,,,way
 "Tunnel Concorde",,,,way
 "Tunnel Grand-Maillot",,,,way
 "Tunnel d'Italie",,,,way
 "Tunnel d'Orléans",,,,way
 "Tunnel de l'Étoile",,,,way
+"Tunnel des Noisettes",,,,way
 "Villa Adrienne Simon",,,,relation
 "Villa Amalia",,,,relation
 "Villa Amélie",,,,relation
@@ -3812,7 +3813,6 @@ Sortie,,,,way
 "Voie de/13",,,,relation
 "Voie de/19",,,,relation
 "Voie du/13",,,,relation
-"allée du Conseiller Hubert",,,,way
 é,,,,way
 oo,,,,relation
 "rampe PMR",,,,way

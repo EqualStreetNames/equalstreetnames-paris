@@ -554,7 +554,7 @@ name,source,gender,wikidata,type
 "Avenue Ruysdaël",wikidata,M,Q213612,relation
 "Avenue Secrétan",wikidata,M,Q15983918;Q16855048,relation
 "Avenue Silvestre de Sacy",wikidata,M,Q507774,relation
-"Avenue Simón Bolívar",wikidata,M,Q8605,relation
+"Avenue Simón Bolívar",wikidata,M,Q8605,relation+way
 "Avenue Stéphane Mallarmé",wikidata,M,Q767,relation
 "Avenue Stephen Pichon",wikidata,M,Q1069292,relation
 "Avenue Sully Prudhomme",wikidata,M,Q42247,relation
@@ -705,7 +705,6 @@ name,source,gender,wikidata,type
 "Cité de Crussol",wikidata,M,Q2833333,relation
 "Cité du Cardinal Lemoine",wikidata,M,Q721081,relation
 "Coulée Verte René-Dumont",wikidata,M,Q927879,relation+way
-"Coulée verte René-Dumont",wikidata,M,Q927879,way
 "Cour Jasmin",wikidata,M,Q960754,relation
 "Cour Lefuel",wikidata,M,Q323877,way
 "Cour Manet",wikidata,M,Q40599,way
@@ -1006,7 +1005,6 @@ name,source,gender,wikidata,type
 "Place Paul Claudel",wikidata,M,Q295830,relation
 "Place Paul Delouvrier",wikidata,M,Q2447812,relation
 "Place Paul Éluard",wikidata,M,Q152176,relation+way
-"Place Paul Leautaud",wikidata,M,Q960018,relation
 "Place Paul Painlevé",wikidata,M,Q315434,relation
 "Place Paul Reynaud",wikidata,M,Q161076,relation
 "Place Paul Ricoeur",wikidata,M,Q192066,relation
@@ -1077,7 +1075,6 @@ name,source,gender,wikidata,type
 "Place de l'Adjudant Vincenot",wikidata,M,Q26261670,relation
 "Place de l'Amiral de Grasse",wikidata,M,Q197627,relation
 "Place de l’Émir Abdelkader",wikidata,M,Q179825,relation
-"Place des Généraux de Trentinian",wikidata,M,Q428442,relation
 "Place des Vosges",wikidata,M,Q3105;Q737533,relation+way
 "Place du Cardinal Lavigerie",wikidata,M,Q369832,relation
 "Place du Chancelier Adenauer",wikidata,M,Q2492,relation
@@ -1311,7 +1308,7 @@ name,source,gender,wikidata,type
 "Rue Beccaria",wikidata,M,Q223723,relation
 "Rue Becquerel",wikidata,M,Q41269,relation
 "Rue Beethoven",wikidata,M,Q255,relation
-"Rue Belgrand",wikidata,M,Q528604,relation
+"Rue Belgrand",wikidata,M,Q528604,relation+way
 "Rue Bélidor",wikidata,M,Q767329,relation
 "Rue Bellart",wikidata,M,Q2389869,relation
 "Rue Belliard",wikidata,M,Q767534,relation
@@ -1381,7 +1378,7 @@ name,source,gender,wikidata,type
 "Rue Brancion",wikidata,M,Q2984211,relation
 "Rue Brantôme",wikidata,M,Q733270,relation
 "Rue Bréa",wikidata,M,Q3170537,relation
-"Rue Bréguet",wikidata,M,Q123679,relation+way
+"Rue Bréguet",wikidata,M,Q123679,relation
 "Rue Brémontier",wikidata,M,Q3340160,relation
 "Rue Bretonneau",wikidata,M,Q2004700,relation
 "Rue Brey",wikidata,M,Q26310775,relation
@@ -1577,7 +1574,7 @@ name,source,gender,wikidata,type
 "Rue Dalou",wikidata,M,Q551648,relation
 "Rue Damesme",wikidata,M,Q3579714,relation+way
 "Rue Dampierre",wikidata,M,Q711434,relation
-"Rue Damremont",wikidata,M,Q2958241,relation
+"Rue Damrémont",wikidata,M,Q2958241,relation
 "Rue Dancourt",wikidata,M,Q2437020,relation
 "Rue Dangeau",wikidata,M,Q1881019,relation
 "Rue Dante",wikidata,M,Q1067,relation
@@ -2988,7 +2985,7 @@ name,source,gender,wikidata,type
 "Rue du Docteur Victor Hutinel",wikidata,M,Q3557364,relation
 "Rue du Douanier Rousseau",wikidata,M,Q156386,relation
 "Rue du Général Alain de Boissieu",wikidata,M,Q369948,relation
-"Rue du Général Anselin",wikidata,M,Q15971693,relation
+"Rue du Général Anselin",wikidata,M,Q15971693,relation+way
 "Rue du Général Archinard",wikidata,M,Q1379149,relation
 "Rue du Général Aube",wikidata,M,Q23912180,relation
 "Rue du Général Baratier",wikidata,M,Q2830940,relation
