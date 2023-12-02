@@ -76,7 +76,7 @@ name,source,gender,wikidata,type
 "Avenue de l'Observatoire",wikidata,,Q461340,relation+way
 "Avenue de l'Opéra",wikidata,,Q187840,relation
 "Avenue de la Dhuys",wikidata,,Q3025732,relation
-"Avenue de la Grande Armée",wikidata,,Q504721,relation
+"Avenue de la Grande Armée",wikidata,,Q504721,relation+way
 "Avenue de la Pépinière",wikidata,,Q155511,relation
 "Avenue de la Porte Brancion",wikidata,,Q3398898,relation
 "Avenue de la Porte Brunet",wikidata,,Q3398901,relation+way
@@ -842,8 +842,8 @@ name,source,gender,wikidata,type
 "Place du Petit Pont",wikidata,,Q1323635,relation+way
 "Place du Pont Neuf",wikidata,,Q335277,relation
 "Place du Québec",wikidata,,Q176,relation+way
-"Place du Trocadéro et du 11 Novembre",wikidata,,Q968531;Q253224,way
-"Place du Trocadéro et du 11 Novembre 1918",wikidata,,Q968531;Q253224,relation
+"Place du Trocadéro et du 11 Novembre",wikidata,,Q104541845;Q253224,way
+"Place du Trocadéro et du 11 Novembre 1918",wikidata,,Q104541845;Q253224,relation
 "Place du Vénézuela",wikidata,,Q717,relation
 "Place l'Église de l'Assomption",wikidata,,Q3580252,relation
 "Pont Levant de la Rue de Crimée",wikidata,,Q3450694,way
@@ -898,7 +898,7 @@ name,source,gender,wikidata,type
 "Quai de l'Hôtel de Ville",wikidata,,Q640968,relation+way
 "Quai de l'Oise",wikidata,,Q200231,relation
 "Quai de l'Ourcq",wikidata,,Q945377,relation+way
-"Quai de la Corse",wikidata,,Q14112,relation
+"Quai de la Corse - Pasquale Paoli",wikidata,,Q14112;Q152346,relation
 "Quai de la Gare",wikidata,,Q97323736,relation
 "Quai de la Garonne",wikidata,,Q5077,relation
 "Quai de la Gironde",wikidata,,Q213517,relation+way
@@ -1099,7 +1099,7 @@ name,source,gender,wikidata,type
 "Rue Lantiez",wikidata,,Q618532,relation
 "Rue Larribe",wikidata,,Q618532,relation
 "Rue Lasson",wikidata,,Q12794619;Q618532,relation
-"Rue Lauzin",wikidata,,Q618532,relation
+"Rue Lauzin",wikidata,,Q618532,relation+way
 "Rue Lebouis",wikidata,,Q618532,relation
 "Rue Lebouteux",wikidata,,Q618532,relation
 "Rue Lechapelais",wikidata,,Q618532,relation
@@ -1126,7 +1126,7 @@ name,source,gender,wikidata,type
 "Rue Louis Puteaux",wikidata,,Q618532,relation
 "Rue Lucien Leuwen",wikidata,,Q2307875,relation
 "Rue Magenta",wikidata,,Q681430,relation+way
-"Rue Marbeau",wikidata,,Q47536342;Q618532,relation+way
+"Rue Marbeau",wikidata,,Q618532,relation
 "Rue Marie Benoist",wikidata,,Q12794619;Q618532,relation
 "Rue Masseran",wikidata,,Q3145893,relation
 "Rue Mathis",wikidata,,Q618532,relation
@@ -1309,7 +1309,7 @@ name,source,gender,wikidata,type
 "Rue de Bigorre",wikidata,,Q859779,relation
 "Rue de Bizerte",wikidata,,Q189546,relation
 "Rue de Bouvines",wikidata,,Q830626,relation
-"Rue de Bretagne",wikidata,,Q327,relation
+"Rue de Bretagne",wikidata,,Q327,relation+way
 "Rue de Bretonvilliers",wikidata,,Q19791978;Q618532,relation
 "Rue de Bruxelles",wikidata,,Q239,relation
 "Rue de Bucarest",wikidata,,Q19660,relation
@@ -1364,7 +1364,7 @@ name,source,gender,wikidata,type
 "Rue de Domrémy",wikidata,,Q209069,relation
 "Rue de Douai",wikidata,,Q193826,relation
 "Rue de Dreux",wikidata,,Q142410,relation
-"Rue de Dunkerque",wikidata,,Q45797,relation
+"Rue de Dunkerque",wikidata,,Q45797,relation+way
 "Rue de Fécamp",wikidata,,Q23824393,relation
 "Rue de Fleurus",wikidata,,Q678227,relation
 "Rue de Florence",wikidata,,Q2044,relation
@@ -1918,7 +1918,7 @@ name,source,gender,wikidata,type
 "Square du Sancerrois",wikidata,,Q3471687,relation
 "Square du Tarn",wikidata,,Q215653,relation
 "Square du Thimerais",wikidata,,Q3526183,relation
-"Square du Trocadéro",wikidata,,Q968531,relation
+"Square du Trocadéro",wikidata,,Q104541845,relation
 "Square du Var",wikidata,,Q933979,relation
 "Square du Velay",wikidata,,Q1588777,relation
 "Square du Vermandois",wikidata,,Q26385,relation
@@ -2306,6 +2306,7 @@ name,source,gender,wikidata,type
 "Galerie Point Show",,,,way
 "Galerie Saint-Jean",,,,way
 "Galerie Sainte-Geneviève",,,,way
+"Galerie Sevrien",,,,way
 "Galerie des Proues",,,,relation
 "Galerie des Sept Parnassiens",,,,way
 "Grand Balcon",,,,relation
@@ -2680,7 +2681,7 @@ Petit-Pont,,,,way
 "Route des Lacs",,,,relation
 "Route des Lacs à Bagatelle",,,,relation+way
 "Route des Lacs à Madrid",,,,relation
-"Route des Lacs à Passy",,,,relation
+"Route des Lacs à Passy",,,,relation+way
 "Route des Pelouses",,,,relation
 "Route des Pelouses Marigny",,,,relation
 "Route des Petits Ponts",,,,relation
@@ -2873,7 +2874,7 @@ Petit-Pont,,,,way
 "Rue Sacrot",,,,way
 "Rue Saint-Bon",,,,relation
 "Rue Saint-Didier",,,,relation
-"Rue Saint-Ferdinand",,,,relation
+"Rue Saint-Ferdinand",,,,relation+way
 "Rue Saint-Georges",,,,relation
 "Rue Saint-Guillaume",,,,relation
 "Rue Saint-Jacques",,,,relation+way
@@ -3027,7 +3028,7 @@ Petit-Pont,,,,way
 "Rue de la Jonquière",,,,relation
 "Rue de la Jussienne",,,,relation
 "Rue de la Lancette",,,,relation
-"Rue de la Lingerie",,,,relation
+"Rue de la Lingerie",,,,relation+way
 "Rue de la Main d'Or",,,,relation
 "Rue de la Maison Blanche",,,,relation
 "Rue de la Manutention",,,,relation
@@ -3813,7 +3814,7 @@ Sortie,,,,way
 "Voie de/13",,,,relation
 "Voie de/19",,,,relation
 "Voie du/13",,,,relation
-é,,,,way
+éa,,,,way
 oo,,,,relation
 "rampe PMR",,,,way
 "rue Abel Truchet",,,,way

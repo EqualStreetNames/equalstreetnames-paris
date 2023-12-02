@@ -657,7 +657,7 @@ name,source,gender,wikidata,type
 "Boulevard Masséna",wikidata,M,Q242609,relation+way
 "Boulevard Morland",wikidata,M,Q3085220,relation
 "Boulevard Mortier",wikidata,M,Q273883,relation+way
-"Boulevard Murat",wikidata,M,Q151173,relation
+"Boulevard Murat",wikidata,M,Q151173;Q945147,relation+way
 "Boulevard Ney",wikidata,M,Q40756,relation+way
 "Boulevard Ornano",wikidata,M,Q128777,relation
 "Boulevard Pasteur",wikidata,M,Q529,relation
@@ -1619,7 +1619,6 @@ name,source,gender,wikidata,type
 "Rue Dieu",wikidata,M,Q17354293,relation
 "Rue Dieudonné Costes",wikidata,M,Q563399,relation
 "Rue Dieulafoy",wikidata,M,Q138791,relation
-"Rue Docteur Blanche",wikidata,M,Q3058532,relation
 "Rue Docteur Germain Sée",wikidata,M,Q5550995,relation
 "Rue Dolomieu",wikidata,M,Q380520,relation
 "Rue Domat",wikidata,M,Q1347043,relation
@@ -2612,7 +2611,7 @@ name,source,gender,wikidata,type
 "Rue Rubens",wikidata,M,Q5599,relation
 "Rue Rude",wikidata,M,Q346491,relation
 "Rue Rudolf Noureev",wikidata,M,Q84217,relation
-"Rue Ruhmkorff",wikidata,M,Q60992,relation
+"Rue Ruhmkorff",wikidata,M,Q60992,relation+way
 "Rue Sadi Carnot",wikidata,M,Q215778,relation
 "Rue Sadi-Lecointe",wikidata,M,Q3185610,relation
 "Rue Saillard",wikidata,M,Q64524673,relation
@@ -2782,7 +2781,7 @@ name,source,gender,wikidata,type
 "Rue Washington",wikidata,M,Q23,relation
 "Rue Watt",wikidata,M,Q9041,relation
 "Rue Watteau",wikidata,M,Q183221,relation
-"Rue Weber",wikidata,M,Q154812,relation+way
+"Rue Weber",wikidata,M,Q154812,relation
 "Rue Wilfrid Laurier",wikidata,M,Q128664,relation
 "Rue Wilhem",wikidata,M,Q3568257,relation
 "Rue Wurtz",wikidata,M,Q366051,relation
@@ -2962,6 +2961,7 @@ name,source,gender,wikidata,type
 "Rue du Conventionnel Chiappe",wikidata,M,Q3171296,relation
 "Rue du Couédic",wikidata,M,Q2959693,relation
 "Rue du Docteur Babinski",wikidata,M,Q313062,relation
+"Rue du Docteur Blanche",wikidata,M,Q3058532,relation
 "Rue du Docteur Bourneville",wikidata,M,Q725491,relation
 "Rue du Docteur Charles Richet",wikidata,M,Q214851,relation
 "Rue du Docteur Finlay",wikidata,M,Q742233,relation
