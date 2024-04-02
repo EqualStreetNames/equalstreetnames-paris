@@ -193,7 +193,7 @@ name,source,gender,wikidata,type
 "Boulevard des Capucines",wikidata,,Q1728836;Q691196,relation+way
 "Boulevard des Filles du Calvaire",wikidata,,Q1643458,relation
 "Boulevard des Invalides",wikidata,,Q188977,relation
-"Boulevard des Italiens",wikidata,,Q1581237,relation
+"Boulevard des Italiens",wikidata,,Q1581237,relation+way
 "Boulevard du Bois le Prêtre",wikidata,,Q2985006,relation
 "Boulevard du Fort-de-Vaux",wikidata,,Q1438801,relation
 "Boulevard du Montparnasse",wikidata,,Q211604,relation+way
@@ -294,13 +294,18 @@ name,source,gender,wikidata,type
 "Cour Viguès",wikidata,,Q618532;Q28020628,relation
 "Cour d'Alger",wikidata,,Q3561,relation
 "Cour d'Alsace Lorraine",wikidata,,Q155144,relation
+"Cour d'Angoulême",wikidata,,Q134346,way
+"Cour d'Arles",wikidata,,Q48292,way
 "Cour d'Austerlitz",wikidata,,Q134114,way
+"Cour d'Honneur",wikidata,,Q869423,relation+way
+"Cour d'Oran",wikidata,,Q131818,relation
 "Cour de Metz",wikidata,,Q22690,way
 "Cour de Nismes",wikidata,,Q42807,way
 "Cour de Rome",wikidata,,Q220,relation
 "Cour de Toulon",wikidata,,Q44160,relation
 "Cour de l'Île Louviers",wikidata,,Q175164,relation
 "Cour de l'Industrie",wikidata,,Q8148,relation
+"Cour de l'Infirmerie",wikidata,,Q3150754,relation
 "Cour de la Ferme Saint-Lazare",wikidata,,Q3053797,relation+way
 "Cour de la Sainte-Chapelle",wikidata,,Q193193,way
 "Cour de la Victoire",wikidata,,Q50000,way
@@ -309,6 +314,7 @@ name,source,gender,wikidata,type
 "Cour du Chêne Vert",wikidata,,Q33036816,relation
 "Cour du Commerce Saint-André",wikidata,,Q1068824,relation
 "Cour du Coq",wikidata,,Q618532,relation
+"Cour du Dôme",wikidata,,Q152109,way
 "Cour du Ginkgo",wikidata,,Q149461,relation
 "Cour du Havre",wikidata,,Q42810,relation
 "Cour du Levant",wikidata,,Q684,relation
@@ -741,8 +747,8 @@ name,source,gender,wikidata,type
 "Place de Colombie",wikidata,,Q739,relation
 "Place de Costa Rica",wikidata,,Q800,relation
 "Place de Finlande",wikidata,,Q33,relation
-"Place de Fontenoy",wikidata,,Q569953;Q7809,relation+way
-"Place de Fontenoy - UNESCO",wikidata,,Q569953;Q7809,relation+way
+"Place de Fontenoy",wikidata,,Q569953,relation+way
+"Place de Fontenoy - UNESCO",wikidata,,Q569953;Q7809;Q7809,relation+way
 "Place de Jérusalem",wikidata,,Q1218,relation
 "Place de Lévis",wikidata,,Q3450850,relation
 "Place de Ménilmontant",wikidata,,Q2701404,relation
@@ -807,7 +813,7 @@ name,source,gender,wikidata,type
 "Place de la République",wikidata,,Q7270,relation+way
 "Place de la République Dominicaine",wikidata,,Q786,relation
 "Place de la République de Panama",wikidata,,Q804,relation
-"Place de la Résistance",wikidata,,Q13363209;Q186595,relation+way
+"Place de la Résistance",wikidata,,Q13363209;Q186595;Q157146,relation+way
 "Place de la Réunion",wikidata,,Q17070,relation
 "Place de la Sorbonne",wikidata,,Q214654,relation
 "Place des 44 Enfants d'Izieu",wikidata,,Q879685,relation
@@ -2027,10 +2033,8 @@ name,source,gender,wikidata,type
 "Allée Brongniart",,,,way
 "Allée Cavalière",,,,way
 "Allée Centrale",,,,way
-"Allée Charlotte Perriand",,,,relation
 "Allée Chauveau Lagarde",,,,way
 "Allée Chevreul",,,,way
-"Allée Christian Pineau",,,,relation
 "Allée Circulaire",,,,way
 "Allée Claude Mademba-Sy",,,,way
 "Allée Claude Montal",,,,relation
@@ -2049,8 +2053,6 @@ name,source,gender,wikidata,type
 "Allée Marcel Bernard",,,,way
 "Allée Mary Reynolds",,,,relation+way
 "Allée Nord Chatrier",,,,way
-"Allée Pierre Herbart",,,,way
-"Allée Pierre et Françoise de Menthon",,,,way
 "Allée Principale",,,,way
 "Allée Raffet",,,,way
 "Allée Roger Heim",,,,way
@@ -2159,7 +2161,6 @@ name,source,gender,wikidata,type
 "Boulevard de Beauséjour",,,,relation
 "Boulevard de la Commanderie",,,,relation
 "Boulevard des Frères Voisins",,,,way
-"Boylevard Garibaldi",,,,way
 "Bretelle de contournement de la place Valhubert",,,,way
 "Butte Mortemart",,,,relation
 "Carré Descaisne",,,,way
@@ -2240,6 +2241,7 @@ name,source,gender,wikidata,type
 "Cour Mollé",,,,way
 "Cour Montesquieu",,,,way
 "Cour Morland",,,,relation
+"Cour Rabelais",,,,way
 "Cour Saint-Émilion",,,,relation
 "Cour Saint-Hilaire",,,,way
 "Cour Saint-Jacques",,,,way
@@ -2249,11 +2251,7 @@ name,source,gender,wikidata,type
 "Cour Sainte-Claire",,,,relation
 "Cour Sainte-Marguerite",,,,way
 "Cour Tubeuf",,,,way
-"Cour d'Angoulême",,,,way
-"Cour d'Arles",,,,way
 "Cour d'Avril",,,,way
-"Cour d'Honneur",,,,relation+way
-"Cour d'Oran",,,,relation
 "Cour d'honneur",,,,relation+way
 "Cour de Boisgeslin",,,,way
 "Cour de Clisson",,,,way
@@ -2267,7 +2265,6 @@ name,source,gender,wikidata,type
 "Cour de l'Église",,,,relation
 "Cour de l'Étoile d'Or",,,,relation
 "Cour de l'Horloge",,,,way
-"Cour de l'Infirmerie",,,,relation
 "Cour de l'Ours",,,,relation
 "Cour de l'hôtel Magny",,,,way
 "Cour de la Grâce de Dieu",,,,relation
@@ -2287,7 +2284,6 @@ name,source,gender,wikidata,type
 "Cour du 36 Quai des Orfèvres",,,,way
 "Cour du Bel Air",,,,relation
 "Cour du Dépot",,,,way
-"Cour du Dôme",,,,way
 "Cour du Liégat",,,,relation
 "Cour du Mai",,,,way
 "Cour du Nir",,,,way
@@ -2328,7 +2324,6 @@ name,source,gender,wikidata,type
 "Esplanade Bernard Duperier",,,,relation
 "Esplanade Léo Hamon",,,,way
 "Esplanade Renée Lebas",,,,way
-"Esplanade Valéry Giscard d'Estaing",,,,relation
 "Esplanade d'Arménie",,,,relation
 "Esplanade du Dinh",,,,way
 "Esplanade du Hall",,,,way
@@ -2627,7 +2622,6 @@ Petit-Pont,,,,way
 "Quai Marcel Boyer",,,,relation+way
 "Quai Saint-Bernard",,,,relation
 "Quai Transversal",,,,way
-"Quai d'Orsay",,,,relation+way
 "Quai de Conti",,,,relation+way
 "Quai de Gesvres",,,,relation
 "Quai de l'Archevêché",,,,relation
@@ -2795,7 +2789,6 @@ Petit-Pont,,,,way
 "Rue Juge",,,,relation
 "Rue Jules David",,,,relation
 "Rue Jules Pichard",,,,relation
-"Rue Lallier",,,,relation+way
 "Rue Lapeyrere",,,,relation
 "Rue Larochelle",,,,relation
 "Rue Laurence Savart",,,,relation
@@ -3107,7 +3100,7 @@ Petit-Pont,,,,way
 "Rue des Lions Saint-Paul",,,,relation
 "Rue des Longues Raies",,,,relation
 "Rue des Lyanes",,,,relation
-"Rue des Malmaisons",,,,relation
+"Rue des Malmaisons",,,,relation+way
 "Rue des Maraîchers",,,,relation
 "Rue des Marchais",,,,relation
 "Rue des Mariniers",,,,relation
@@ -3208,7 +3201,6 @@ Petit-Pont,,,,way
 "Rue du Grenier Saint-Lazare",,,,relation
 "Rue du Grenier sur l'Eau",,,,relation
 "Rue du Gril",,,,relation
-"Rue du Guesclin",,,,relation
 "Rue du Guignier",,,,relation
 "Rue du Hameau",,,,relation
 "Rue du Haut Pavé",,,,relation
