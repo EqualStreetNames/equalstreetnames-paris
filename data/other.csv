@@ -90,7 +90,6 @@ name,source,gender,wikidata,type
 "Avenue de la Porte d'Auteuil",wikidata,,Q3398997,relation
 "Avenue de la Porte d'Italie",wikidata,,Q2284885,relation
 "Avenue de la Porte d'Ivry",wikidata,,Q3399010,relation
-"Avenue de la Porte d'Orléans",wikidata,,Q2537524,relation+way
 "Avenue de la Porte de Bagnolet",wikidata,,Q3399017,relation+way
 "Avenue de la Porte de Champerret",wikidata,,Q3399020,way
 "Avenue de la Porte de Charenton",wikidata,,Q2085027,relation+way
@@ -128,7 +127,6 @@ name,source,gender,wikidata,type
 "Avenue des Gobelins",wikidata,,Q732312,relation
 "Avenue des Minimes",wikidata,,Q1367736,relation
 "Avenue des Nations Unies",wikidata,,Q1065,relation
-"Avenue des Nations-Unies",wikidata,,Q1065,way
 "Avenue des Pavillons",wikidata,,Q276173,relation
 "Avenue des Peupliers",wikidata,,Q30456678,relation
 "Avenue des Sycomores",wikidata,,Q3506777,relation
@@ -156,7 +154,7 @@ name,source,gender,wikidata,type
 "Boulevard Saint-Germain",wikidata,,Q255910,relation
 "Boulevard Saint-Jacques",wikidata,,Q3452300;Q43999,relation+way
 "Boulevard Saint-Marcel",wikidata,,Q1398337;Q166691,relation+way
-"Boulevard Saint-Martin",wikidata,,Q1478999;Q656302;Q133704,relation
+"Boulevard Saint-Martin",wikidata,,Q1478999;Q656302;Q133704,relation+way
 "Boulevard Saint-Michel",wikidata,,Q1329076,relation+way
 "Boulevard d'Algérie",wikidata,,Q262,relation+way
 "Boulevard d'Auteuil",wikidata,,Q784536,relation
@@ -176,7 +174,7 @@ name,source,gender,wikidata,type
 "Boulevard de Picpus",wikidata,,Q3413171;Q3413171;Q23824537,relation+way
 "Boulevard de Port-Royal",wikidata,,Q2820659,relation+way
 "Boulevard de Reims",wikidata,,Q41876,relation+way
-"Boulevard de Reuilly",wikidata,,Q3451004;Q2970364,relation+way
+"Boulevard de Reuilly",wikidata,,Q2970364;Q3451004;Q2970364,relation+way
 "Boulevard de Rochechouart",wikidata,,Q3451012;Q3290789,way
 "Boulevard de Sébastopol",wikidata,,Q7525,relation
 "Boulevard de Strasbourg",wikidata,,Q6602,relation+way
@@ -206,7 +204,7 @@ name,source,gender,wikidata,type
 "Carrefour de la Patte d'Oie",wikidata,,Q14396423,relation
 "Carrefour de la Pyramide",wikidata,,Q3411287,relation
 "Carrefour des Anciens Combattants",wikidata,,Q193891,relation+way
-"Carrefour des Théâtres",wikidata,,Q24354,relation+way
+"Carrefour des Théâtres",wikidata,,Q24354,relation
 "Chemin de Suresnes à Bagatelle",wikidata,,Q193929,relation
 "Chemin de la Croix Catelan",wikidata,,Q3003238,relation
 "Chemin de la Seine à Bagatelle",wikidata,,Q1471,relation
@@ -345,7 +343,7 @@ name,source,gender,wikidata,type
 "Galerie des Variétés",wikidata,,Q373890,relation
 "Galerie du Caire",wikidata,,Q85,relation
 "Galerie du Jardin",wikidata,,Q3162586,relation
-"Galerie du Théatre Français",wikidata,,Q61460498,way
+"Galerie du Théatre Français",wikidata,,Q836007,way
 "Hameau Boulainvilliers",wikidata,,Q2968618,relation
 "Hameau du Danube",wikidata,,Q1653,relation
 "Impasse Alexandre Lecuyer",wikidata,,Q618532,relation
@@ -722,6 +720,7 @@ name,source,gender,wikidata,type
 "Place Nationale",wikidata,,Q622774,relation
 "Place Pigalle",wikidata,,Q3448435,relation
 "Place Saint-André des Arts",wikidata,,Q1230964,relation
+"Place Saint-Augustin",wikidata,,Q550157,relation
 "Place Saint-Charles",wikidata,,Q3449851;Q7758,relation+way
 "Place Saint-Estèphe",wikidata,,Q188750,relation+way
 "Place Saint-Fargeau",wikidata,,Q15940219,relation
@@ -798,7 +797,8 @@ name,source,gender,wikidata,type
 "Place de la Laïcité",wikidata,,Q216920,relation
 "Place de la Madeleine",wikidata,,Q330564,relation+way
 "Place de la Montagne du Goulet",wikidata,,Q12948958,relation
-"Place de la Porte Maillot",wikidata,,Q2319870,relation+way
+"Place de la Nation",wikidata,,Q6266,relation+way
+"Place de la Porte Maillot",wikidata,,Q2319870;Q504721,relation+way
 "Place de la Porte Molitor",wikidata,,Q3398925,relation
 "Place de la Porte d'Auteuil",wikidata,,Q3398997,relation+way
 "Place de la Porte de Bagnolet",wikidata,,Q3399017,relation+way
@@ -905,7 +905,7 @@ name,source,gender,wikidata,type
 "Quai Saint-Michel",wikidata,,Q1329076,relation
 "Quai aux Fleurs",wikidata,,Q3289836,relation
 "Quai d'Anjou",wikidata,,Q939200;Q107426,relation
-"Quai d'Austerlitz",wikidata,,Q2307722,relation
+"Quai d'Austerlitz",wikidata,,Q134114;Q2307722,relation+way
 "Quai d'Issy-les-Moulineaux",wikidata,,Q135265,relation+way
 "Quai d'Ivry",wikidata,,Q193877,relation
 "Quai de Bercy",wikidata,,Q16532200;Q773318,relation
@@ -937,6 +937,7 @@ name,source,gender,wikidata,type
 "Quai du Lot",wikidata,,Q211766,relation
 "Quai du Louvre",wikidata,,Q1075988,relation
 "Rond-Point de la Chapelle",wikidata,,Q3413190,way
+"Rond-Point de la Porte de Vincennes",wikidata,,Q3399110,way
 "Rond-Point des Champs-Élysées - Marcel Dassault",wikidata,,Q550;Q160802,relation
 "Rond-Point du Bleuet de France",wikidata,,Q2906538,relation
 "Rond-Point du Pont Mirabeau",wikidata,,Q291093,relation
@@ -945,7 +946,7 @@ name,source,gender,wikidata,type
 "Route de Boulogne à Passy",wikidata,,Q172455;Q1241308,relation
 "Route de Bourbon",wikidata,,Q58389,relation
 "Route de Sèvres à Neuilly",wikidata,,Q206493,relation+way
-"Route de Suresnes",wikidata,,Q193929,relation
+"Route de Suresnes",wikidata,,Q193929,relation+way
 "Route de la Ceinture du Lac Daumesnil",wikidata,,Q2659121,relation
 "Route de la Croix Rouge",wikidata,,Q7178,relation
 "Route de la Porte Jaune",wikidata,,Q3398923,relation
@@ -1159,7 +1160,7 @@ name,source,gender,wikidata,type
 "Rue Montauban",wikidata,,Q172593,relation
 "Rue Monte Cristo",wikidata,,Q191838,relation
 "Rue Montera",wikidata,,Q12794619;Q618532,relation
-"Rue Montgallet",wikidata,,Q12794619;Q618532,relation+way
+"Rue Montgallet",wikidata,,Q12794619;Q618532;Q618532,relation+way
 "Rue Montgolfier",wikidata,,Q193751,relation
 "Rue Montmartre",wikidata,,Q186115,relation
 "Rue Mony",wikidata,,Q618532,relation
@@ -1222,7 +1223,7 @@ name,source,gender,wikidata,type
 "Rue Saint-Hippolyte",wikidata,,Q23731479,relation
 "Rue Saint-Honoré",wikidata,,Q17802602,relation
 "Rue Saint-Julien le Pauvre",wikidata,,Q1243760,relation
-"Rue Saint-Laurent",wikidata,,Q1629067,relation+way
+"Rue Saint-Laurent",wikidata,,Q1629067;Q3053795,relation+way
 "Rue Saint-Lazare",wikidata,,Q3053797,relation
 "Rue Saint-Louis en l'Île",wikidata,,Q1709616,relation
 "Rue Saint-Martin",wikidata,,Q656302,relation+way
@@ -1419,7 +1420,7 @@ name,source,gender,wikidata,type
 "Rue de Lunéville",wikidata,,Q208794,relation
 "Rue de Lutèce",wikidata,,Q270273;Q90,relation+way
 "Rue de Luynes",wikidata,,Q21984783,relation
-"Rue de Lyon",wikidata,,Q747541;Q456,relation+way
+"Rue de Lyon",wikidata,,Q747541;Q747541;Q456,relation+way
 "Rue de Madagascar",wikidata,,Q1019,relation
 "Rue de Madrid",wikidata,,Q2807,relation
 "Rue de Magdebourg",wikidata,,Q3485939,relation
@@ -1658,7 +1659,7 @@ name,source,gender,wikidata,type
 "Rue de la Renaissance",wikidata,,Q4692,relation
 "Rue de la République",wikidata,,Q7270,relation
 "Rue de la Réunion",wikidata,,Q17070,relation
-"Rue de la Roquette",wikidata,,Q156884,relation+way
+"Rue de la Roquette",wikidata,,Q156884;Q3413209,relation+way
 "Rue de la Rosière",wikidata,,Q784462,relation
 "Rue de la Saïda",wikidata,,Q401452,relation
 "Rue de la Santé",wikidata,,Q2945681,relation
@@ -1814,7 +1815,7 @@ name,source,gender,wikidata,type
 "Rue du Dobropol",wikidata,,Q506916,relation
 "Rue du Dôme",wikidata,,Q152109,relation
 "Rue du Dragon",wikidata,,Q16544716,relation
-"Rue du Faubourg Saint-Antoine",wikidata,,Q3067308,relation+way
+"Rue du Faubourg Saint-Antoine",wikidata,,Q1500914;Q3067308,relation+way
 "Rue du Faubourg Saint-Honoré",wikidata,,Q3067310,relation+way
 "Rue du Faubourg Saint-Jacques",wikidata,,Q24931996,relation
 "Rue du Faubourg Saint-Martin",wikidata,,Q1478999,relation
@@ -1824,6 +1825,7 @@ name,source,gender,wikidata,type
 "Rue du Fret",wikidata,,Q651658,relation
 "Rue du Gabon",wikidata,,Q1000,relation
 "Rue du Général Appert",wikidata,,Q3092355;Q618532,relation
+"Rue du Grand Prieuré",wikidata,,Q3280072,relation+way
 "Rue du Grand Veneur",wikidata,,Q3145721,relation
 "Rue du Gros Caillou",wikidata,,Q3413275,relation
 "Rue du Groupe Manouchian",wikidata,,Q14551926,relation
@@ -2148,7 +2150,6 @@ name,source,gender,wikidata,type
 "Avenue du Belvédère",,,,relation
 "Avenue du Boulevard",,,,way
 "Avenue du Docteur Lannelongue",,,,relation
-"Avenue du Général Archinard",,,,way
 "Avenue du Général d'Étrie",,,,way
 "Avenue du Roule",,,,relation
 "Avenue du Square",,,,relation
@@ -2292,6 +2293,7 @@ name,source,gender,wikidata,type
 "Cour du Premier Président",,,,way
 "Cour du Roi François",,,,relation
 "Cour du Saint-Esprit",,,,relation
+"Cours Albert-Iᵉʳ",,,,way
 "Cours Marty",,,,way
 "Cours des Maréchaux",,,,relation+way
 "Dalle Keller",,,,way
@@ -2552,8 +2554,6 @@ Petit-Pont,,,,way
 "Place Madeleine Renaud et Jean-Louis Barrault",,,,way
 "Place Maréchal de Rochambeau",,,,way
 "Place Maubert",,,,relation
-"Place Pierre Lazareff",,,,relation
-"Place Saint-Augustin",,,,relation
 "Place Saint-Blaise",,,,relation
 "Place Saint-Ferdinand",,,,relation
 "Place Saint-Gervais",,,,relation+way
@@ -2566,7 +2566,6 @@ Petit-Pont,,,,way
 "Place de Thorigny",,,,relation
 "Place de l'Hôtel de Ville",,,,relation
 "Place de la Fontaine Timbaud",,,,relation
-"Place de la Nation",,,,relation+way
 "Place des Beaux Sons",,,,relation
 "Place des Combattantes et Combattants du Sida",,,,relation
 "Place des Combattants en Afrique du Nord",,,,relation
@@ -2607,7 +2606,6 @@ Petit-Pont,,,,way
 "Porte du Louvre",,,,way
 "Porte du Pont Neuf",,,,relation
 "Promenade Alain Devaquet",,,,relation
-"Promenade Claire Lacombe",,,,relation
 "Promenade Plantée",,,,way
 "Promenade des Berges de la Seine — Port des Invalides",,,,way
 "Promenade des Champs-Élysées",,,,way
@@ -2634,7 +2632,6 @@ Petit-Pont,,,,way
 "Rampe Van Loo",,,,way
 "Rond des Mélèzes",,,,relation
 "Rond-Point de Mortemart",,,,way
-"Rond-Point de la Porte de Vincennes",,,,way
 "Rond-Point des Champs-Élysées",,,,way
 "Rond-point des Champs-Elysées",,,,way
 "Route Aimable",,,,relation
@@ -2717,7 +2714,6 @@ Petit-Pont,,,,way
 "Rue Beaubourg",,,,relation+way
 "Rue Beaunier",,,,relation
 "Rue Beauregard",,,,relation
-"Rue Berger",,,,relation
 "Rue Bergère",,,,relation
 "Rue Berthe",,,,relation
 "Rue Bertin Poirée",,,,relation
@@ -2765,7 +2761,6 @@ Petit-Pont,,,,way
 "Rue Galleron",,,,relation
 "Rue Ganneron",,,,relation
 "Rue Gaston de Cavaillet",,,,way
-"Rue Gaston de Saint-Paul",,,,relation
 "Rue Geoffroy l'Angevin",,,,relation
 "Rue Geoffroy l'Asnier",,,,relation
 "Rue Gît-le-Cœur",,,,relation
@@ -3197,7 +3192,6 @@ Petit-Pont,,,,way
 "Rue du Fer à Moulin",,,,relation
 "Rue du Fouarre",,,,relation
 "Rue du Four",,,,relation
-"Rue du Grand Prieuré",,,,relation+way
 "Rue du Grenier Saint-Lazare",,,,relation
 "Rue du Grenier sur l'Eau",,,,relation
 "Rue du Gril",,,,relation
@@ -3741,6 +3735,7 @@ Sortie,,,,way
 "Voie GJ/13",,,,relation
 "Voie GQ/13",,,,relation
 "Voie GW/13",,,,relation
+"Voie Georges Pompidou",,,,relation
 "Voie H/12",,,,relation
 "Voie H/17",,,,relation
 "Voie H/19",,,,relation
