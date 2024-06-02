@@ -123,7 +123,7 @@ name,source,gender,wikidata,type
 "Avenue des Alouettes",wikidata,,Q2839337,relation
 "Avenue des Arts",wikidata,,Q735,relation
 "Avenue des Canadiens",wikidata,,Q1196645,relation+way
-"Avenue des Champs-Élysées",wikidata,,Q157128,relation+way
+"Avenue des Champs-Élysées",wikidata,,Q157128,relation
 "Avenue des Gobelins",wikidata,,Q732312,relation
 "Avenue des Minimes",wikidata,,Q1367736,relation
 "Avenue des Nations Unies",wikidata,,Q1065,relation
@@ -144,6 +144,7 @@ name,source,gender,wikidata,type
 "Avenue du Ranelagh",wikidata,,Q3162588,relation
 "Avenue du Trône",wikidata,,Q1573359;Q189233,relation
 "Balcon Saint-Eustache",wikidata,,Q1338207;Q218921,relation
+"Belvédère de la Bohème",wikidata,,Q2635232,relation
 "Boulevard Delessert",wikidata,,Q1385980;Q618532,relation
 "Boulevard Marbeau",wikidata,,Q618532,relation
 "Boulevard Marguerite de Rochechouart",wikidata,,Q3451012;Q3290789,relation
@@ -720,7 +721,7 @@ name,source,gender,wikidata,type
 "Place Nationale",wikidata,,Q622774,relation
 "Place Pigalle",wikidata,,Q3448435,relation
 "Place Saint-André des Arts",wikidata,,Q1230964,relation
-"Place Saint-Augustin",wikidata,,Q550157,relation
+"Place Saint-Augustin",wikidata,,Q550157,relation+way
 "Place Saint-Charles",wikidata,,Q3449851;Q7758,relation+way
 "Place Saint-Estèphe",wikidata,,Q188750,relation+way
 "Place Saint-Fargeau",wikidata,,Q15940219,relation
@@ -776,7 +777,7 @@ name,source,gender,wikidata,type
 "Place de l'Escadrille Normandie-Niemen",wikidata,,Q1345569,relation
 "Place de l'Estrapade",wikidata,,Q1545625,relation
 "Place de l'Hôtel-de-Ville - Esplanade de la Libération",wikidata,,Q697829,relation
-"Place de l'Île de Sein",wikidata,,Q228472,relation
+"Place de l'Île de Sein",wikidata,,Q13416868,relation
 "Place de l'Île de la Reunion",wikidata,,Q17070,relation
 "Place de l'Île de la Réunion",wikidata,,Q17070,relation
 "Place de l'Institut",wikidata,,Q377066,relation
@@ -822,6 +823,7 @@ name,source,gender,wikidata,type
 "Place des Antilles",wikidata,,Q166131;Q21022,relation
 "Place des Cinq Martyrs du Lycée Buffon",wikidata,,Q2972850,relation
 "Place des Deux Écus",wikidata,,Q11170170,relation
+"Place des Droits de l'Enfant",wikidata,,Q8354948,relation
 "Place des Émeutes de Stonewall",wikidata,,Q51402,way
 "Place des États-Unis",wikidata,,Q30,relation
 "Place des Fêtes",wikidata,,Q17135873;Q200538,relation
@@ -936,7 +938,6 @@ name,source,gender,wikidata,type
 "Quai des Tuileries",wikidata,,Q818517,relation
 "Quai du Lot",wikidata,,Q211766,relation
 "Quai du Louvre",wikidata,,Q1075988,relation
-"Rond-Point de la Chapelle",wikidata,,Q3413190,way
 "Rond-Point de la Porte de Vincennes",wikidata,,Q3399110,way
 "Rond-Point des Champs-Élysées - Marcel Dassault",wikidata,,Q550;Q160802,relation
 "Rond-Point du Bleuet de France",wikidata,,Q2906538,relation
@@ -2004,7 +2005,7 @@ name,source,gender,wikidata,type
 "Villa de Lorraine",wikidata,,Q155019,relation
 "Villa de Saint-Mandé",wikidata,,Q2873944;Q18102,relation
 "Villa de l'Adour",wikidata,,Q207366,relation
-"Villa de l'Astrolabe",wikidata,,Q3206808,relation
+"Villa de l'Astrolabe",wikidata,,Q126011289,relation
 "Villa de la Renaissance",wikidata,,Q4692,relation
 "Villa des Aigrettes",wikidata,,Q3060012;Q1589150,relation
 "Villa des Arts",wikidata,,Q735,relation
@@ -2038,7 +2039,6 @@ name,source,gender,wikidata,type
 "Allée Chauveau Lagarde",,,,way
 "Allée Chevreul",,,,way
 "Allée Circulaire",,,,way
-"Allée Claude Mademba-Sy",,,,way
 "Allée Claude Montal",,,,relation
 "Allée Claude-Bernard",,,,way
 "Allée Clubs des Loges",,,,way
@@ -2114,7 +2114,6 @@ name,source,gender,wikidata,type
 "Avenue Boudon",,,,relation
 "Avenue Darcel",,,,relation
 "Avenue Delille",,,,way
-"Avenue Denfert-Rochereau",,,,way
 "Avenue Édouard Petit",,,,relation
 "Avenue Franco-Russe",,,,relation
 "Avenue Henri Ginoux",,,,way
@@ -2470,7 +2469,6 @@ Ledru-Rollin,,,,way
 "Passage Lathuille",,,,relation+way
 "Passage Léon",,,,way
 "Passage Louise",,,,way
-"Passage Miriam Makeba",,,,relation
 "Passage Moulin",,,,relation
 "Passage P/11",,,,relation
 "Passage Planchard",,,,relation
@@ -2541,7 +2539,6 @@ Petit-Pont,,,,way
 "Place Albert Memmi",,,,way
 "Place Baudoyer",,,,relation
 "Place Charles Monselet",,,,way
-"Place Denfert Rochereau",,,,way
 "Place ED/19",,,,relation
 "Place Emmanuel Lévinas",,,,relation
 "Place FO/13",,,,relation
@@ -2563,13 +2560,13 @@ Petit-Pont,,,,way
 "Place Sans Nom",,,,relation
 "Place de Dublin",,,,way
 "Place de Flore",,,,relation
+"Place de Saint-Michel",,,,way
 "Place de Thorigny",,,,relation
 "Place de l'Hôtel de Ville",,,,relation
 "Place de la Fontaine Timbaud",,,,relation
 "Place des Beaux Sons",,,,relation
 "Place des Combattantes et Combattants du Sida",,,,relation
 "Place des Combattants en Afrique du Nord",,,,relation
-"Place des Droits de l'Enfant",,,,relation
 "Place des Grès",,,,relation
 "Place des Martyrs de la Résistance de la Porte de Sèvres",,,,relation
 "Place des Messageries de l'Est",,,,relation
@@ -2719,7 +2716,7 @@ Petit-Pont,,,,way
 "Rue Bertin Poirée",,,,relation
 "Rue Blanche Antoinette",,,,relation
 "Rue Blomet",,,,relation
-"Rue Bois le Vent",,,,relation
+"Rue Bois-le-Vent",,,,relation
 "Rue Boucher",,,,relation
 "Rue Boudreau",,,,relation
 "Rue Boutebrie",,,,relation
@@ -2845,6 +2842,7 @@ Petit-Pont,,,,way
 "Rue Poliveau",,,,relation
 "Rue Portefoin",,,,relation
 "Rue Poulletier",,,,relation
+"Rue Prague",,,,way
 "Rue Préault",,,,relation
 "Rue Princesse",,,,relation
 "Rue Quincampoix",,,,relation
@@ -3005,7 +3003,7 @@ Petit-Pont,,,,way
 "Rue de la Grange aux Belles",,,,relation+way
 "Rue de la Grenade",,,,relation
 "Rue de la Harpe",,,,relation
-"Rue de la Huchette",,,,relation
+"Rue de la Huchette",,,,relation+way
 "Rue de la Jonquière",,,,relation
 "Rue de la Jussienne",,,,relation
 "Rue de la Lancette",,,,relation
@@ -3311,7 +3309,6 @@ Sortie,,,,way
 "Terrasse de l'Orangerie",,,,relation+way
 "Terrasse des Tuileries",,,,way
 "Terrasse du Bord de l'Eau",,,,way
-"Tunnel Concorde",,,,way
 "Tunnel Grand-Maillot",,,,way
 "Tunnel d'Italie",,,,way
 "Tunnel d'Orléans",,,,way
@@ -3778,7 +3775,6 @@ Sortie,,,,way
 "Voie du/13",,,,relation
 éa,,,,way
 "rampe PMR",,,,way
-"rue Abel Truchet",,,,way
 "rue de la Boucle",,,,way
 "rue de rennes",,,,way
 "villa Curial",,,,relation
