@@ -9,7 +9,6 @@ name,source,gender,wikidata,type
 "Place Jacques et Thérèse Tréfouël",wikidata,+,Q3160106;Q27439263,way
 "Place Josette et Maurice Audin",wikidata,+,Q3182348;Q53344441,relation
 "Place Laurent Terzieff et Pascale de Boysson",wikidata,+,Q523545;Q3367717,way
-"Place Lise et Artur London",wikidata,+,Q453950;Q537234,relation
 "Place Mireille Jacques Renouvin",wikidata,+,Q3159859;Q86514201,relation
 "Place Paul et Augustine Fiket",wikidata,+,Q109990147;Q110797798,relation
 "Place Victor et Hélène Basch",wikidata,+,Q573584;Q3144703,relation
@@ -26,6 +25,7 @@ name,source,gender,wikidata,type
 "Rue Robert et Sonia Delaunay",wikidata,+,Q33978;Q232972,relation
 "Rue de Galliera",wikidata,+,Q287127;Q3417354,relation
 "Rue des Docteurs Déjérine",wikidata,+,Q612744;Q2870950,relation
+"Place Lise et Artur London",wikidata,?,Q453950;Q453950;Q537234,relation
 "Place Simon et Cyla Wiesenthal",wikidata,?,Q49086;Q49086;Q86239192,relation
 "Allée Adrienne Lecouvreur",wikidata,F,Q237201,relation
 "Allée Amandine Giraud",wikidata,F,Q47683619,relation
@@ -42,6 +42,7 @@ name,source,gender,wikidata,type
 "Allée Elsa Triolet",wikidata,F,Q4137,way
 "Allée Félicie Hervieu",wikidata,F,Q18214902,relation
 "Allée France Gall",wikidata,F,Q208258,relation
+"Allée Françoise d'Eaubonne",wikidata,F,Q295009,relation
 "Allée Gabrielle d'Estrées",wikidata,F,Q234911,relation
 "Allée Hanna Kamieniecki",wikidata,F,Q96623349,relation
 "Allée Irène Némirovsky",wikidata,F,Q168441,relation
@@ -59,7 +60,7 @@ name,source,gender,wikidata,type
 "Allée Marie-Laurent",wikidata,F,Q8343318,relation
 "Allée Mary Renynolds",wikidata,F,Q1906378,relation
 "Allée Maryse Bastié",wikidata,F,Q18410,relation
-"Allée Maya Surduts",wikidata,F,Q23809742,relation
+"Allée Maya Surduts",wikidata,F,Q23809742,relation+way
 "Allée Mireille Knoll",wikidata,F,Q51032942,way
 "Allée Myriam Monsonégo",wikidata,F,Q110680530,relation
 "Allée Neus Catala",wikidata,F,Q4855901,relation
@@ -69,16 +70,16 @@ name,source,gender,wikidata,type
 "Allée Pauline Léon",wikidata,F,Q3372743,relation
 "Allée Pernette du Guillet",wikidata,F,Q451859,relation
 "Allée Rita Thalmann",wikidata,F,Q3433261,way
-"Allée Rose Dieng-Kuntz",wikidata,F,Q3442370,relation
+"Allée Rose Dieng-Kuntz",wikidata,F,Q3442370,relation+way
 "Allée Sœur Emanuelle",wikidata,F,Q239873,relation
 "Allée Sonia Rykiel",wikidata,F,Q237944,relation
-"Allée Stefa Skurnik",wikidata,F,Q111235729,relation
+"Allée Stefa Skurnik",wikidata,F,Q111235729,relation+way
 "Allée Suzanne Lenglen",wikidata,F,Q232831,way
 "Allée Suzanne Noël",wikidata,F,Q16222582,way
 "Allée Yvette Guilbert",wikidata,F,Q239838,relation
 "Allée Yvonne Beauvais",wikidata,F,Q1277141,relation
 "Allée Zabel Essayan",wikidata,F,Q3574447,relation
-"Allée de la Comtesse de Ségur",wikidata,F,Q465681,relation
+"Allée de la Comtesse de Ségur",wikidata,F,Q465681,relation+way
 "Allée de la Reine Marguerite",wikidata,F,Q220845,relation
 "Avenue Anna Politkovskaïa",wikidata,F,Q131240,way
 "Avenue Anne-Eugénie Milleret de Brou",wikidata,F,Q269780,relation
@@ -119,6 +120,7 @@ name,source,gender,wikidata,type
 "Passerelle Arletty",wikidata,F,Q235617,way
 "Passerelle Emmanuelle Riva",wikidata,F,Q436996,way
 "Passerelle Marcelle-Henry",wikidata,F,Q3289554,relation
+"Passerelle Michèle Morgan",wikidata,F,Q234897,relation+way
 "Passerelle Simone de Beauvoir",wikidata,F,Q7197,way
 "Patio-place Pina Bausch",wikidata,F,Q155538,relation
 "Place Alice Guy",wikidata,F,Q263367,relation
@@ -134,7 +136,7 @@ name,source,gender,wikidata,type
 "Place Cheikha-Remitti",wikidata,F,Q452186,relation
 "Place Colette",wikidata,F,Q218679,relation
 "Place Dalida",wikidata,F,Q539171,relation
-"Place Diana",wikidata,F,Q9685,way
+"Place Diana",wikidata,F,Q9685,relation
 "Place Dulcie September",wikidata,F,Q275251,relation
 "Place Édith Piaf",wikidata,F,Q1631,way
 "Place Édith Thomas",wikidata,F,Q3579189,relation
@@ -221,6 +223,7 @@ name,source,gender,wikidata,type
 "Rue Chana Orloff",wikidata,F,Q455857,relation
 "Rue Christine",wikidata,F,Q1083398,relation
 "Rue Christine de Pisan",wikidata,F,Q234816,relation
+"Rue Claude-Rodier",wikidata,F,Q2978073,relation
 "Rue Clémence Royer",wikidata,F,Q2368918,relation
 "Rue Clotilde",wikidata,F,Q232365,relation
 "Rue Clotilde de Vaux",wikidata,F,Q2742867,relation
@@ -331,7 +334,7 @@ name,source,gender,wikidata,type
 "Square Amicie Lebaudy",wikidata,F,Q67202410,relation
 "Square Boutroux",wikidata,F,Q75823,way
 "Square La Champmeslé",wikidata,F,Q2620439,relation
-"Square Louise-Michel",wikidata,F,Q216092,way
+"Square Louise-Michel",wikidata,F,Q216092,relation
 "Square Pierre et Marie Curie",wikidata,F,Q7186,relation
 "Terrasse Émilienne Moreau Evrard",wikidata,F,Q3588904,relation
 "Terrasse Émilienne Moreau-Évrard",wikidata,F,Q3588904,relation
@@ -395,7 +398,7 @@ name,source,gender,wikidata,type
 "Allée Michel Delpech",wikidata,M,Q972386,relation
 "Allée Michel Serrault",wikidata,M,Q318088,relation
 "Allée Paul Deschanel",wikidata,M,Q309995,relation
-"Allée Pierre Bérégovoy",wikidata,M,Q298355,relation
+"Allée Pierre Bérégovoy",wikidata,M,Q298355,relation+way
 "Allée Pierre Herbart",wikidata,M,Q3385446,way
 "Allée Pierre Lazareff",wikidata,M,Q1235630,relation
 "Allée Pierre Mollaret",wikidata,M,Q372933,relation
@@ -406,14 +409,15 @@ name,source,gender,wikidata,type
 "Allée Rodenbach",wikidata,M,Q378240,relation
 "Allée Saint-John Perse",wikidata,M,Q132684,relation
 "Allée Samuel Beckett",wikidata,M,Q37327,relation+way
+"Allée Shamaï Haber",wikidata,M,Q543180,relation
 "Allée Théodore Vacquer",wikidata,M,Q3526503,relation
 "Allée Thomy Thierry",wikidata,M,Q98380259,relation
 "Allée Valentin Abeille",wikidata,M,Q3553558,relation
 "Allée Verhaeren",wikidata,M,Q193680,relation
 "Allée Vivaldi",wikidata,M,Q1340,relation
 "Allée Waslaw Nijinsky",wikidata,M,Q194363,relation
+"Allée de Beaupassage - Antoine Alléno",wikidata,M,Q115258633,relation
 "Allée des Frères Voisin",wikidata,M,Q537074;Q2636476,relation
-"Allée du Beau Passage",wikidata,M,Q115258633,relation
 "Allée du Capitaine Dronne",wikidata,M,Q3420811,relation
 "Allée du Chef d'Escadron de Guillebon",wikidata,M,Q3160281,relation
 "Allée du Commandant Massoud",wikidata,M,Q200029,relation
@@ -440,7 +444,6 @@ name,source,gender,wikidata,type
 "Avenue Bosquet",wikidata,M,Q128772,relation+way
 "Avenue Boutroux",wikidata,M,Q274969,relation
 "Avenue Brunetière",wikidata,M,Q729578,relation
-"Avenue Bugeaud",wikidata,M,Q349167,relation
 "Avenue Caffieri",wikidata,M,Q3107836,relation
 "Avenue Carnot",wikidata,M,Q310767,relation
 "Avenue Cartellier",wikidata,M,Q924019,relation+way
@@ -509,6 +512,7 @@ name,source,gender,wikidata,type
 "Avenue Gustave V de Suede",wikidata,M,Q52890,relation
 "Avenue Henri Martin",wikidata,M,Q954657,relation+way
 "Avenue Hoche",wikidata,M,Q367042,relation
+"Avenue Hubert Germain",wikidata,M,Q3142009,relation
 "Avenue Hussein 1er de Jordanie",wikidata,M,Q146906,relation
 "Avenue Ibsen",wikidata,M,Q36661,relation+way
 "Avenue Ingres",wikidata,M,Q23380,relation
@@ -531,7 +535,7 @@ name,source,gender,wikidata,type
 "Avenue Lucien Descaves",wikidata,M,Q3265472,relation+way
 "Avenue Mac-Mahon",wikidata,M,Q158838,relation
 "Avenue Marc Sangnier",wikidata,M,Q1248451,relation
-"Avenue Marceau",wikidata,M,Q1003655,relation
+"Avenue Marceau",wikidata,M,Q1003655,relation+way
 "Avenue Marcel Doret",wikidata,M,Q4833,relation
 "Avenue Marcel Proust",wikidata,M,Q7199,relation
 "Avenue Maréchal Franchet d'Esperey",wikidata,M,Q360859,relation
@@ -563,7 +567,6 @@ name,source,gender,wikidata,type
 "Avenue Pierre Loti",wikidata,M,Q311854,relation+way
 "Avenue Pierre Masse",wikidata,M,Q3386188,relation
 "Avenue Pierre Mendès France",wikidata,M,Q314265,relation
-"Avenue Pierre Semard",wikidata,M,Q3386979,relation
 "Avenue Pierre de Coubertin",wikidata,M,Q82984,relation
 "Avenue Pierre-Iᵉʳ-de-Serbie",wikidata,M,Q211827,relation
 "Avenue Prudhon",wikidata,M,Q469056,relation
@@ -602,7 +605,7 @@ name,source,gender,wikidata,type
 "Avenue de Boufflers",wikidata,M,Q918355,relation
 "Avenue de Breteuil",wikidata,M,Q1777234,relation
 "Avenue de Camoëns",wikidata,M,Q590,relation+way
-"Avenue de Laumière",wikidata,M,Q15983919,relation
+"Avenue de Laumière",wikidata,M,Q15983919,relation+way
 "Avenue de Lowendal",wikidata,M,Q498,relation+way
 "Avenue de Marigny",wikidata,M,Q2258999,relation
 "Avenue de Saxe",wikidata,M,Q76723,relation
@@ -692,7 +695,7 @@ name,source,gender,wikidata,type
 "Boulevard Murat",wikidata,M,Q151173;Q945147,relation+way
 "Boulevard Ney",wikidata,M,Q40756,relation+way
 "Boulevard Ornano",wikidata,M,Q128777,relation
-"Boulevard Pasteur",wikidata,M,Q529,relation
+"Boulevard Pasteur",wikidata,M,Q529,relation+way
 "Boulevard Périphérique Intérieur",wikidata,M,Q242609,way
 "Boulevard Pershing",wikidata,M,Q272383,relation
 "Boulevard Poniatowski",wikidata,M,Q154382,relation+way
@@ -718,6 +721,7 @@ name,source,gender,wikidata,type
 "Boylevard Garibaldi",wikidata,M,Q539,way
 "Carré Lamarck",wikidata,M,Q82122,way
 "Carré Thouin",wikidata,M,Q523100,way
+"Chemin Zimmermann",wikidata,M,Q213607,way
 "Cimetière du Père-Lachaise",wikidata,M,Q960159,relation
 "Cité Annibal",wikidata,M,Q36456,relation
 "Cité Beauharnais",wikidata,M,Q155545,relation
@@ -732,7 +736,7 @@ name,source,gender,wikidata,type
 "Cité Martignac",wikidata,M,Q958953,relation
 "Cité Nicolas Poussin",wikidata,M,Q41554,relation
 "Cité Odiot",wikidata,M,Q3176320,relation
-"Cité Pigalle",wikidata,M,Q529623,relation
+"Cité Pigalle",wikidata,M,Q529623,relation+way
 "Cité Vaneau",wikidata,M,Q3263259,relation
 "Cité Voltaire",wikidata,M,Q9068,relation
 "Cité Yves Klein",wikidata,M,Q154335,relation
@@ -753,7 +757,7 @@ name,source,gender,wikidata,type
 "Esplanade André Chamson",wikidata,M,Q517743,relation
 "Esplanade André Tollet",wikidata,M,Q2848703,relation
 "Esplanade Charles-Axel Guillaumot",wikidata,M,Q2957976,way
-"Esplanade Claude Luter",wikidata,M,Q1096905,relation
+"Esplanade Claude Luter",wikidata,M,Q1096905,way
 "Esplanade David Ben Gourion",wikidata,M,Q37610,relation
 "Esplanade Général Casso",wikidata,M,Q19289372,relation
 "Esplanade Gilles Jacquier",wikidata,M,Q2674537,way
@@ -841,7 +845,6 @@ name,source,gender,wikidata,type
 "Passage Walter Benjamin",wikidata,M,Q61078,relation
 "Passage du Commandant Charles Martel",wikidata,M,Q26269627,relation
 "Passerelle Alibert",wikidata,M,Q1684953,way
-"Passerelle Bichat",wikidata,M,Q333489,way
 "Passerelle Debilly",wikidata,M,Q3173260,way
 "Passerelle Léopold Sedar Senghor",wikidata,M,Q154545,relation
 "Passerelle Mornay",wikidata,M,Q944098,way
@@ -849,7 +852,9 @@ name,source,gender,wikidata,type
 "Place Adolphe Chérioux",wikidata,M,Q2824793,relation
 "Place Adolphe Max",wikidata,M,Q2535128,relation
 "Place Adrien Oudin",wikidata,M,Q13077207,relation
+"Place Ady et Gilberte Steg",wikidata,M,Q127605336,relation
 "Place Aimé Maillart",wikidata,M,Q405748,way
+"Place Alain Goldmann",wikidata,M,Q22211224,relation
 "Place Albert Cohen",wikidata,M,Q123553,relation
 "Place Albert Kahn",wikidata,M,Q591909,relation
 "Place Albert Londres",wikidata,M,Q1345910,relation
@@ -915,7 +920,7 @@ name,source,gender,wikidata,type
 "Place Do Huu Vi",wikidata,M,Q20025620,relation
 "Place Dupleix",wikidata,M,Q560071,relation
 "Place Edmond Michelet",wikidata,M,Q871444,relation
-"Place Edmond Rostand",wikidata,M,Q202749,relation
+"Place Edmond Rostand",wikidata,M,Q202749,relation+way
 "Place Édouard Renard",wikidata,M,Q20936609,relation+way
 "Place Édouard VII",wikidata,M,Q20875,relation
 "Place Émile Goudeau",wikidata,M,Q3588544,relation+way
@@ -1017,11 +1022,12 @@ name,source,gender,wikidata,type
 "Place Louis Lépine",wikidata,M,Q3262574,relation
 "Place Louis Marin",wikidata,M,Q1229977,relation
 "Place Loulou Gaste",wikidata,M,Q1121088,relation
+"Place Lucien Désandré",wikidata,M,Q127605336,relation
 "Place Lucien Herr",wikidata,M,Q974458,relation
 "Place Mahmoud Darwich",wikidata,M,Q207720,relation
 "Place Marc Bloch",wikidata,M,Q156585,relation
 "Place Marcel Achard",wikidata,M,Q314990,relation
-"Place Marcel Ayme",wikidata,M,Q318026,relation
+"Place Marcel Aymé",wikidata,M,Q318026,relation
 "Place Marcel Cerdan",wikidata,M,Q347201,relation
 "Place Marcel Paul",wikidata,M,Q877804,relation
 "Place Marcelin Berthelot",wikidata,M,Q18425,relation
@@ -1043,6 +1049,7 @@ name,source,gender,wikidata,type
 "Place Monseigneur Loutil",wikidata,M,Q17350233,way
 "Place Moussa et Odette Abadi",wikidata,M,Q20670130,relation
 "Place Napoléon III",wikidata,M,Q7721,relation
+"Place Nilda Fernández",wikidata,M,Q3341867,relation
 "Place Noël Veg",wikidata,M,Q110684280,relation
 "Place Octave Chanute",wikidata,M,Q1351565,relation
 "Place Ousmane Sow",wikidata,M,Q2784081,relation
@@ -1080,7 +1087,7 @@ name,source,gender,wikidata,type
 "Place René Cassin",wikidata,M,Q232873,relation
 "Place René Char",wikidata,M,Q315015,relation
 "Place René Laennec",wikidata,M,Q219621,relation
-"Place Richard Baret",wikidata,M,Q110797793,relation
+"Place Richard Baret",wikidata,M,Q110797793,relation+way
 "Place Richard de Coudenhove-Kalergi",wikidata,M,Q78525,relation
 "Place Robert Antelme",wikidata,M,Q658382,relation
 "Place Robert Desnos",wikidata,M,Q170095,relation
@@ -1104,7 +1111,7 @@ name,source,gender,wikidata,type
 "Place Théodore Rivière",wikidata,M,Q3526488,relation
 "Place Théophile Bader",wikidata,M,Q1236644,way
 "Place Tony Dreyfus",wikidata,M,Q3531753,relation
-"Place Tristan Bernard",wikidata,M,Q379949,relation
+"Place Tristan Bernard",wikidata,M,Q379949,relation+way
 "Place Valhubert",wikidata,M,Q334512,relation+way
 "Place Vauban",wikidata,M,Q192839,relation
 "Place Vendôme",wikidata,M,Q315513,relation+way
@@ -1126,7 +1133,6 @@ name,source,gender,wikidata,type
 "Place de l'Adjudant Vincenot",wikidata,M,Q26261670,relation
 "Place de l'Amiral de Grasse",wikidata,M,Q197627,relation
 "Place de l’Émir Abdelkader",wikidata,M,Q179825,relation
-"Place des Vosges",wikidata,M,Q3105;Q737533,relation+way
 "Place du Cardinal Lavigerie",wikidata,M,Q369832,relation
 "Place du Chancelier Adenauer",wikidata,M,Q2492,relation
 "Place du Colonel Bourgoin",wikidata,M,Q3383264,relation
@@ -1187,12 +1193,13 @@ name,source,gender,wikidata,type
 "Promenade Gibran Khalil Gibran",wikidata,M,Q47737,relation
 "Promenade Jacques Canetti",wikidata,M,Q1677931,relation
 "Promenade Jean Vigo",wikidata,M,Q55395,relation+way
-"Promenade Jean-Paul Belmondo",wikidata,M,Q106255,relation+way
+"Promenade Jean-Paul Belmondo",wikidata,M,Q106255,relation
 "Promenade Jules Isaac",wikidata,M,Q329560,relation
 "Promenade Marcel Carné",wikidata,M,Q52409,relation
 "Promenade Maurice Boitel",wikidata,M,Q734936,relation
 "Promenade Maurice Carême",wikidata,M,Q1395991,relation+way
 "Promenade René Capitant",wikidata,M,Q481398,relation
+"Promenade Roland Castro",wikidata,M,Q3439989,relation
 "Promenade Roland-Lesaffre",wikidata,M,Q2064625,relation
 "Promenade Yehudi Menuhin",wikidata,M,Q156814,relation
 "Promenade des Berges de la Seine — André Gorz",wikidata,M,Q84352,relation+way
@@ -1205,7 +1212,8 @@ name,source,gender,wikidata,type
 "Quai Henri IV",wikidata,M,Q936976,relation
 "Quai Jacques Chirac",wikidata,M,Q2105,relation
 "Quai Louis Blériot",wikidata,M,Q5396,relation
-"Quai Panhard et Levassor",wikidata,M,Q266561;Q286086;Q731471,relation+way
+"Quai Marcel Boyer",wikidata,M,Q129779668,relation+way
+"Quai Panhard et Levassor",wikidata,M,Q266561;Q286086,relation
 "Quai Saint-Exupéry",wikidata,M,Q2908,relation
 "Quai Valéry Giscard d'Estaing",wikidata,M,Q2124,relation
 "Quai Voltaire",wikidata,M,Q9068,relation+way
@@ -1217,7 +1225,7 @@ name,source,gender,wikidata,type
 "Quai du Président Roosevelt",wikidata,M,Q8007,relation
 "Résidence Jacques Balmat",wikidata,M,Q982588,way
 "Route Saint-Louis",wikidata,M,Q346,relation
-"Rue Abel",wikidata,M,Q124115,relation
+"Rue Abel",wikidata,M,Q124115,relation+way
 "Rue Abel Ferry",wikidata,M,Q2821507,relation+way
 "Rue Abel Gance",wikidata,M,Q313572,relation
 "Rue Abel Hovelacque",wikidata,M,Q318444,relation
@@ -1285,7 +1293,7 @@ name,source,gender,wikidata,type
 "Rue André Danjon",wikidata,M,Q305958,relation
 "Rue André Derain",wikidata,M,Q156272,relation
 "Rue André Dubois",wikidata,M,Q13080807,relation
-"Rue André Gide",wikidata,M,Q47484,relation+way
+"Rue André Gide",wikidata,M,Q3446950;Q47484,relation+way
 "Rue André Gill",wikidata,M,Q518827,relation
 "Rue André Lefebvre",wikidata,M,Q520689,relation
 "Rue André Mazet",wikidata,M,Q26269711,relation
@@ -1407,7 +1415,7 @@ name,source,gender,wikidata,type
 "Rue Blaise Desgoffe",wikidata,M,Q1532683,relation
 "Rue Blanchard",wikidata,M,Q366649,relation
 "Rue Blondel",wikidata,M,Q600701,relation
-"Rue Bobillot",wikidata,M,Q26270191,relation
+"Rue Bobillot",wikidata,M,Q26270191,relation+way
 "Rue Bochart de Saron",wikidata,M,Q3170545,relation
 "Rue Boileau",wikidata,M,Q188857,relation
 "Rue Boinod",wikidata,M,Q3170817,relation
@@ -1454,7 +1462,7 @@ name,source,gender,wikidata,type
 "Rue Brunel",wikidata,M,Q445306,relation
 "Rue Bruneseau",wikidata,M,Q3384912,relation+way
 "Rue Bruno Coquatrix",wikidata,M,Q2661519,relation
-"Rue Bude",wikidata,M,Q353668,relation
+"Rue Budé",wikidata,M,Q353668,relation
 "Rue Buffault",wikidata,M,Q26311106,relation
 "Rue Buffon",wikidata,M,Q229264,relation
 "Rue Burnouf",wikidata,M,Q700638,relation
@@ -1503,7 +1511,7 @@ name,source,gender,wikidata,type
 "Rue Chambiges",wikidata,M,Q517618,relation
 "Rue Chamfort",wikidata,M,Q347891,relation
 "Rue Champfleury",wikidata,M,Q744488,relation
-"Rue Championnet",wikidata,M,Q1379668,relation
+"Rue Championnet",wikidata,M,Q1379668,way
 "Rue Champollion",wikidata,M,Q260,relation
 "Rue Chanez",wikidata,M,Q15967704,relation
 "Rue Changarnier",wikidata,M,Q569416,relation+way
@@ -1564,7 +1572,7 @@ name,source,gender,wikidata,type
 "Rue Civiale",wikidata,M,Q797885,relation
 "Rue Clairaut",wikidata,M,Q28937,relation
 "Rue Clapeyron",wikidata,M,Q313551,relation
-"Rue Claude Bernard",wikidata,M,Q208230,relation
+"Rue Claude Bernard",wikidata,M,Q208230,relation+way
 "Rue Claude Chahu",wikidata,M,Q26334831,relation
 "Rue Claude Debussy",wikidata,M,Q4700,relation
 "Rue Claude Decaen",wikidata,M,Q1097178,relation
@@ -1575,7 +1583,6 @@ name,source,gender,wikidata,type
 "Rue Claude Pouillet",wikidata,M,Q712474,relation
 "Rue Claude Terrasse",wikidata,M,Q1097179,relation
 "Rue Claude Tillier",wikidata,M,Q613164,relation
-"Rue Claude-Rodier",wikidata,M,Q2978073,relation
 "Rue Clauzel",wikidata,M,Q278505,relation
 "Rue Clavel",wikidata,M,Q3384456,relation
 "Rue Clément",wikidata,M,Q1960306,relation
@@ -1593,7 +1600,7 @@ name,source,gender,wikidata,type
 "Rue Colbert",wikidata,M,Q188971,relation
 "Rue Collette",wikidata,M,Q64511724,relation
 "Rue Commines",wikidata,M,Q437423,relation
-"Rue Compans",wikidata,M,Q1392439,relation+way
+"Rue Compans",wikidata,M,Q1392439,relation
 "Rue Condillac",wikidata,M,Q272119,relation+way
 "Rue Condorcet",wikidata,M,Q201477,relation
 "Rue Constant Berthaut",wikidata,M,Q26335007,relation
@@ -1638,7 +1645,7 @@ name,source,gender,wikidata,type
 "Rue Damrémont",wikidata,M,Q2958241,relation
 "Rue Dancourt",wikidata,M,Q2437020,relation
 "Rue Dangeau",wikidata,M,Q1881019,relation
-"Rue Dante",wikidata,M,Q1067,relation
+"Rue Dante",wikidata,M,Q1067,relation+way
 "Rue Danton",wikidata,M,Q184623,relation
 "Rue Danville",wikidata,M,Q733907,relation
 "Rue Darboy",wikidata,M,Q713774,relation
@@ -1867,14 +1874,13 @@ name,source,gender,wikidata,type
 "Rue Francis de Pressensé",wikidata,M,Q3081753,relation
 "Rue Francisque Gay",wikidata,M,Q3082006,relation
 "Rue Francisque Sarcey",wikidata,M,Q1384953,relation
-"Rue Francoeur",wikidata,M,Q323650,relation
+"Rue Francœur",wikidata,M,Q323650,relation
 "Rue François Bloch Laine",wikidata,M,Q879520,relation
 "Rue François Bonvin",wikidata,M,Q1357683,relation
 "Rue François Coppée",wikidata,M,Q380277,relation
 "Rue François Gérard",wikidata,M,Q163543,relation
 "Rue François Millet",wikidata,M,Q148458,relation
 "Rue François Miron",wikidata,M,Q3085372,relation
-"Rue François Mitterrand",wikidata,M,Q2038,relation
 "Rue François Mouthon",wikidata,M,Q41792167,relation
 "Rue François Neufchateau",wikidata,M,Q1397972,relation
 "Rue François Ory",wikidata,M,Q61480993,way
@@ -2007,7 +2013,7 @@ name,source,gender,wikidata,type
 "Rue Guy de la Brosse",wikidata,M,Q726257,relation
 "Rue Guynemer",wikidata,M,Q446435,relation
 "Rue Guyton de Morveau",wikidata,M,Q540617,relation
-"Rue Halévy",wikidata,M,Q313917,relation
+"Rue Halévy",wikidata,M,Q313917,relation+way
 "Rue Hallé",wikidata,M,Q129456,relation
 "Rue Harpignies",wikidata,M,Q187496,relation
 "Rue Haxo",wikidata,M,Q327070,relation
@@ -2193,6 +2199,7 @@ name,source,gender,wikidata,type
 "Rue La Fontaine",wikidata,M,Q49496,relation+way
 "Rue La Quintinie",wikidata,M,Q3164518,relation
 "Rue La Vacquerie",wikidata,M,Q3175494,relation
+"Rue Labat",wikidata,M,Q130389388,relation
 "Rue Labrouste",wikidata,M,Q434218,relation
 "Rue Lacaille",wikidata,M,Q202703,relation
 "Rue Lacaze",wikidata,M,Q3197963,relation
@@ -2397,6 +2404,7 @@ name,source,gender,wikidata,type
 "Rue Mignard",wikidata,M,Q360010,relation
 "Rue Miguel Hidalgo",wikidata,M,Q55636,relation
 "Rue Milne-Edwards",wikidata,M,Q505173,relation
+"Rue Milo Adoner",wikidata,M,Q96749700,relation
 "Rue Milton",wikidata,M,Q79759,relation
 "Rue Miollis",wikidata,M,Q607694,relation
 "Rue Mirabeau",wikidata,M,Q218747,relation
@@ -2490,7 +2498,7 @@ name,source,gender,wikidata,type
 "Rue Paul Cézanne",wikidata,M,Q35548,relation
 "Rue Paul Chautard",wikidata,M,Q16025434,relation
 "Rue Paul Crampel",wikidata,M,Q713419,relation
-"Rue Paul Delaroche",wikidata,M,Q322582,relation+way
+"Rue Paul Delaroche",wikidata,M,Q322582,relation
 "Rue Paul Delmet",wikidata,M,Q3371025,relation
 "Rue Paul Dubois",wikidata,M,Q2524533,relation
 "Rue Paul Dukas",wikidata,M,Q215556,relation
@@ -2642,6 +2650,7 @@ name,source,gender,wikidata,type
 "Rue René Goscinny",wikidata,M,Q192214,relation
 "Rue René Panhard",wikidata,M,Q266561,relation
 "Rue René Ravaud",wikidata,M,Q52108711,relation
+"Rue René Villars",wikidata,M,Q131443188,relation
 "Rue René Villerme",wikidata,M,Q367749,relation
 "Rue Rennequin",wikidata,M,Q2272757,relation
 "Rue Résal",wikidata,M,Q1277275,relation
@@ -2717,7 +2726,7 @@ name,source,gender,wikidata,type
 "Rue Santeuil",wikidata,M,Q1243332,relation
 "Rue Santos-Dumont",wikidata,M,Q313211,relation
 "Rue Sarasate",wikidata,M,Q204503,relation
-"Rue Sarrette",wikidata,M,Q822699,relation
+"Rue Sarrette",wikidata,M,Q822699,relation+way
 "Rue Sauval",wikidata,M,Q3131994,relation+way
 "Rue Savorgnan de Brazza",wikidata,M,Q319834,relation
 "Rue Scarron",wikidata,M,Q551725,relation
@@ -2827,6 +2836,7 @@ name,source,gender,wikidata,type
 "Rue Victor Galland",wikidata,M,Q375744,relation
 "Rue Victor Gelez",wikidata,M,Q27910233,relation
 "Rue Victor Hugo",wikidata,M,Q535,relation
+"Rue Victor Marquigny",wikidata,M,Q130936298,relation
 "Rue Victor Massé",wikidata,M,Q1382004,relation
 "Rue Victor Schœlcher",wikidata,M,Q120417,relation
 "Rue Victor Segalen",wikidata,M,Q462604,relation
@@ -2957,7 +2967,7 @@ name,source,gender,wikidata,type
 "Rue de Turenne",wikidata,M,Q303216,relation+way
 "Rue de Valois",wikidata,M,Q7771,relation
 "Rue de Verneuil",wikidata,M,Q321434,relation
-"Rue de Viarmes",wikidata,M,Q3164528,relation
+"Rue de Viarmes",wikidata,M,Q3164528,relation+way
 "Rue de l'Abbé Carton",wikidata,M,Q115760764,relation
 "Rue de l'Abbé Gillet",wikidata,M,Q2959206,relation
 "Rue de l'Abbé Grégoire",wikidata,M,Q561218,relation
@@ -3178,6 +3188,7 @@ name,source,gender,wikidata,type
 "Square Léon Guillot",wikidata,M,Q84209210,relation
 "Square Leroy Beaulieu",wikidata,M,Q3371692,relation
 "Square Louis Gentil",wikidata,M,Q3262026,relation
+"Square Louis-XIII",wikidata,M,Q737533,relation
 "Square Lowendal",wikidata,M,Q498,relation
 "Square Marcel Toussaint",wikidata,M,Q50322387,relation
 "Square Masséna",wikidata,M,Q242609,relation
