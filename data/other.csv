@@ -98,7 +98,7 @@ name,source,gender,wikidata,type
 "Avenue de la Porte de Châtillon",wikidata,,Q3399023,relation+way
 "Avenue de la Porte de Choisy",wikidata,,Q3399030,relation+way
 "Avenue de la Porte de Clichy",wikidata,,Q3399028,relation+way
-"Avenue de la Porte de Clignancourt",wikidata,,Q3399039,relation
+"Avenue de la Porte de Clignancourt",wikidata,,Q3399039,relation+way
 "Avenue de la Porte de Ménilmontant",wikidata,,Q3399063,relation+way
 "Avenue de la Porte de Montmartre",wikidata,,Q3399057,relation
 "Avenue de la Porte de Montreuil",wikidata,,Q3399061,relation+way
@@ -792,7 +792,7 @@ name,source,gender,wikidata,type
 "Place de l’Europe - Simone Veil",wikidata,,Q46;Q298180,relation
 "Place de la Bastille",wikidata,,Q1865480,relation+way
 "Place de la Bataille de Stalingrad",wikidata,,Q38789,relation+way
-"Place de la Bourse",wikidata,,Q1854102;Q178513,relation
+"Place de la Bourse",wikidata,,Q1854102;Q178513,relation+way
 "Place de la Chapelle",wikidata,,Q13103683,relation+way
 "Place de la Commune de Paris",wikidata,,Q133132,relation
 "Place de la Concorde",wikidata,,Q746321,relation+way
@@ -1583,6 +1583,7 @@ name,source,gender,wikidata,type
 "Rue de l'Ave Maria",wikidata,,Q42203,relation
 "Rue de l'Avenir",wikidata,,Q344,relation
 "Rue de l'Avre",wikidata,,Q739893,relation
+"Rue de l'Échelle",wikidata,,Q241212,relation+way
 "Rue de l'École Polytechnique",wikidata,,Q273626,relation
 "Rue de l'Égalité",wikidata,,Q842346,relation
 "Rue de l'Église",wikidata,,Q3492248,relation
@@ -1760,7 +1761,7 @@ name,source,gender,wikidata,type
 "Rue des Orfèvres",wikidata,,Q11202319,relation
 "Rue des Ormeaux",wikidata,,Q147487,relation
 "Rue des Pâtures",wikidata,,Q30121,relation
-"Rue des Pavillons",wikidata,,Q276173,relation
+"Rue des Pavillons",wikidata,,Q276173,relation+way
 "Rue des Peupliers",wikidata,,Q30456678,relation
 "Rue des Pirogues de Bercy",wikidata,,Q23824558,relation
 "Rue des Poitevins",wikidata,,Q954076,relation
@@ -2130,6 +2131,7 @@ name,source,gender,wikidata,type
 "Avenue Latérale du Nord",,,,way
 "Avenue Latérale du Sud",,,,way
 "Avenue Michal",,,,relation
+"Avenue Michelet",,,,way
 "Avenue Moderne",,,,relation
 "Avenue Neigre",,,,way
 "Avenue Principale",,,,way
@@ -2374,7 +2376,6 @@ name,source,gender,wikidata,type
 "Grand Balcon",,,,relation
 "Grande Avenue de la Villa de la Réunion",,,,relation
 "Grande Terrasse",,,,way
-"Hall Principal",,,,relation
 "Halte Cellulaire",,,,way
 Hémicycle,,,,way
 "Îlot Antarès",,,,way
@@ -2444,7 +2445,6 @@ Ledru-Rollin,,,,way
 "Mail Bréchet",,,,way
 "Mail Pierre Desproges",,,,relation
 "Mail des Minimes",,,,way
-"Marché Popincourt",,,,relation
 "Marché Villette",,,,way
 "Marché de la Madeleine",,,,way
 "Métro Ligne 1",,,,way
@@ -2602,7 +2602,6 @@ Petit-Pont,,,,way
 "Place des Combattants en Afrique du Nord",,,,relation
 "Place des Grès",,,,relation
 "Place des Martyrs de la Résistance de la Porte de Sèvres",,,,relation
-"Place des Messageries de l'Est",,,,relation
 "Place des Nations Unies",,,,way
 "Place des Saussaies",,,,relation
 "Place des Vins de France",,,,relation
@@ -2651,11 +2650,11 @@ Petit-Pont,,,,way
 "Quai Saint-Bernard",,,,relation
 "Quai de Conti",,,,relation+way
 "Quai de Gesvres",,,,relation
+"Quai de l'Aisne",,,,way
 "Quai de l'Archevêché",,,,relation
 "Quai des Grands Augustins",,,,relation
 "Quai du Gros Caillou",,,,way
 "Quai du Nord",,,,way
-"RER H et K",,,,relation
 "Rampe Emeriau",,,,way
 "Rampe Finlay",,,,way
 "Rampe Keller",,,,way
@@ -2734,6 +2733,7 @@ Rolltreppe,,,,way
 "Route du Ruisseau",,,,relation
 "Rue Adrien Lesesne",,,,way
 "Rue Albert Guilpin",,,,relation
+"Rue André Bréchet",,,,relation
 "Rue André Joineau",,,,way
 "Rue Aubry le Boucher",,,,relation
 "Rue Bailly",,,,relation
@@ -2834,7 +2834,7 @@ Rolltreppe,,,,way
 "Rue Malher",,,,relation
 "Rue Malus",,,,relation
 "Rue Marbeuf",,,,relation
-"Rue Marcadet",,,,relation+way
+"Rue Marcadet",,,,relation
 "Rue Marguerin",,,,relation
 "Rue Marie Rose",,,,relation
 "Rue Marie et Louise",,,,relation
@@ -2971,7 +2971,6 @@ Rolltreppe,,,,way
 "Rue de l'Arrivée",,,,relation
 "Rue de l'Asile Popincourt",,,,relation
 "Rue de l'Échaudé",,,,relation
-"Rue de l'Échelle",,,,relation
 "Rue de l'Échiquier",,,,relation
 "Rue de l'École de Médecine",,,,relation
 "Rue de l'Encheval",,,,relation
@@ -3292,7 +3291,6 @@ Sortie,,,,way
 "Souterrain Berger Est",,,,way
 "Souterrain Grande Boucle (Voie BCL)",,,,way
 "Souterrain Sortie Hôtel de Ville (Voie S2)",,,,way
-"Souterrain Sortie Pont Neuf",,,,way
 "Souterrain de la Petite Boucle (Voie Z)",,,,way
 "Square Alice",,,,relation
 "Square Bréguet-Sabin",,,,relation
@@ -3370,6 +3368,7 @@ Sortie,,,,way
 "Villa Dufresne",,,,relation
 "Villa Duret",,,,way
 "Villa Duthy",,,,relation
+"Villa Exelmans",,,,relation
 "Villa Fleurie",,,,relation
 "Villa Flore",,,,relation
 "Villa Fondary",,,,relation
@@ -3603,7 +3602,6 @@ Sortie,,,,way
 "Voie BZ/16",,,,relation
 "Voie C/10",,,,relation
 "Voie C/14",,,,relation
-"Voie C/16",,,,relation
 "Voie C/18",,,,relation
 "Voie C/19",,,,relation
 "Voie CA/15",,,,relation
@@ -3715,17 +3713,25 @@ Sortie,,,,way
 "Voie DS/13",,,,relation
 "Voie DT/13",,,,relation
 "Voie DV/13",,,,relation
+"Voie DZ/12",,,,relation
 "Voie E/17",,,,relation
 "Voie E/18",,,,relation
 "Voie E/6",,,,relation
 "Voie E/7",,,,relation
 "Voie E/8",,,,relation
 "Voie E/9",,,,relation
+"Voie EA/12",,,,relation
 "Voie EA/20",,,,relation
+"Voie EB/12",,,,relation
+"Voie EC/12",,,,relation
 "Voie EC/20",,,,relation
+"Voie ED/12",,,,relation
 "Voie ED/20",,,,relation
+"Voie EE/12",,,,relation
 "Voie EE/20",,,,relation
+"Voie EF/12",,,,relation
 "Voie EF/20",,,,relation
+"Voie EG/12",,,,relation
 "Voie EG/20",,,,relation
 "Voie EH/20",,,,relation
 "Voie EJ/20",,,,relation

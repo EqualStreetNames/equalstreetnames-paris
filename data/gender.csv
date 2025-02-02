@@ -690,11 +690,11 @@ name,source,gender,wikidata,type
 "Boulevard Macdonald",wikidata,M,Q298784,relation+way
 "Boulevard Malesherbes",wikidata,M,Q551456,relation+way
 "Boulevard Masséna",wikidata,M,Q242609,relation+way
-"Boulevard Morland",wikidata,M,Q3085220,relation
+"Boulevard Morland",wikidata,M,Q3085220,relation+way
 "Boulevard Mortier",wikidata,M,Q273883,relation+way
 "Boulevard Murat",wikidata,M,Q151173;Q945147,relation+way
 "Boulevard Ney",wikidata,M,Q40756,relation+way
-"Boulevard Ornano",wikidata,M,Q128777,relation
+"Boulevard Ornano",wikidata,M,Q128777,relation+way
 "Boulevard Pasteur",wikidata,M,Q529,relation+way
 "Boulevard Périphérique Intérieur",wikidata,M,Q242609,way
 "Boulevard Pershing",wikidata,M,Q272383,relation
@@ -1289,7 +1289,6 @@ name,source,gender,wikidata,type
 "Rue Anatole de la Forge",wikidata,M,Q2845612,relation
 "Rue André Antoine",wikidata,M,Q529001,relation
 "Rue André Barsacq",wikidata,M,Q392104,relation
-"Rue André Bréchet",wikidata,M,Q2847396,relation
 "Rue André Danjon",wikidata,M,Q305958,relation
 "Rue André Derain",wikidata,M,Q156272,relation
 "Rue André Dubois",wikidata,M,Q13080807,relation
@@ -2635,7 +2634,7 @@ name,source,gender,wikidata,type
 "Rue Raymond Radiguet",wikidata,M,Q333615,relation
 "Rue Raynouard",wikidata,M,Q769608,relation
 "Rue Réaumur",wikidata,M,Q310779,relation
-"Rue Rébeval",wikidata,M,Q3184654,relation
+"Rue Rébeval",wikidata,M,Q3184654,relation+way
 "Rue Redon",wikidata,M,Q154349,relation
 "Rue Regnard",wikidata,M,Q732695,relation
 "Rue Regnault",wikidata,M,Q453485,relation
@@ -2790,7 +2789,7 @@ name,source,gender,wikidata,type
 "Rue Thomas Francine",wikidata,M,Q7819065,relation
 "Rue Thomas Mann",wikidata,M,Q37030,relation
 "Rue Thomire",wikidata,M,Q3383483,relation+way
-"Rue Thorel",wikidata,M,Q106630527,relation+way
+"Rue Thorel",wikidata,M,Q106630527,relation
 "Rue Thouin",wikidata,M,Q523100,relation
 "Rue Thureau-Dangin",wikidata,M,Q736699,relation
 "Rue Tiphaine",wikidata,M,Q28842921,relation
