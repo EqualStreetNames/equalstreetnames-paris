@@ -964,7 +964,7 @@ name,source,gender,wikidata,type
 "Route des Chênes",wikidata,,Q12004,relation
 "Route des Fortifications",wikidata,,Q57821,relation+way
 "Route des Merisiers",wikidata,,Q165137,relation
-"Route des Moulins",wikidata,,Q44494,relation
+"Route des Moulins",wikidata,,Q44494,relation+way
 "Route des Pins",wikidata,,Q12024,relation
 "Route du Bac",wikidata,,Q2878108,relation
 "Route du Fort de Gravelle",wikidata,,Q3422936,relation
@@ -2221,7 +2221,7 @@ name,source,gender,wikidata,type
 "Chemin Troyon",,,,way
 "Chemin d'Issy",,,,way
 "Chemin de Belleville",,,,way
-"Chemin de Ceinture du Lac Inférieur",,,,relation
+"Chemin de Ceinture du Lac Inférieur",,,,relation+way
 "Chemin de Ceinture du Lac Supérieur",,,,relation
 "Chemin de Riario-Sforza",,,,way
 "Chemin de l'Abbaye",,,,relation
@@ -2242,7 +2242,6 @@ name,source,gender,wikidata,type
 "Chemin du Sud",,,,way
 "Chemin du Télégraphe",,,,way
 "Chemin du Tertre",,,,way
-"Chemine de Ceinture du Lac Inférieur",,,,way
 "Cité Bergère",,,,relation
 "Cité Blanche",,,,relation
 "Cité Delaunay",,,,relation
