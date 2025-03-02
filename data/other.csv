@@ -153,7 +153,7 @@ name,source,gender,wikidata,type
 "Boulevard Marguerite de Rochechouart",wikidata,,Q3451012;Q3290789,relation
 "Boulevard Montmartre",wikidata,,Q3398926,relation+way
 "Boulevard Pereire",wikidata,,Q286386,relation+way
-"Boulevard Poissonnière",wikidata,,Q3449588,relation
+"Boulevard Poissonnière",wikidata,,Q3449588,relation+way
 "Boulevard Saint-Denis",wikidata,,Q2174628,relation+way
 "Boulevard Saint-Germain",wikidata,,Q255910,relation
 "Boulevard Saint-Jacques",wikidata,,Q3452300;Q43999,relation+way
@@ -477,7 +477,6 @@ name,source,gender,wikidata,type
 "Parvis Mazagran",wikidata,,Q2889297,relation
 "Parvis des Libertés et des Droits de l'Homme",wikidata,,Q8458,way
 "Parvis du Sacré-Cœur",wikidata,,Q28785,relation
-"Parvis du Tribunal de Paris",wikidata,,Q2974817,relation
 "Passage Abel Leblanc",wikidata,,Q2821526;Q618532,relation
 "Passage Alexandre",wikidata,,Q618532,relation
 "Passage Alombert",wikidata,,Q618532,relation
@@ -825,6 +824,7 @@ name,source,gender,wikidata,type
 "Place des Abbesses",wikidata,,Q3451615;Q14397431,relation
 "Place des Alpes",wikidata,,Q1286,relation
 "Place des Antilles",wikidata,,Q166131;Q21022,relation
+"Place des Chibanis et des Chibanias",wikidata,,Q2963257,relation
 "Place des Cinq Martyrs du Lycée Buffon",wikidata,,Q2972850,relation+way
 "Place des Combattantes et Combattants du Sida",wikidata,,Q15787,relation
 "Place des Deux Écus",wikidata,,Q11170170,relation
@@ -855,6 +855,7 @@ name,source,gender,wikidata,type
 "Place du Carrousel",wikidata,,Q24347985,relation
 "Place du Châtelet",wikidata,,Q673526,relation
 "Place du Commerce",wikidata,,Q601401,relation
+"Place du Comtat Venaissin",wikidata,,Q1122980,way
 "Place du Havre",wikidata,,Q42810,relation
 "Place du Louvre",wikidata,,Q1075988,relation+way
 "Place du Maquis du Vercors",wikidata,,Q3287307,relation
@@ -2171,7 +2172,7 @@ name,source,gender,wikidata,type
 "Belvédère Susan Travers",,,,relation
 "Bouche Métro",,,,way
 "Boulevard Bineau",,,,relation
-"Boulevard Morbier",,,,way
+"Boulevard Mortiers",,,,way
 "Boulevard Périphérique Extérieur",,,,way
 "Boulevard de Beauséjour",,,,relation
 "Boulevard de la Commanderie",,,,relation
@@ -2612,6 +2613,7 @@ Petit-Pont,,,,way
 "Place du Paraguay",,,,relation
 "Place du Puits de l'Ermite",,,,relation
 "Place du Tertre",,,,relation
+"Place du Trocadéro",,,,way
 "Place en Hommage aux Femmes Victimes de Violence",,,,relation
 "Pont Eiffel",,,,way
 "Pont Khmer",,,,way
@@ -2813,6 +2815,7 @@ Rolltreppe,,,,way
 "Rue Juge",,,,relation
 "Rue Jules David",,,,relation
 "Rue Jules Pichard",,,,relation
+"Rue La Caille",,,,way
 "Rue Lapeyrere",,,,relation
 "Rue Larochelle",,,,relation
 "Rue Laurence Savart",,,,relation
@@ -3275,7 +3278,7 @@ Rolltreppe,,,,way
 "Sente à Bigot",,,,relation
 "Sente des Dorées",,,,relation
 "Sentier Briens",,,,relation
-"Sentier Nature",,,,way
+"Sentier Nature (petite ceinture)",,,,way
 "Sentier Rouvray",,,,relation
 "Sentier de la Pointe",,,,relation+way
 "Sentier des Écuyers",,,,relation
