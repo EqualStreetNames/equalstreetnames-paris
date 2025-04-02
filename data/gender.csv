@@ -119,6 +119,7 @@ name,source,gender,wikidata,type
 "Passage Sainte-Anne",wikidata,F,Q164294,relation
 "Passage Susan Sontag",wikidata,F,Q152824,relation+way
 "Passage de la Reine de Hongrie",wikidata,F,Q131706,relation
+"Passerelle Alibert",wikidata,F,Q224071,way
 "Passerelle Arletty",wikidata,F,Q235617,way
 "Passerelle Emmanuelle Riva",wikidata,F,Q436996,way
 "Passerelle Marcelle-Henry",wikidata,F,Q3289554,relation
@@ -848,7 +849,6 @@ name,source,gender,wikidata,type
 "Passage Thomas Sankara",wikidata,M,Q202155,relation
 "Passage Walter Benjamin",wikidata,M,Q61078,relation
 "Passage du Commandant Charles Martel",wikidata,M,Q26269627,relation
-"Passerelle Alibert",wikidata,M,Q1684953,way
 "Passerelle Debilly",wikidata,M,Q3173260,way
 "Passerelle Jim-Morrison",wikidata,M,Q944098,way
 "Passerelle Léopold Sedar Senghor",wikidata,M,Q154545,relation
@@ -909,12 +909,13 @@ name,source,gender,wikidata,type
 "Place Claude Goasguen",wikidata,M,Q2746785,relation
 "Place Claude Moncorgé",wikidata,M,Q33199942,relation
 "Place Claude Nougaro",wikidata,M,Q719314,relation
-"Place Claude Sautet",wikidata,M,Q106669,relation
+"Place Claude Sautet",wikidata,M,Q106669,relation+way
 "Place Clemenceau",wikidata,M,Q171730,relation
 "Place Clément Ader",wikidata,M,Q313078,relation
 "Place Coluche",wikidata,M,Q2190,relation
 "Place Constantin Brancusi",wikidata,M,Q153048,relation
 "Place Constantin Pecqueur",wikidata,M,Q1031841,relation
+"Place Daniel Iffla-Osiris",wikidata,M,Q454557,relation
 "Place Darno Maffini",wikidata,M,Q3702805,relation
 "Place Denfert Rochereau",wikidata,M,Q466834,way
 "Place Denfert-Rochereau",wikidata,M,Q466834,relation+way
@@ -2529,7 +2530,7 @@ name,source,gender,wikidata,type
 "Rue Paulin Enfert",wikidata,M,Q3372660,relation
 "Rue Paulin Méry",wikidata,M,Q3372672,relation
 "Rue Péan",wikidata,M,Q781439,relation
-"Rue Péclet",wikidata,M,Q558173,relation
+"Rue Péclet",wikidata,M,Q558173,relation+way
 "Rue Pecquay",wikidata,M,Q3175486,relation
 "Rue Pegoud",wikidata,M,Q365814,relation
 "Rue Pégoud",wikidata,M,Q365814,way

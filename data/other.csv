@@ -1569,7 +1569,7 @@ name,source,gender,wikidata,type
 "Rue de l'Ambroisie",wikidata,,Q131409,relation
 "Rue de l'Ancienne Comédie",wikidata,,Q836007,relation
 "Rue de l'Annonciation",wikidata,,Q154326,relation
-"Rue de l'Aqueduc",wikidata,,Q474,relation
+"Rue de l'Aqueduc",wikidata,,Q474,relation+way
 "Rue de l'Arbalète",wikidata,,Q181947,relation
 "Rue de l'Arc de Triomphe",wikidata,,Q64436,relation
 "Rue de l'Arc en Ciel",wikidata,,Q1052,relation
@@ -2153,7 +2153,6 @@ name,source,gender,wikidata,type
 "Avenue de la Chapelle",,,,relation
 "Avenue de la Frillière",,,,relation
 "Avenue de la Grotte",,,,relation
-"Avenue de la Porte d'Orleans",,,,way
 "Avenue des Ailantes",,,,way
 "Avenue des Chalets",,,,relation
 "Avenue des Chasseurs",,,,relation
@@ -2171,7 +2170,7 @@ name,source,gender,wikidata,type
 "Avenue du Tremblay",,,,relation
 "Belvédère Susan Travers",,,,relation
 "Bouche Métro",,,,way
-"Boulevard Bineau",,,,relation
+"Boulevard Bineau",,,,relation+way
 "Boulevard Mortiers",,,,way
 "Boulevard Périphérique Extérieur",,,,way
 "Boulevard de Beauséjour",,,,relation
@@ -2449,6 +2448,7 @@ Ledru-Rollin,,,,way
 "Marché de la Madeleine",,,,way
 "Métro Ligne 1",,,,way
 "Nouvelle Athènes",,,,relation
+"P Vélo Gare Montparnasse",,,,way
 "Parcours Santé",,,,way
 "Parcours de Santé",,,,way
 "Parcours sportif des Minimes",,,,way
@@ -2632,6 +2632,7 @@ Petit-Pont,,,,way
 "Port des Champs Elysées",,,,relation
 "Porte Saint-Denis",,,,way
 "Porte d'Asnières",,,,way
+"Porte des lions",,,,way
 "Porte du Louvre",,,,way
 "Porte du Pont Neuf",,,,relation
 "Promenade Alain Devaquet",,,,relation
@@ -2649,6 +2650,7 @@ Petit-Pont,,,,way
 "Quai F",,,,way
 "Quai Malaquais",,,,relation
 "Quai Saint-Bernard",,,,relation
+"Quai Transversal",,,,way
 "Quai de Conti",,,,relation+way
 "Quai de Gesvres",,,,relation
 "Quai de l'Aisne",,,,way
@@ -2878,7 +2880,6 @@ Rolltreppe,,,,way
 "Rue Poliveau",,,,relation
 "Rue Portefoin",,,,relation
 "Rue Poulletier",,,,relation
-"Rue Prague",,,,way
 "Rue Préault",,,,relation
 "Rue Princesse",,,,relation
 "Rue Quincampoix",,,,relation
@@ -3223,7 +3224,7 @@ Rolltreppe,,,,way
 "Rue du Fauconnier",,,,relation
 "Rue du Fer à Moulin",,,,relation
 "Rue du Fouarre",,,,relation
-"Rue du Four",,,,relation
+"Rue du Four",,,,relation+way
 "Rue du Grenier Saint-Lazare",,,,relation
 "Rue du Grenier sur l'Eau",,,,relation
 "Rue du Gril",,,,relation
