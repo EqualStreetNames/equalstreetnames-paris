@@ -337,7 +337,7 @@ name,source,gender,wikidata,type
 "Galerie Montmartre",wikidata,,Q3449238,relation
 "Galerie Saint-Marc",wikidata,,Q3449930,relation
 "Galerie Sainte-Foy",wikidata,,Q3450008,relation
-"Galerie Véro-Dodat",wikidata,,Q12794619,relation
+"Galerie Véro-Dodat",wikidata,,Q12794619,relation+way
 "Galerie Vivienne",wikidata,,Q3450361,relation
 "Galerie de Beaujolais",wikidata,,Q3450561,relation
 "Galerie de Montpensier",wikidata,,Q3450903,relation
@@ -919,7 +919,7 @@ name,source,gender,wikidata,type
 "Quai d'Austerlitz",wikidata,,Q134114;Q2307722,relation+way
 "Quai d'Issy-les-Moulineaux",wikidata,,Q135265,relation+way
 "Quai d'Ivry",wikidata,,Q193877,relation
-"Quai de Bercy",wikidata,,Q16532200;Q773318,relation
+"Quai de Bercy",wikidata,,Q16532200;Q773318,relation+way
 "Quai de Bourbon",wikidata,,Q58389,relation
 "Quai de Charente",wikidata,,Q123362,relation
 "Quai de Grenelle",wikidata,,Q376896,relation
@@ -969,7 +969,7 @@ name,source,gender,wikidata,type
 "Route des Pins",wikidata,,Q12024,relation
 "Route du Bac",wikidata,,Q2878108,relation
 "Route du Fort de Gravelle",wikidata,,Q3422936,relation
-"Route du Lac de Saint-Mandé",wikidata,,Q384109,relation+way
+"Route du Lac de Saint-Mandé",wikidata,,Q384109,relation
 "Route l'Asile National",wikidata,,Q30279947,relation
 "Rue Abel Rabaud",wikidata,,Q618532,relation
 "Rue Achille",wikidata,,Q618532,relation
@@ -2041,6 +2041,7 @@ name,source,gender,wikidata,type
 "Accès Turbigo (Voie A1)",,,,way
 "Accès de la Dalle Beaugrenelle",,,,way
 "Aire Livraison Nord",,,,way
+"Allée André François Bron De Bailly",,,,way
 "Allée Andrée Jacob",,,,way
 "Allée Barbara",,,,way
 "Allée Brongniart",,,,way
@@ -2049,6 +2050,7 @@ name,source,gender,wikidata,type
 "Allée Chauveau Lagarde",,,,way
 "Allée Chevreul",,,,way
 "Allée Circulaire",,,,way
+"Allée Clara Tolub",,,,way
 "Allée Claude Montal",,,,relation
 "Allée Claude-Bernard",,,,way
 "Allée Clubs des Loges",,,,way
@@ -2057,11 +2059,15 @@ name,source,gender,wikidata,type
 "Allée Eveline Garnier",,,,way
 "Allée Fortunée",,,,relation
 "Allée Georges Ville",,,,way
+"Allée Gracia et Joseph Saltiel",,,,way
 "Allée Hauÿ",,,,way
 "Allée Jussieu",,,,way
 "Allée Le Gramat",,,,relation
 "Allée Lenoir",,,,way
 "Allée Louis Pergaud",,,,way
+"Allée Louise Pétron",,,,way
+"Allée Lucie Dreyfus",,,,way
+"Allée Lucien Lupi",,,,way
 "Allée Mangin",,,,way
 "Allée Marcel Bernard",,,,way
 "Allée Mary Reynolds",,,,relation+way
@@ -2128,7 +2134,7 @@ name,source,gender,wikidata,type
 "Avenue Édouard Petit",,,,relation
 "Avenue Franco-Russe",,,,relation
 "Avenue Henri Ginoux",,,,way
-"Avenue J.C. Cave",,,,relation
+"Avenue J.C. Cave",,,,relation+way
 "Avenue Latérale du Nord",,,,way
 "Avenue Latérale du Sud",,,,way
 "Avenue Michal",,,,relation
@@ -2245,7 +2251,6 @@ name,source,gender,wikidata,type
 "Cité Bergère",,,,relation
 "Cité Blanche",,,,relation
 "Cité Delaunay",,,,relation
-"Cité Fleurie",,,,way
 "Cité Florentine",,,,relation
 "Cité Héron",,,,relation
 "Cité Hiver",,,,relation
@@ -2357,6 +2362,7 @@ name,source,gender,wikidata,type
 "Esplanade Bernard Duperier",,,,relation
 "Esplanade Léo Hamon",,,,way
 "Esplanade Renée Lebas",,,,way
+"Esplanade Silvia Montfort",,,,relation+way
 "Esplanade d'Arménie",,,,relation
 "Esplanade du Dinh",,,,way
 "Esplanade du Hall",,,,way
@@ -3069,7 +3075,7 @@ Rolltreppe,,,,way
 "Rue des Annelets",,,,relation+way
 "Rue des Archers",,,,way
 "Rue des Arquebusiers",,,,relation
-"Rue des Barres",,,,relation
+"Rue des Barres",,,,relation+way
 "Rue des Bauches",,,,relation
 "Rue des Bergers",,,,relation
 "Rue des Berges Hennequines",,,,relation

@@ -4,7 +4,7 @@ name,source,gender,wikidata,type
 "Allée Claude et Catherine Rich",wikidata,+,Q1097113;Q2942047,relation
 "Parvis Élise et Célestin Freinet",wikidata,+,Q274726;Q313068,relation
 "Place André et Françoise Trannoy",wikidata,+,Q2848714;Q118854234,relation
-"Place Chavarche Missakian",wikidata,+,Q21152245;Q55992700,relation
+"Place Chavarche et Arpik Missakian",wikidata,+,Q21152245;Q55992700,relation
 "Place Ghislaine Dupont ‒ Claude Verlon ‒ Camille Lepage",wikidata,+,Q15127495;Q16540300;Q16873989,way
 "Place Jacques et Thérèse Tréfouël",wikidata,+,Q3160106;Q27439263,way
 "Place Josette et Maurice Audin",wikidata,+,Q3182348;Q53344441,relation
@@ -119,10 +119,10 @@ name,source,gender,wikidata,type
 "Passage Sainte-Anne",wikidata,F,Q164294,relation
 "Passage Susan Sontag",wikidata,F,Q152824,relation+way
 "Passage de la Reine de Hongrie",wikidata,F,Q131706,relation
-"Passerelle Alibert",wikidata,F,Q224071,way
 "Passerelle Arletty",wikidata,F,Q235617,way
 "Passerelle Emmanuelle Riva",wikidata,F,Q436996,way
 "Passerelle Marcelle-Henry",wikidata,F,Q3289554,relation
+"Passerelle Maria Schneider",wikidata,F,Q224071,way
 "Passerelle Michèle Morgan",wikidata,F,Q234897,relation+way
 "Passerelle Simone de Beauvoir",wikidata,F,Q7197,way
 "Patio-place Pina Bausch",wikidata,F,Q155538,relation
@@ -190,6 +190,7 @@ name,source,gender,wikidata,type
 "Place Simone Michel-Lévy",wikidata,F,Q932706,relation
 "Place Suzanne Denglos Fau",wikidata,F,Q86182009,relation
 "Place Suzanne Valadon",wikidata,F,Q156889,relation
+"Place Tina Turner",wikidata,F,Q131814,relation
 "Place Yvette Vincent-Alleaume",wikidata,F,Q110629666,relation
 "Place de la Bergère d'Ivry",wikidata,F,Q2828109,relation
 "Place de la Reine Astrid",wikidata,F,Q230238,relation
@@ -220,6 +221,7 @@ name,source,gender,wikidata,type
 "Rue Béatrix Dussane",wikidata,F,Q2929522,relation
 "Rue Berenice Abbott",wikidata,F,Q231861,relation
 "Rue Bessie Coleman",wikidata,F,Q254376,relation
+"Rue Camille Crespin du Gast",wikidata,F,Q2935120,relation
 "Rue Catherine de La Rochefoucauld",wikidata,F,Q64532631,relation
 "Rue Céline Furtado-Heine",wikidata,F,Q3009738,relation
 "Rue Cesária Évora",wikidata,F,Q103759,relation
@@ -232,7 +234,6 @@ name,source,gender,wikidata,type
 "Rue Clotilde de Vaux",wikidata,F,Q2742867,relation
 "Rue Colette Magny",wikidata,F,Q2507326,relation
 "Rue Cora Vaucaire",wikidata,F,Q2996971,relation
-"Rue Crespin du Gast",wikidata,F,Q2935120,relation
 "Rue Daniel Stern",wikidata,F,Q253453,relation
 "Rue Danielle Casanova",wikidata,F,Q457505,relation
 "Rue Delphine Seyrig",wikidata,F,Q261456,relation+way
@@ -249,6 +250,7 @@ name,source,gender,wikidata,type
 "Rue Éva Kotchever",wikidata,F,Q45901113,relation
 "Rue Florence Blumenthal",wikidata,F,Q16030007,relation
 "Rue Françoise Dolto",wikidata,F,Q63704,relation
+"Rue Françoise Gilot",wikidata,F,Q540665,relation
 "Rue Gaby Sylvia",wikidata,F,Q3094186,relation
 "Rue George Sand",wikidata,F,Q3816,relation
 "Rue Georgette Agutte",wikidata,F,Q450730,relation
@@ -301,6 +303,7 @@ name,source,gender,wikidata,type
 "Rue Marie Laurencin",wikidata,F,Q233088,relation
 "Rue Marie Pape-Carpantier",wikidata,F,Q3292726,relation
 "Rue Marie Stuart",wikidata,F,Q131412,relation
+"Rue Marie de France",wikidata,F,Q5617,relation
 "Rue Marie-Andrée Lagroua Weill-Hallé",wikidata,F,Q18328198,relation
 "Rue Marie-Éléonore de Bellefond",wikidata,F,Q100965128,relation
 "Rue Marie-Hélène Lefaucheux",wikidata,F,Q3291891,relation
@@ -458,8 +461,9 @@ name,source,gender,wikidata,type
 "Avenue Charles Risler",wikidata,M,Q15984530,relation
 "Avenue Charles de Foucauld",wikidata,M,Q51880,relation
 "Avenue Charles de Gaulle",wikidata,M,Q2042,relation+way
-"Avenue Claude Regaud",wikidata,M,Q2978577,relation+way
+"Avenue Claude Regaud",wikidata,M,Q2978577,way
 "Avenue Claude Vellefaux",wikidata,M,Q2978231,relation
+"Avenue Claudius Regaud",wikidata,M,Q2978577,relation
 "Avenue Constant Coquelin",wikidata,M,Q142310,relation
 "Avenue Corentin Cariou",wikidata,M,Q2997244,relation+way
 "Avenue Courteline",wikidata,M,Q51107,relation
@@ -508,7 +512,7 @@ name,source,gender,wikidata,type
 "Avenue Georges Bernanos",wikidata,M,Q315072,relation
 "Avenue Georges Lafenestre",wikidata,M,Q1225448,relation
 "Avenue Georges Lafont",wikidata,M,Q110797775,relation
-"Avenue Georges Mandel",wikidata,M,Q669893,relation+way
+"Avenue Georges Mandel",wikidata,M,Q669893,relation
 "Avenue Georges Risler",wikidata,M,Q3103413,relation
 "Avenue Gordon Bennett",wikidata,M,Q1343611,relation
 "Avenue Gourgaud",wikidata,M,Q545690,relation
@@ -601,7 +605,7 @@ name,source,gender,wikidata,type
 "Avenue Van Dyck",wikidata,M,Q150679,relation
 "Avenue Vavin",wikidata,M,Q2834667,relation
 "Avenue Vélasquez",wikidata,M,Q297,relation
-"Avenue Victor Hugo",wikidata,M,Q535,relation+way
+"Avenue Victor Hugo",wikidata,M,Q535,relation
 "Avenue Villemain",wikidata,M,Q318337,relation
 "Avenue Vincent d'Indy",wikidata,M,Q313584,relation
 "Avenue Winston Churchill",wikidata,M,Q8016,relation
@@ -827,7 +831,7 @@ name,source,gender,wikidata,type
 "Parvis Alan Turing",wikidata,M,Q7251,relation+way
 "Parvis Jean-Maurice Verdier",wikidata,M,Q3167910,relation
 "Parvis Maurice Druon",wikidata,M,Q223949,relation
-"Parvis Notre-Dame - Place Jean-Paul II",wikidata,M,Q2981;Q989;Q989,relation+way
+"Parvis Notre-Dame - Place Jean-Paul II",wikidata,M,Q2981;Q989;Q989,relation
 "Parvis Robert Badinter",wikidata,M,Q2974817;Q336046,relation
 "Passage Alfred Stevens",wikidata,M,Q773855,relation
 "Passage Caumartin",wikidata,M,Q2853511,way
@@ -1104,6 +1108,7 @@ name,source,gender,wikidata,type
 "Place Rutebeuf",wikidata,M,Q918599,relation
 "Place Saint-Thomas d'Aquin",wikidata,M,Q9438,relation
 "Place Serge Poliakoff",wikidata,M,Q384860,relation
+"Place Shimon Peres",wikidata,M,Q57410,relation
 "Place Skanderbeg",wikidata,M,Q160614,relation
 "Place Slavik",wikidata,M,Q18016116,relation
 "Place Slimane Azem",wikidata,M,Q1071259,relation
@@ -1476,7 +1481,7 @@ name,source,gender,wikidata,type
 "Rue Caffarelli",wikidata,M,Q2356521,relation
 "Rue Cail",wikidata,M,Q1233361,relation
 "Rue Cailletet",wikidata,M,Q438769,relation
-"Rue Caillie",wikidata,M,Q368976,relation
+"Rue Caillié",wikidata,M,Q368976,relation
 "Rue Cambacérès",wikidata,M,Q290045,relation
 "Rue Cambon",wikidata,M,Q649038,relation
 "Rue Cambronne",wikidata,M,Q472540,relation
@@ -2401,6 +2406,7 @@ name,source,gender,wikidata,type
 "Rue Meyerbeer",wikidata,M,Q105237,relation
 "Rue Meynadier",wikidata,M,Q15967469,relation
 "Rue Michel Ange",wikidata,M,Q5592,relation
+"Rue Michel Blanc",wikidata,M,Q1398256,relation
 "Rue Michel Bréal",wikidata,M,Q327306,relation
 "Rue Michel Chasles",wikidata,M,Q318067,relation
 "Rue Michel Peter",wikidata,M,Q3310558,relation
@@ -2625,7 +2631,7 @@ name,source,gender,wikidata,type
 "Rue Radziwill",wikidata,M,Q386484,relation
 "Rue Raffaelli",wikidata,M,Q658862,relation
 "Rue Raffet",wikidata,M,Q2871385,relation
-"Rue Rambuteau",wikidata,M,Q717289,relation
+"Rue Rambuteau",wikidata,M,Q717289,relation+way
 "Rue Rameau",wikidata,M,Q1145,relation
 "Rue Rampal",wikidata,M,Q64512551,relation
 "Rue Rampon",wikidata,M,Q2853482,relation+way
@@ -2733,7 +2739,7 @@ name,source,gender,wikidata,type
 "Rue Santos-Dumont",wikidata,M,Q313211,relation
 "Rue Sarasate",wikidata,M,Q204503,relation
 "Rue Sarrette",wikidata,M,Q822699,relation+way
-"Rue Sauval",wikidata,M,Q3131994,relation+way
+"Rue Sauval",wikidata,M,Q3131994,relation
 "Rue Savorgnan de Brazza",wikidata,M,Q319834,relation
 "Rue Scarron",wikidata,M,Q551725,relation
 "Rue Scheffer",wikidata,M,Q436726,relation
@@ -2749,7 +2755,7 @@ name,source,gender,wikidata,type
 "Rue Sergent Maginot",wikidata,M,Q318617,relation
 "Rue Serpollet",wikidata,M,Q28559,relation
 "Rue Serret",wikidata,M,Q726415,relation
-"Rue Servan",wikidata,M,Q2684623,relation+way
+"Rue Servan",wikidata,M,Q2684623,relation
 "Rue Servandoni",wikidata,M,Q2356668,relation
 "Rue Severiano de Heredia",wikidata,M,Q3480822,relation
 "Rue Severo",wikidata,M,Q9637918,relation
@@ -2770,7 +2776,7 @@ name,source,gender,wikidata,type
 "Rue Stanislas",wikidata,M,Q54022,relation
 "Rue Stanislas Meunier",wikidata,M,Q3496694,relation
 "Rue Steinlen",wikidata,M,Q706041,relation
-"Rue Stendhal",wikidata,M,Q502,relation
+"Rue Stendhal",wikidata,M,Q502,relation+way
 "Rue Stéphane Grappelli",wikidata,M,Q206244,relation
 "Rue Stephenson",wikidata,M,Q133614,relation
 "Rue Sthrau",wikidata,M,Q3514740,relation
