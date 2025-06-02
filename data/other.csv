@@ -1996,7 +1996,7 @@ name,source,gender,wikidata,type
 "Villa Jean-Baptiste Luquet",wikidata,,Q618532,relation
 "Villa Louvat",wikidata,,Q618532,relation
 "Villa Mallebay",wikidata,,Q618532,relation
-"Villa Marcès",wikidata,,Q618532,relation
+"Villa Marcès",wikidata,,Q618532,relation+way
 "Villa Poirier",wikidata,,Q618532,relation
 "Villa Poissonnière",wikidata,,Q600396,relation
 "Villa Saint-Charles",wikidata,,Q3449851;Q7758,relation
@@ -2125,8 +2125,8 @@ name,source,gender,wikidata,type
 "Anneau de Longchamp",,,,way
 "Arcade des Champs-Élysées",,,,relation
 "Autoroute A13",,,,relation
-"Autoroute A4",,,,relation
 "Autoroute de Normandie",,,,way
+"Autoroute de l'Est A4",,,,relation
 "Autoroute de l’Est",,,,way
 "Avenue Boudon",,,,relation
 "Avenue Darcel",,,,relation
@@ -2366,7 +2366,9 @@ name,source,gender,wikidata,type
 "Esplanade d'Arménie",,,,relation
 "Esplanade du Dinh",,,,way
 "Esplanade du Hall",,,,way
+"Esplanade du Quai Saint Bernard",,,,way
 "Fer à Cheval",,,,way
+"Future place Ganda Fadiga",,,,way
 "Galerie Antarès",,,,way
 "Galerie Berri Washington",,,,way
 "Galerie Duo",,,,way
@@ -3095,7 +3097,7 @@ Rolltreppe,,,,way
 "Rue des Cheminets",,,,relation
 "Rue des Cinq Diamants",,,,relation
 "Rue des Ciseaux",,,,relation
-"Rue des Cités",,,,relation
+"Rue des Cités",,,,relation+way
 "Rue des Colonnes",,,,relation
 "Rue des Cottages",,,,relation
 "Rue des Couronnes",,,,relation
@@ -3270,7 +3272,7 @@ Rolltreppe,,,,way
 "Rue du Roi Doré",,,,relation
 "Rue du Roule",,,,relation
 "Rue du Sabot",,,,relation
-"Rue du Sentier",,,,relation
+"Rue du Sentier",,,,relation+way
 "Rue du Talus du Cours",,,,relation
 "Rue du Vélodrome",,,,relation
 "Rue du Vertbois",,,,relation

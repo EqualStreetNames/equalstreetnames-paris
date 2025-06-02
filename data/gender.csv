@@ -771,6 +771,7 @@ name,source,gender,wikidata,type
 "Esplanade Gilles Jacquier",wikidata,M,Q2674537,way
 "Esplanade Habib Bourguiba",wikidata,M,Q643348,relation
 "Esplanade Henri de France",wikidata,M,Q1172880,relation
+"Esplanade Hubert Beuve-Méry",wikidata,M,Q84021,relation
 "Esplanade Jacques Chaban Delmas",wikidata,M,Q12940,relation
 "Esplanade Jacques Chaban-Delmas",wikidata,M,Q12940,relation
 "Esplanade Johnny Hallyday",wikidata,M,Q212015,way
@@ -883,7 +884,7 @@ name,source,gender,wikidata,type
 "Place André Tardieu",wikidata,M,Q346648,relation
 "Place André Zirnheld",wikidata,M,Q2848826,relation
 "Place Antoine Furetière",wikidata,M,Q586211,relation
-"Place Armand Carrel",wikidata,M,Q574437,relation
+"Place Armand Carrel",wikidata,M,Q3439235,relation
 "Place Arnault Tzanck",wikidata,M,Q2863276,relation
 "Place Athanase Bassinet",wikidata,M,Q13080814,relation
 "Place August Strindberg",wikidata,M,Q7724,way
@@ -1010,7 +1011,7 @@ name,source,gender,wikidata,type
 "Place José Marti",wikidata,M,Q103285,relation
 "Place José Rizal",wikidata,M,Q1500,relation
 "Place Joseph Epstein",wikidata,M,Q429722,relation
-"Place Jules Joffrin",wikidata,M,Q3188690,relation
+"Place Jules Joffrin",wikidata,M,Q3188690,relation+way
 "Place Jules Rimet",wikidata,M,Q199642,relation
 "Place Jules Sénard",wikidata,M,Q587009,relation
 "Place Justin Godart",wikidata,M,Q3190446,relation
@@ -1586,7 +1587,7 @@ name,source,gender,wikidata,type
 "Rue Claude Bernard",wikidata,M,Q208230,relation+way
 "Rue Claude Chahu",wikidata,M,Q26334831,relation
 "Rue Claude Debussy",wikidata,M,Q4700,relation
-"Rue Claude Decaen",wikidata,M,Q1097178,relation
+"Rue Claude Decaen",wikidata,M,Q1097178,relation+way
 "Rue Claude Érignac",wikidata,M,Q2978374,relation
 "Rue Claude Farrère",wikidata,M,Q2341186,relation
 "Rue Claude Garamond",wikidata,M,Q442851,relation
@@ -2327,7 +2328,7 @@ name,source,gender,wikidata,type
 "Rue Louis Vicat",wikidata,M,Q650602,relation
 "Rue Louis Vierne",wikidata,M,Q299669,relation
 "Rue Louis-Nicolas Clérambault",wikidata,M,Q470149,relation
-"Rue Lounès Matoub",wikidata,M,Q524362,relation
+"Rue Lounès Matoub",wikidata,M,Q524362,relation+way
 "Rue Lucien Bossoutrot",wikidata,M,Q822424,relation
 "Rue Lucien Gaulard",wikidata,M,Q709359,relation
 "Rue Lucien Lambeau",wikidata,M,Q20789764,relation
