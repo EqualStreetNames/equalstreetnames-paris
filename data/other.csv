@@ -708,7 +708,6 @@ name,source,gender,wikidata,type
 "Passage du Vertbois",wikidata,,Q3452627,relation
 "Passerelle de la Moselle",wikidata,,Q1667,way
 "Passerelle des Ardennes",wikidata,,Q3164,way
-"Passerelle des Douanes",wikidata,,Q182290,way
 "Péristyle de Beaujolais",wikidata,,Q7179060,relation
 "Petite Ceinture",wikidata,,Q2873598;Q3449783,way
 "Place Beauvau",wikidata,,Q3145745,relation
@@ -868,7 +867,7 @@ name,source,gender,wikidata,type
 "Place du Panthéon",wikidata,,Q188856,relation+way
 "Place du Pérou",wikidata,,Q419,relation
 "Place du Petit Pont",wikidata,,Q1323635,relation+way
-"Place du Pont Neuf",wikidata,,Q335277,relation
+"Place du Pont Neuf",wikidata,,Q335277;Q14633979;Q3351266,relation
 "Place du Professeur Muhammad Yunus",wikidata,,Q3451362;Q43969,relation
 "Place du Québec",wikidata,,Q176,relation+way
 "Place du Trocadéro et du 11 Novembre",wikidata,,Q104541845;Q253224,way
@@ -878,7 +877,7 @@ name,source,gender,wikidata,type
 "Pont Levant de la Rue de Crimée",wikidata,,Q3450694,way
 "Pont Morland",wikidata,,Q2921888;Q3085220,relation
 "Pont National",wikidata,,Q622774,relation+way
-"Pont Neuf",wikidata,,Q335277,relation+way
+"Pont Neuf",wikidata,,Q335277;Q14633979;Q3351266,relation+way
 "Pont Notre-Dame",wikidata,,Q2981,way
 "Pont Saint-Michel",wikidata,,Q26269675,relation+way
 "Pont Suspendu",wikidata,,Q532113,way
@@ -1144,6 +1143,7 @@ name,source,gender,wikidata,type
 "Rue Lecuirot",wikidata,,Q618532,relation
 "Rue Ledion",wikidata,,Q618532,relation
 "Rue Legrand",wikidata,,Q618532,relation
+"Rue Lekain",wikidata,,Q2921819,relation
 "Rue Lemaignan",wikidata,,Q618532,relation
 "Rue Lemercier",wikidata,,Q618532,relation
 "Rue Lemon",wikidata,,Q618532,relation
@@ -1218,7 +1218,7 @@ name,source,gender,wikidata,type
 "Rue Rosenwald",wikidata,,Q618532,relation
 "Rue Rougemont",wikidata,,Q64528098,relation
 "Rue Rousselet",wikidata,,Q618532,relation
-"Rue Saint-Amand",wikidata,,Q618532,relation
+"Rue Saint-Amand",wikidata,,Q618532,relation+way
 "Rue Saint-Ambroise",wikidata,,Q2626611,relation
 "Rue Saint-André des Arts",wikidata,,Q1230964,relation
 "Rue Saint-Antoine",wikidata,,Q1500914,relation
@@ -1560,7 +1560,7 @@ name,source,gender,wikidata,type
 "Rue de Villersexel",wikidata,,Q989788,relation
 "Rue de Vimoutiers",wikidata,,Q729239,relation
 "Rue de Viroflay",wikidata,,Q83432,relation
-"Rue de Vouillé",wikidata,,Q851504,relation
+"Rue de Vouillé",wikidata,,Q851504,relation+way
 "Rue de Wattignies",wikidata,,Q1059732;Q1105062,relation
 "Rue de l'Abbaye",wikidata,,Q334186,relation
 "Rue de l'Abreuvoir",wikidata,,Q932689,relation
@@ -1618,9 +1618,10 @@ name,source,gender,wikidata,type
 "Rue de la Boule Rouge",wikidata,,Q11170170,relation
 "Rue de la Bourse",wikidata,,Q1854102,relation
 "Rue de la Brèche aux Loups",wikidata,,Q23824553,relation
+"Rue de la Cerisaie",wikidata,,Q124593615,relation+way
 "Rue de la Chapelle",wikidata,,Q13103683;Q3413190,relation+way
 "Rue de la Chine",wikidata,,Q29520,relation
-"Rue de la Cité",wikidata,,Q190063,relation
+"Rue de la Cité",wikidata,,Q190063,relation+way
 "Rue de la Cité Universitaire",wikidata,,Q1094300,relation
 "Rue de la Concertation",wikidata,,Q2991722,relation
 "Rue de la Convention",wikidata,,Q219825,relation+way
@@ -1635,7 +1636,7 @@ name,source,gender,wikidata,type
 "Rue de la Goutte d'Or",wikidata,,Q591741,relation
 "Rue de la Guadeloupe",wikidata,,Q17012,relation
 "Rue de la Justice",wikidata,,Q5167661,relation
-"Rue de la Légion Étrangère",wikidata,,Q188559,relation
+"Rue de la Légion Étrangère",wikidata,,Q188559,relation+way
 "Rue de la Légion d'Honneur",wikidata,,Q163700,relation
 "Rue de la Liberté",wikidata,,Q2979,relation
 "Rue de la Louisiane",wikidata,,Q658054,relation
@@ -2062,6 +2063,7 @@ name,source,gender,wikidata,type
 "Allée Gracia et Joseph Saltiel",,,,way
 "Allée Hauÿ",,,,way
 "Allée Jussieu",,,,way
+"Allée Laurent Danchin",,,,way
 "Allée Le Gramat",,,,relation
 "Allée Lenoir",,,,way
 "Allée Louis Pergaud",,,,way
@@ -2368,7 +2370,6 @@ name,source,gender,wikidata,type
 "Esplanade du Hall",,,,way
 "Esplanade du Quai Saint Bernard",,,,way
 "Fer à Cheval",,,,way
-"Future place Ganda Fadiga",,,,way
 "Galerie Antarès",,,,way
 "Galerie Berri Washington",,,,way
 "Galerie Duo",,,,way
@@ -2579,6 +2580,7 @@ Ledru-Rollin,,,,way
 Petit-Pont,,,,way
 "Piste Cyclable de l'Ourcq",,,,way
 "Place Albert Memmi",,,,way
+"Place Alice Mathieu-Dubois",,,,relation
 "Place Baudoyer",,,,relation
 "Place Charles Monselet",,,,way
 "Place ED/19",,,,relation
@@ -2745,7 +2747,6 @@ Rolltreppe,,,,way
 "Rue Adrien Lesesne",,,,way
 "Rue Albert Guilpin",,,,relation
 "Rue André Bréchet",,,,relation
-"Rue André Joineau",,,,way
 "Rue Aubry le Boucher",,,,relation
 "Rue Bailly",,,,relation
 "Rue Barbette",,,,relation
@@ -2818,6 +2819,7 @@ Rolltreppe,,,,way
 "Rue Jacob",,,,relation
 "Rue Jean Bleuzen",,,,relation
 "Rue Jean Lantier",,,,relation
+"Rue Jean Moulin",,,,way
 "Rue Jean Tison",,,,relation
 "Rue Jean de Beauvais",,,,relation
 "Rue Joseph Bernard",,,,relation
@@ -3006,7 +3008,6 @@ Rolltreppe,,,,way
 "Rue de la Bûcherie",,,,relation
 "Rue de la Butte-aux-Cailles",,,,relation
 "Rue de la Cavalerie",,,,relation
-"Rue de la Cerisaie",,,,relation
 "Rue de la Chaise",,,,relation
 "Rue de la Charbonnière",,,,relation
 "Rue de la Clef",,,,relation
@@ -3057,7 +3058,7 @@ Rolltreppe,,,,way
 "Rue de la Perle",,,,relation
 "Rue de la Petite Arche",,,,relation
 "Rue de la Petite Pierre",,,,relation
-"Rue de la Petite Truanderie",,,,relation
+"Rue de la Petite-Truanderie",,,,relation
 "Rue de la Pierre Levée",,,,relation
 "Rue de la Plaine",,,,relation
 "Rue de la Pointe d'Ivry",,,,relation
