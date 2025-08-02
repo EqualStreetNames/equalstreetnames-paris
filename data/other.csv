@@ -126,7 +126,7 @@ name,source,gender,wikidata,type
 "Avenue des Arts",wikidata,,Q735,relation
 "Avenue des Canadiens",wikidata,,Q1196645,relation+way
 "Avenue des Champs-Élysées",wikidata,,Q157128,relation
-"Avenue des Gobelins",wikidata,,Q732312,relation
+"Avenue des Gobelins",wikidata,,Q732312,relation+way
 "Avenue des Minimes",wikidata,,Q1367736,relation
 "Avenue des Nations Unies",wikidata,,Q1065,relation
 "Avenue des Nations-Unies",wikidata,,Q1065,way
@@ -341,7 +341,7 @@ name,source,gender,wikidata,type
 "Galerie Vivienne",wikidata,,Q3450361,relation
 "Galerie de Beaujolais",wikidata,,Q3450561,relation
 "Galerie de Montpensier",wikidata,,Q3450903,relation
-"Galerie de l'Ourcq",wikidata,,Q945377,relation
+"Galerie de l'Ourcq",wikidata,,Q945377,relation+way
 "Galerie de la Cour d'Honneur",wikidata,,Q115382521,relation
 "Galerie de la Madeleine",wikidata,,Q330564,relation
 "Galerie de la Villette",wikidata,,Q246448,relation
@@ -790,7 +790,7 @@ name,source,gender,wikidata,type
 "Place de l’Europe - Simone Veil",wikidata,,Q46;Q298180,relation
 "Place de la Bastille",wikidata,,Q1865480,relation+way
 "Place de la Bataille de Stalingrad",wikidata,,Q38789,relation+way
-"Place de la Bourse",wikidata,,Q1854102;Q178513,relation+way
+"Place de la Bourse",wikidata,,Q1854102;Q178513,relation
 "Place de la Chapelle",wikidata,,Q13103683,relation+way
 "Place de la Commune de Paris",wikidata,,Q133132,relation
 "Place de la Concorde",wikidata,,Q746321,relation+way
@@ -867,7 +867,7 @@ name,source,gender,wikidata,type
 "Place du Panthéon",wikidata,,Q188856,relation+way
 "Place du Pérou",wikidata,,Q419,relation
 "Place du Petit Pont",wikidata,,Q1323635,relation+way
-"Place du Pont Neuf",wikidata,,Q335277;Q14633979;Q3351266,relation
+"Place du Pont-Neuf - Christo et Jeanne-Claude",wikidata,,Q335277;Q14633979;Q3351266,relation+way
 "Place du Professeur Muhammad Yunus",wikidata,,Q3451362;Q43969,relation
 "Place du Québec",wikidata,,Q176,relation+way
 "Place du Trocadéro et du 11 Novembre",wikidata,,Q104541845;Q253224,way
@@ -1163,7 +1163,7 @@ name,source,gender,wikidata,type
 "Rue Marbeau",wikidata,,Q618532,relation
 "Rue Marie Benoist",wikidata,,Q12794619;Q618532,relation
 "Rue Masseran",wikidata,,Q3145893,relation
-"Rue Mathis",wikidata,,Q618532,relation
+"Rue Mathis",wikidata,,Q618532,relation+way
 "Rue Meslay",wikidata,,Q618532,relation
 "Rue Messidor",wikidata,,Q837281,relation
 "Rue Monjol",wikidata,,Q618532,relation
@@ -2100,6 +2100,7 @@ name,source,gender,wikidata,type
 "Allée des Buttes",,,,relation
 "Allée des Cardinoux",,,,relation
 "Allée des Dames",,,,relation
+"Allée des Défenseurs de la Caserne de la Cité",,,,relation
 "Allée des Enfants et Victimes de la Prise d'Otages de Djibouti-Loyada de Février 1976",,,,relation
 "Allée des Feuillants",,,,way
 "Allée des Jussieu",,,,way
@@ -2578,9 +2579,9 @@ Ledru-Rollin,,,,way
 "Péristyle de Montpensier",,,,relation
 "Péristyle de Valois",,,,relation
 Petit-Pont,,,,way
-"Piste Cyclable de l'Ourcq",,,,way
 "Place Albert Memmi",,,,way
 "Place Alice Mathieu-Dubois",,,,relation
+"Place Artemisia Gentileschi",,,,relation
 "Place Baudoyer",,,,relation
 "Place Charles Monselet",,,,way
 "Place ED/19",,,,relation
@@ -2621,6 +2622,7 @@ Petit-Pont,,,,way
 "Place du Guignier",,,,relation
 "Place du Moulin de Javel",,,,relation+way
 "Place du Paraguay",,,,relation
+"Place du Pont-Neuf",,,,way
 "Place du Puits de l'Ermite",,,,relation
 "Place du Tertre",,,,relation
 "Place du Trocadéro",,,,way
@@ -2658,12 +2660,12 @@ Petit-Pont,,,,way
 "Quai D",,,,way
 "Quai E",,,,way
 "Quai F",,,,way
+"Quai Kathrine Switzer",,,,way
 "Quai Malaquais",,,,relation
 "Quai Saint-Bernard",,,,relation
 "Quai Transversal",,,,way
 "Quai de Conti",,,,relation+way
 "Quai de Gesvres",,,,relation
-"Quai de l'Aisne",,,,way
 "Quai de l'Archevêché",,,,relation
 "Quai des Grands Augustins",,,,relation
 "Quai du Gros Caillou",,,,way
@@ -2996,14 +2998,12 @@ Rolltreppe,,,,way
 "Rue de l'Estrapade",,,,relation
 "Rue de l'Étoile",,,,relation
 "Rue de l'Hôtel Saint-Paul",,,,relation
-"Rue de l'Oculus",,,,relation
 "Rue de l'Orillon",,,,relation
 "Rue de l'Orme",,,,relation
 "Rue de l'Yvette",,,,relation
 "Rue de l’Élysée Ménilmontant",,,,relation
 "Rue de la Baume",,,,relation
 "Rue de la Bonne",,,,relation
-"Rue de la Boucle",,,,relation
 "Rue de la Briqueterie",,,,relation
 "Rue de la Bûcherie",,,,relation
 "Rue de la Butte-aux-Cailles",,,,relation
@@ -3826,6 +3826,5 @@ Sortie,,,,way
 "Voie du/13",,,,relation
 "avenue Michel Bizot",,,,way
 "rampe PMR",,,,way
-"rue de la Boucle",,,,way
 "rue de rennes",,,,way
 "villa Curial",,,,relation

@@ -121,11 +121,11 @@ name,source,gender,wikidata,type
 "Passage de la Reine de Hongrie",wikidata,F,Q131706,relation
 "Passerelle Arletty",wikidata,F,Q235617,way
 "Passerelle Emmanuelle Riva",wikidata,F,Q436996,way
+"Passerelle Jane Birkin",wikidata,F,Q212873,relation
 "Passerelle Marcelle-Henry",wikidata,F,Q3289554,relation
 "Passerelle Maria Schneider",wikidata,F,Q224071,way
 "Passerelle Michèle Morgan",wikidata,F,Q234897,relation+way
 "Passerelle Simone de Beauvoir",wikidata,F,Q7197,way
-"Passerelle des Douanes",wikidata,F,Q212873,way
 "Patio-place Pina Bausch",wikidata,F,Q155538,relation
 "Place Alice Guy",wikidata,F,Q263367,relation
 "Place Angélique du Coudray",wikidata,F,Q2849879,relation
@@ -282,7 +282,7 @@ name,source,gender,wikidata,type
 "Rue Juliette Récamier",wikidata,F,Q236442,relation
 "Rue Laure Diebold",wikidata,F,Q275551,relation
 "Rue Laure Surville",wikidata,F,Q3218795,relation
-"Rue Louise Bourgeois",wikidata,F,Q159409,relation
+"Rue Louise Bourgeois",wikidata,F,Q159409,relation+way
 "Rue Louise Hervieu",wikidata,F,Q3263755,relation
 "Rue Louise Thuliez",wikidata,F,Q3263834,relation
 "Rue Louise Weiss",wikidata,F,Q274163,relation
@@ -862,6 +862,7 @@ name,source,gender,wikidata,type
 "Passerelle Jim-Morrison",wikidata,M,Q944098,way
 "Passerelle Léopold Sedar Senghor",wikidata,M,Q154545,relation
 "Petit-Pont - Cardinal Lustiger",wikidata,M,Q168509,way
+"Piste Cyclable Paul Varry",wikidata,M,Q130558045,way
 "Place Adolphe Chérioux",wikidata,M,Q2824793,relation
 "Place Adolphe Max",wikidata,M,Q2535128,relation
 "Place Adrien Oudin",wikidata,M,Q13077207,relation
@@ -957,6 +958,7 @@ name,source,gender,wikidata,type
 "Place Gabriel Péri",wikidata,M,Q480164,relation
 "Place Gambetta",wikidata,M,Q295090,relation+way
 "Place Ganda Fadiga",wikidata,M,Q3095079,relation
+"Place Garbis Aprikian",wikidata,M,Q3095327,relation
 "Place Georges Berry",wikidata,M,Q3102282,relation
 "Place Georges Enesco",wikidata,M,Q77177,relation
 "Place Georges Guillaumin",wikidata,M,Q61961713,relation
@@ -2105,6 +2107,7 @@ name,source,gender,wikidata,type
 "Rue Jacques Louvel-Tessier",wikidata,M,Q64507816,relation
 "Rue Jacques Monory",wikidata,M,Q3159599,relation+way
 "Rue Jacques Offenbach",wikidata,M,Q41555,relation
+"Rue Jacques Perrin",wikidata,M,Q561124,relation
 "Rue Jacques Prévert",wikidata,M,Q165274,relation
 "Rue Jacques-Henri Lartigue",wikidata,M,Q382329,relation
 "Rue Jadin",wikidata,M,Q3262053,relation
@@ -2455,7 +2458,7 @@ name,source,gender,wikidata,type
 "Rue Mozart",wikidata,M,Q254,relation
 "Rue Mstislav Rostropovitch",wikidata,M,Q152043,relation
 "Rue Murillo",wikidata,M,Q192062,relation
-"Rue Nansouty",wikidata,M,Q289943,relation
+"Rue Nansouty",wikidata,M,Q289943,relation+way
 "Rue Nanteuil",wikidata,M,Q1356084,relation
 "Rue Narcisse Diaz",wikidata,M,Q724140,relation
 "Rue Navier",wikidata,M,Q313512,relation
