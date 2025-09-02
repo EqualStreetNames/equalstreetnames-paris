@@ -650,7 +650,7 @@ name,source,gender,wikidata,type
 "Avenue du Général Mangin",wikidata,M,Q508659,relation
 "Avenue du Général Margueritte",wikidata,M,Q1235620,relation
 "Avenue du Général Messimy",wikidata,M,Q365771,relation
-"Avenue du Général Michel Bizot",wikidata,M,Q3309024,relation
+"Avenue du Général Michel Bizot",wikidata,M,Q3309024,relation+way
 "Avenue du Général San Martin",wikidata,M,Q134160,relation+way
 "Avenue du Général Sarrail",wikidata,M,Q176522,way
 "Avenue du Général Tripier",wikidata,M,Q15984471,relation
@@ -1113,7 +1113,7 @@ name,source,gender,wikidata,type
 "Place Robert Verdier",wikidata,M,Q3436471,relation
 "Place Rochambeau",wikidata,M,Q508363,relation
 "Place Rodin",wikidata,M,Q30755,relation
-"Place Roger Madec",wikidata,M,Q3439235,relation
+"Place Roger Madec",wikidata,M,Q3439235,relation+way
 "Place Romain Gary",wikidata,M,Q157322,relation
 "Place Rutebeuf",wikidata,M,Q918599,relation
 "Place Saint-Thomas d'Aquin",wikidata,M,Q9438,relation
@@ -2109,7 +2109,7 @@ name,source,gender,wikidata,type
 "Rue Jacques Offenbach",wikidata,M,Q41555,relation
 "Rue Jacques Perrin",wikidata,M,Q561124,relation
 "Rue Jacques Prévert",wikidata,M,Q165274,relation
-"Rue Jacques-Henri Lartigue",wikidata,M,Q382329,relation
+"Rue Jacques-Henri Lartigue",wikidata,M,Q382329,relation+way
 "Rue Jadin",wikidata,M,Q3262053,relation
 "Rue Janssen",wikidata,M,Q298581,relation
 "Rue Japy",wikidata,M,Q3089916,relation
@@ -2425,6 +2425,7 @@ name,source,gender,wikidata,type
 "Rue Michel Peter",wikidata,M,Q3310558,relation
 "Rue Michel Tagrine",wikidata,M,Q21211771,relation
 "Rue Michel de Bourges",wikidata,M,Q951472,relation
+"Rue Michel-Ange",wikidata,M,Q5592,relation+way
 "Rue Michelet",wikidata,M,Q310791,relation
 "Rue Mignard",wikidata,M,Q360010,relation
 "Rue Miguel Hidalgo",wikidata,M,Q55636,relation
@@ -2687,6 +2688,7 @@ name,source,gender,wikidata,type
 "Rue Riquet",wikidata,M,Q714166,relation+way
 "Rue Robert Blache",wikidata,M,Q64512185,relation
 "Rue Robert Esnault Pelterie",wikidata,M,Q20894,relation
+"Rue Robert Esnault-Pelterie",wikidata,M,Q20894,way
 "Rue Robert Estienne",wikidata,M,Q260921,relation
 "Rue Robert Etlin",wikidata,M,Q20968260,relation
 "Rue Robert Fleury",wikidata,M,Q702700,relation
@@ -3093,7 +3095,7 @@ name,source,gender,wikidata,type
 "Rue du Douanier Rousseau",wikidata,M,Q156386,relation
 "Rue du Général Alain de Boissieu",wikidata,M,Q369948,relation
 "Rue du Général Anselin",wikidata,M,Q15971693,relation+way
-"Rue du Général Archinard",wikidata,M,Q1379149,relation
+"Rue du Général Archinard",wikidata,M,Q1379149,relation+way
 "Rue du Général Aube",wikidata,M,Q23912180,relation
 "Rue du Général Baratier",wikidata,M,Q2830940,relation
 "Rue du Général Bertrand",wikidata,M,Q63475,relation
