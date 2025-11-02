@@ -38,6 +38,7 @@ name,source,gender,wikidata,type
 "Allée Marcel Bernard",,,,way
 "Allée Mary Reynolds",,,,relation+way
 "Allée Nord Chatrier",,,,way
+"Allée Olympe de Gouges",,,,way
 "Allée Pierre Hadot",,,,way
 "Allée Principale",,,,way
 "Allée Raffet",,,,way
@@ -74,6 +75,7 @@ name,source,gender,wikidata,type
 "Allée des Marronniers",,,,way
 "Allée des Mauves",,,,relation
 "Allée des Mousquetaires",,,,way
+"Allée des Peshmergas",,,,way
 "Allée des Poteaux",,,,relation
 "Allée des Princes",,,,way
 "Allée des Quatre Carrefours",,,,relation
@@ -234,7 +236,6 @@ name,source,gender,wikidata,type
 "Cité du Figuier",,,,way
 "Cité du Palais-Royal de Belleville",,,,relation
 "Cité du Retiro",,,,relation
-"Cour Aguesseau",,,,way
 "Cour Carrée",,,,relation
 "Cour Censier",,,,way
 "Cour Clisson",,,,way
@@ -254,9 +255,11 @@ name,source,gender,wikidata,type
 "Cour Saint-Pierre",,,,relation
 "Cour Sainte-Claire",,,,relation
 "Cour Sainte-Marguerite",,,,way
+"Cour Sully",,,,way
 "Cour Tubeuf",,,,way
 "Cour d'Avril",,,,way
 "Cour d'honneur",,,,relation+way
+"Cour d’Aguesseau",,,,way
 "Cour de Boisgeslin",,,,way
 "Cour de Clisson",,,,way
 "Cour de Février",,,,way
@@ -330,7 +333,7 @@ name,source,gender,wikidata,type
 "Esplanade Bernard Duperier",,,,relation
 "Esplanade Léo Hamon",,,,way
 "Esplanade Renée Lebas",,,,way
-"Esplanade Silvia Montfort",,,,relation+way
+"Esplanade Silvia Monfort",,,,relation+way
 "Esplanade d'Arménie",,,,relation
 "Esplanade du Dinh",,,,way
 "Esplanade du Hall",,,,way
@@ -422,6 +425,7 @@ Ledru-Rollin,,,,way
 "Marché Villette",,,,way
 "Marché de la Madeleine",,,,way
 "Métro Ligne 1",,,,way
+"Nation - Trône",,,,way
 "Nouvelle Athènes",,,,relation
 "P Vélo Gare Montparnasse",,,,way
 "Parcours Santé",,,,way
@@ -576,6 +580,7 @@ Petit-Pont,,,,way
 "Place des Combattants en Afrique du Nord",,,,relation
 "Place des Grès",,,,relation
 "Place des Martyrs de la Résistance de la Porte de Sèvres",,,,relation
+"Place des Messageries de l'Est",,,,relation
 "Place des Nations Unies",,,,way
 "Place des Saussaies",,,,relation
 "Place des Vins de France",,,,relation
@@ -710,7 +715,6 @@ Rolltreppe,,,,way
 "Route du Ruisseau",,,,relation
 "Rue Adrien Lesesne",,,,way
 "Rue Albert Guilpin",,,,relation
-"Rue André Bréchet",,,,relation
 "Rue Aubry le Boucher",,,,relation
 "Rue Bailly",,,,relation
 "Rue Barbette",,,,relation
@@ -1003,7 +1007,6 @@ Rolltreppe,,,,way
 "Rue de la Grande Chaumière",,,,relation
 "Rue de la Grande Truanderie",,,,relation
 "Rue de la Grange Batelière",,,,relation
-"Rue de la Grange aux Belles",,,,relation+way
 "Rue de la Grenade",,,,relation
 "Rue de la Harpe",,,,relation
 "Rue de la Huchette",,,,relation+way
@@ -1400,6 +1403,7 @@ Sortie,,,,way
 "Villa de la Tour",,,,relation
 "Villa des Boërs",,,,relation
 "Villa des Buttes-Chaumont",,,,relation
+"Villa des Enfants Terribles",,,,relation
 "Villa des Entrepreneurs",,,,relation
 "Villa des Falaises",,,,relation
 "Villa des Glizières",,,,relation
@@ -1770,7 +1774,6 @@ Sortie,,,,way
 "Voie Y/19",,,,relation
 "Voie Z/16",,,,relation
 "Voie Z/18",,,,relation
-"Voie Z/20",,,,relation
 "Voie de/13",,,,relation
 "Voie de/19",,,,relation
 "Voie du/13",,,,relation
