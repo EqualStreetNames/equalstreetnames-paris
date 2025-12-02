@@ -191,7 +191,7 @@ name,source,gender,wikidata,type
 "Boulevard de Belleville",wikidata,-,Q1440685,relation
 "Boulevard de Bercy",wikidata,-,Q16532200;Q773318,relation+way
 "Boulevard de Bonne Nouvelle",wikidata,-,Q279151,relation+way
-"Boulevard de Charonne",wikidata,-,Q18199435;Q728591,relation+way
+"Boulevard de Charonne",wikidata,-,Q18199435,relation
 "Boulevard de Courcelles",wikidata,-,Q3001242,relation+way
 "Boulevard de Denain",wikidata,-,Q212959,relation
 "Boulevard de Dixmude",wikidata,-,Q215244,relation
@@ -566,7 +566,6 @@ name,source,gender,wikidata,type
 "Passage Hennel",wikidata,-,Q12794619;Q618532,relation
 "Passage Hulot",wikidata,-,Q12794619;Q618532,relation
 "Passage Jean Beausire",wikidata,-,Q3448445,relation
-"Passage Joanès",wikidata,-,Q3448556,relation
 "Passage Josseaume",wikidata,-,Q618532,relation
 "Passage Josset",wikidata,-,Q618532,relation
 "Passage Jouffroy",wikidata,-,Q618532,relation
@@ -990,7 +989,7 @@ name,source,gender,wikidata,type
 "Route de la Tourelle",wikidata,-,Q6502179,relation+way
 "Route des Chênes",wikidata,-,Q12004,relation
 "Route des Fortifications",wikidata,-,Q57821,relation+way
-"Route des Merisiers",wikidata,-,Q165137,relation
+"Route des Merisiers",wikidata,-,Q165137,relation+way
 "Route des Moulins",wikidata,-,Q44494,relation+way
 "Route des Pins",wikidata,-,Q12024,relation
 "Route du Bac",wikidata,-,Q2878108,relation
@@ -2739,7 +2738,7 @@ name,source,gender,wikidata,type
 "Boulevard Exelmans",wikidata,M,Q116260,relation
 "Boulevard Flandrin",wikidata,M,Q472235,relation+way
 "Boulevard Gallieni",wikidata,M,Q17577,relation
-"Boulevard Garibaldi",wikidata,M,Q539,relation
+"Boulevard Garibaldi",wikidata,M,Q539,relation+way
 "Boulevard Gouvion-Saint-Cyr",wikidata,M,Q347652,relation+way
 "Boulevard Haussmann",wikidata,M,Q191798,relation+way
 "Boulevard Henri IV",wikidata,M,Q936976,relation+way
@@ -2781,7 +2780,6 @@ name,source,gender,wikidata,type
 "Boulevard du Général Martial Valin",wikidata,M,Q504402,relation
 "Boulevard du Général d'Armée Jean Simon",wikidata,M,Q1685824,relation+way
 "Boulevard du Général de Gaulle",wikidata,M,Q2042,relation
-"Boylevard Garibaldi",wikidata,M,Q539,way
 "Carré Lamarck",wikidata,M,Q82122,way
 "Carré Thouin",wikidata,M,Q523100,way
 "Chemin Zimmermann",wikidata,M,Q213607,way
@@ -2898,6 +2896,7 @@ name,source,gender,wikidata,type
 "Passage Gustave Lepeu",wikidata,M,Q27910252,relation
 "Passage Jaillot",wikidata,M,Q22212695,relation
 "Passage Jean Nicot",wikidata,M,Q318368,relation
+"Passage Joanès",wikidata,M,Q3171130,relation
 "Passage Marcel Landowski",wikidata,M,Q1382320,relation
 "Passage Molière",wikidata,M,Q687,relation
 "Passage Moncey",wikidata,M,Q350662,relation
@@ -3571,7 +3570,7 @@ name,source,gender,wikidata,type
 "Rue Catinat",wikidata,M,Q315308,relation
 "Rue Catulle Mendès",wikidata,M,Q971215,relation
 "Rue Cauchy",wikidata,M,Q8814,relation
-"Rue Caulaincourt",wikidata,M,Q678016,relation
+"Rue Caulaincourt",wikidata,M,Q678016,relation+way
 "Rue Cavallotti",wikidata,M,Q2250278,relation
 "Rue Cave",wikidata,M,Q3084199,relation
 "Rue Cavendish",wikidata,M,Q131733,relation
