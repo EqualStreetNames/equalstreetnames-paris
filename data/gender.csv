@@ -175,7 +175,7 @@ name,source,gender,wikidata,type
 "Belvédère de la Bohème",wikidata,-,Q2635232,relation
 "Boulevard Delessert",wikidata,-,Q1385980;Q618532,relation
 "Boulevard Marbeau",wikidata,-,Q618532,relation
-"Boulevard Marguerite de Rochechouart",wikidata,-,Q3451012;Q3290789,relation
+"Boulevard Marguerite de Rochechouart",wikidata,-,Q3451012;Q3290789,relation+way
 "Boulevard Montmartre",wikidata,-,Q3398926,relation+way
 "Boulevard Pereire",wikidata,-,Q286386,relation+way
 "Boulevard Poissonnière",wikidata,-,Q3449588,relation+way
@@ -208,7 +208,7 @@ name,source,gender,wikidata,type
 "Boulevard de Sébastopol",wikidata,-,Q7525,relation
 "Boulevard de Strasbourg",wikidata,-,Q6602,relation+way
 "Boulevard de Vaugirard",wikidata,-,Q3555080,relation+way
-"Boulevard de l'Hôpital",wikidata,-,Q939883,relation
+"Boulevard de l'Hôpital",wikidata,-,Q939883,relation+way
 "Boulevard de l'Yser",wikidata,-,Q217061,relation
 "Boulevard de la Bastille",wikidata,-,Q778784;Q1865480,relation
 "Boulevard de la Chapelle",wikidata,-,Q13103683,relation+way
@@ -367,7 +367,7 @@ name,source,gender,wikidata,type
 "Galerie Vivienne",wikidata,-,Q3450361,relation
 "Galerie de Beaujolais",wikidata,-,Q3450561,relation
 "Galerie de Montpensier",wikidata,-,Q3450903,relation
-"Galerie de l'Ourcq",wikidata,-,Q945377,relation+way
+"Galerie de l'Ourcq",wikidata,-,Q945377;Q945377;Q1032646,relation+way
 "Galerie de la Cour d'Honneur",wikidata,-,Q115382521,relation
 "Galerie de la Madeleine",wikidata,-,Q330564,relation
 "Galerie de la Villette",wikidata,-,Q246448,relation
@@ -786,7 +786,7 @@ name,source,gender,wikidata,type
 "Place de Port-au-Prince",wikidata,-,Q34261,relation
 "Place de Rhin et Danube",wikidata,-,Q161715,relation
 "Place de Rio de Janeiro",wikidata,-,Q8678,relation+way
-"Place de Rungis",wikidata,-,Q478105,relation
+"Place de Rungis",wikidata,-,Q478105,relation+way
 "Place de Séoul",wikidata,-,Q8684,relation
 "Place de Sydney",wikidata,-,Q3130,way
 "Place de Tokyo",wikidata,-,Q1535247;Q1490,relation
@@ -1169,7 +1169,6 @@ name,source,gender,wikidata,type
 "Rue Lecuirot",wikidata,-,Q618532,relation
 "Rue Ledion",wikidata,-,Q618532,relation
 "Rue Legrand",wikidata,-,Q618532,relation
-"Rue Lekain",wikidata,-,Q2921819,relation
 "Rue Lemaignan",wikidata,-,Q618532,relation
 "Rue Lemercier",wikidata,-,Q618532,relation
 "Rue Lemon",wikidata,-,Q618532,relation
@@ -2063,6 +2062,7 @@ name,source,gender,wikidata,type
 "Villa du Sahel",wikidata,-,Q3452577;Q66065,relation
 "liaison Gare du Nord – Gare de l'Est",wikidata,-,,way
 "Avenue de la Porte d'Orléans",wikidata,?,Q179888;Q2537524,relation+way
+"Boulevard Barbès",wikidata,?,Q13103683;Q677193,relation+way
 "Boulevard de Clichy",wikidata,?,Q13403;Q1810764;Q2064625,relation+way
 "Parvis Notre-Dame - Place Jean-Paul II",wikidata,?,Q2981;Q989;Q989,relation
 "Parvis Robert Badinter",wikidata,?,Q2974817;Q336046,relation
@@ -2212,6 +2212,7 @@ name,source,gender,wikidata,type
 "Place Juliette Drouet",wikidata,F,Q440119,relation
 "Place Juliette Gréco",wikidata,F,Q156485,relation
 "Place Lili et Nadia Boulanger",wikidata,F,Q230412;Q140619,relation
+"Place Loulou de la Falaise",wikidata,F,Q499983,relation
 "Place Madeleine Braun",wikidata,F,Q18744654,relation
 "Place Madeleine Danielou",wikidata,F,Q3275629,relation
 "Place Madeleine Daniélou",wikidata,F,Q3275629,relation
@@ -2259,6 +2260,7 @@ name,source,gender,wikidata,type
 "Promenade Marie de Roumanie",wikidata,F,Q57666,relation
 "Promenade Rosemonde Pujol",wikidata,F,Q3442520,relation
 "Promenade Thérèse Pierre",wikidata,F,Q3527364,relation
+"Quai Kathrine Switzer",wikidata,F,Q97440819,way
 "Route de la Dame Blanche",wikidata,F,Q231834,relation
 "Rue Ada Lovelace",wikidata,F,Q7259,relation
 "Rue Agar",wikidata,F,Q2826417,relation
@@ -2617,7 +2619,7 @@ name,source,gender,wikidata,type
 "Avenue Octave Gréard",wikidata,M,Q3348840,relation
 "Avenue Parmentier",wikidata,M,Q360312,relation+way
 "Avenue Pasteur",wikidata,M,Q529,relation+way
-"Avenue Paul Adam",wikidata,M,Q381800,relation
+"Avenue Paul Adam",wikidata,M,Q381800,relation+way
 "Avenue Paul Appell",wikidata,M,Q715906,relation
 "Avenue Paul Déroulède",wikidata,M,Q1094964,relation
 "Avenue Paul Doumer",wikidata,M,Q12680,relation+way
@@ -2650,7 +2652,7 @@ name,source,gender,wikidata,type
 "Avenue Secrétan",wikidata,M,Q15983918;Q16855048,relation
 "Avenue Silvestre de Sacy",wikidata,M,Q507774,relation
 "Avenue Simón Bolívar",wikidata,M,Q8605,relation+way
-"Avenue Stéphane Mallarmé",wikidata,M,Q767,relation
+"Avenue Stéphane Mallarmé",wikidata,M,Q767,relation+way
 "Avenue Stephen Pichon",wikidata,M,Q1069292,relation
 "Avenue Sully Prudhomme",wikidata,M,Q42247,relation
 "Avenue Sully-Prudhomme",wikidata,M,Q42247,way
@@ -2675,7 +2677,7 @@ name,source,gender,wikidata,type
 "Avenue de Saxe",wikidata,M,Q76723,relation
 "Avenue de Ségur",wikidata,M,Q2087492,relation
 "Avenue de Selves",wikidata,M,Q2403337,relation
-"Avenue de Suffren",wikidata,M,Q982584,relation+way
+"Avenue de Suffren",wikidata,M,Q982584,relation
 "Avenue de Tourville",wikidata,M,Q565409,relation+way
 "Avenue de Valois",wikidata,M,Q7771,relation
 "Avenue de Villars",wikidata,M,Q158654,relation
@@ -2723,7 +2725,6 @@ name,source,gender,wikidata,type
 "Boulevard Arago",wikidata,M,Q154353,relation+way
 "Boulevard Auguste Blanqui",wikidata,M,Q309722,relation+way
 "Boulevard Aurelle de Paladines",wikidata,M,Q567331,relation
-"Boulevard Barbès",wikidata,M,Q677193,relation
 "Boulevard Beaumarchais",wikidata,M,Q70326,relation
 "Boulevard Berthier",wikidata,M,Q155734,relation+way
 "Boulevard Bessières",wikidata,M,Q345551,relation+way
@@ -2895,8 +2896,8 @@ name,source,gender,wikidata,type
 "Passage Flourens",wikidata,M,Q964160,relation
 "Passage Gustave Lepeu",wikidata,M,Q27910252,relation
 "Passage Jaillot",wikidata,M,Q22212695,relation
+"Passage Jean Cardot",wikidata,M,Q3171130,relation
 "Passage Jean Nicot",wikidata,M,Q318368,relation
-"Passage Joanès",wikidata,M,Q3171130,relation
 "Passage Marcel Landowski",wikidata,M,Q1382320,relation
 "Passage Molière",wikidata,M,Q687,relation
 "Passage Moncey",wikidata,M,Q350662,relation
@@ -2967,7 +2968,7 @@ name,source,gender,wikidata,type
 "Place Claude Nougaro",wikidata,M,Q719314,relation
 "Place Claude Sautet",wikidata,M,Q106669,relation+way
 "Place Clemenceau",wikidata,M,Q171730,relation
-"Place Clément Ader",wikidata,M,Q313078,relation
+"Place Clément Ader",wikidata,M,Q313078,relation+way
 "Place Coluche",wikidata,M,Q2190,relation
 "Place Constantin Brancusi",wikidata,M,Q153048,relation
 "Place Constantin Pecqueur",wikidata,M,Q1031841,relation
@@ -3355,7 +3356,7 @@ name,source,gender,wikidata,type
 "Rue Alphonse de Neuville",wikidata,M,Q1494309,relation
 "Rue Ambroise Paré",wikidata,M,Q276480,relation
 "Rue Ambroise Thomas",wikidata,M,Q297717,relation
-"Rue Amelot",wikidata,M,Q674816,relation
+"Rue Amelot",wikidata,M,Q674816,relation+way
 "Rue Ampère",wikidata,M,Q675,relation
 "Rue Amyot",wikidata,M,Q462371,relation
 "Rue Anatole de la Forge",wikidata,M,Q2845612,relation
@@ -4219,6 +4220,7 @@ name,source,gender,wikidata,type
 "Rue Jean-Goujon",wikidata,M,Q551643,relation
 "Rue Jean-Henri Fabre",wikidata,M,Q313348,relation
 "Rue Jean-Jacques Rousseau",wikidata,M,Q6527,relation
+"Rue Jean-Louis Debré",wikidata,M,Q713235,relation
 "Rue Jean-Louis Forain",wikidata,M,Q719614,relation
 "Rue Jean-Marie Jégo",wikidata,M,Q64529196,relation
 "Rue Jean-Pierre Timbaud",wikidata,M,Q896174,relation+way
@@ -4326,6 +4328,7 @@ name,source,gender,wikidata,type
 "Rue Legouvé",wikidata,M,Q1333348,relation
 "Rue Legraverend",wikidata,M,Q3167657,relation
 "Rue Leibniz",wikidata,M,Q9047,relation
+"Rue Lekain",wikidata,M,Q1372557,relation
 "Rue Leneveux",wikidata,M,Q15969873,relation
 "Rue Léo Delibes",wikidata,M,Q207951,relation
 "Rue Léo Frankel",wikidata,M,Q700018,relation
@@ -5059,7 +5062,7 @@ name,source,gender,wikidata,type
 "Rue de l'Amiral Courbet",wikidata,M,Q482156,relation
 "Rue de l'Amiral Hamelin",wikidata,M,Q722983,relation
 "Rue de l'Amiral La Roncière Le Noury",wikidata,M,Q2934893,relation
-"Rue de l'Amiral Mouchez",wikidata,M,Q2636575,relation
+"Rue de l'Amiral Mouchez",wikidata,M,Q2636575,relation+way
 "Rue de l'Amiral Roussin",wikidata,M,Q2831897,relation
 "Rue de l'Amiral d'Estaing",wikidata,M,Q694048,relation
 "Rue de l'Amiral de Coligny",wikidata,M,Q204975,relation

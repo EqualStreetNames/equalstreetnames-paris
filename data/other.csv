@@ -37,6 +37,7 @@ name,source,gender,wikidata,type
 "Allée Mangin",,,,way
 "Allée Marcel Bernard",,,,way
 "Allée Mary Reynolds",,,,relation+way
+"Allée Nicolae Titulescu",,,,way
 "Allée Nord Chatrier",,,,way
 "Allée Olympe de Gouges",,,,way
 "Allée Pierre Hadot",,,,way
@@ -128,6 +129,7 @@ name,source,gender,wikidata,type
 "Avenue de la Chapelle",,,,relation
 "Avenue de la Frillière",,,,relation
 "Avenue de la Grotte",,,,relation
+"Avenue de la porte de Vincennes",,,,way
 "Avenue des Ailantes",,,,way
 "Avenue des Chalets",,,,relation
 "Avenue des Chasseurs",,,,relation
@@ -628,7 +630,6 @@ Petit-Pont,,,,way
 "Quai D",,,,way
 "Quai E",,,,way
 "Quai F",,,,way
-"Quai Kathrine Switzer",,,,way
 "Quai Malaquais",,,,relation
 "Quai Saint-Bernard",,,,relation
 "Quai Transversal",,,,way
@@ -1175,7 +1176,8 @@ Rolltreppe,,,,way
 "Rue du Chalet",,,,relation
 "Rue du Champ de l'Alouette",,,,relation
 "Rue du Chat Qui Pêche",,,,relation
-"Rue du Château d'Eau",,,,relation
+"Rue du Château Landon",,,,way
+"Rue du Château d'Eau",,,,relation+way
 "Rue du Château des Rentiers",,,,relation
 "Rue du Chemin Vert",,,,relation+way
 "Rue du Chevaleret",,,,relation
@@ -1315,6 +1317,7 @@ Sortie,,,,way
 "Tunnel Chaumont Pantin",,,,way
 "Tunnel Concorde",,,,way
 "Tunnel Grand-Maillot",,,,way
+"Tunnel Villette Pantin",,,,way
 "Tunnel d'Italie",,,,way
 "Tunnel d'Orléans",,,,way
 "Tunnel de l'Étoile",,,,way
@@ -1646,7 +1649,6 @@ Sortie,,,,way
 "Voie CY/12",,,,relation
 "Voie CY/19",,,,relation
 "Voie CZ/12",,,,relation
-"Voie CZ/19",,,,relation
 "Voie D/12",,,,relation
 "Voie D/17",,,,relation
 "Voie D/19",,,,relation
@@ -1774,6 +1776,7 @@ Sortie,,,,way
 "Voie Y/19",,,,relation
 "Voie Z/16",,,,relation
 "Voie Z/18",,,,relation
+"Voie d'accès vélostation Gare du Nord",,,,way
 "Voie de/13",,,,relation
 "Voie de/19",,,,relation
 "Voie du/13",,,,relation
