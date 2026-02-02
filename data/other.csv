@@ -6,8 +6,10 @@ name,source,gender,wikidata,type
 "Accès Turbigo (Voie A1)",,,,way
 "Accès de la Dalle Beaugrenelle",,,,way
 "Aire Livraison Nord",,,,way
+"Aire Technique",,,,way
 "Allée André François Bron De Bailly",,,,way
 "Allée Andrée Jacob",,,,way
+"Allée Antonio Tabucchi",,,,way
 "Allée Barbara",,,,way
 "Allée Brongniart",,,,way
 "Allée Cavalière",,,,way
@@ -16,6 +18,7 @@ name,source,gender,wikidata,type
 "Allée Chevreul",,,,way
 "Allée Circulaire",,,,way
 "Allée Clara Tolub",,,,way
+"Allée Claude Lanzmann",,,,way
 "Allée Claude Montal",,,,relation
 "Allée Claude-Bernard",,,,way
 "Allée Clubs des Loges",,,,way
@@ -54,7 +57,6 @@ name,source,gender,wikidata,type
 "Allée de Castiglione",,,,way
 "Allée de Diane",,,,way
 "Allée de Longchamp",,,,relation+way
-"Allée de Montsouris",,,,way
 "Allée de Rivoli",,,,way
 "Allée de l'Espace",,,,way
 "Allée de l'Espérance",,,,relation
@@ -148,6 +150,7 @@ name,source,gender,wikidata,type
 "Belvédère Susan Travers",,,,relation
 "Bouche Métro",,,,way
 "Boulevard Bineau",,,,relation+way
+"Boulevard Davoult",,,,way
 "Boulevard Mortiers",,,,way
 "Boulevard Périphérique Extérieur",,,,way
 "Boulevard de Beauséjour",,,,relation
@@ -249,7 +252,6 @@ name,source,gender,wikidata,type
 "Cour Montesquieu",,,,way
 "Cour Morland",,,,relation
 "Cour Rabelais",,,,way
-"Cour Saint-Émilion",,,,relation
 "Cour Saint-Hilaire",,,,way
 "Cour Saint-Jacques",,,,way
 "Cour Saint-Martin",,,,way
@@ -276,6 +278,7 @@ name,source,gender,wikidata,type
 "Cour de l'Horloge",,,,way
 "Cour de l'Ours",,,,relation
 "Cour de l'hôtel Magny",,,,way
+"Cour de la Ferme Saint-Lazare",,,,relation
 "Cour de la Grâce de Dieu",,,,relation
 "Cour de la Maison Brûlée",,,,relation
 "Cour de la Métairie",,,,relation
@@ -285,7 +288,6 @@ name,source,gender,wikidata,type
 "Cour des Ateliers",,,,relation
 "Cour des Bretons",,,,relation
 "Cour des Fabriques",,,,relation
-"Cour des Grands Moulins",,,,way
 "Cour des Petites Écuries",,,,relation
 "Cour des Trois Frères",,,,relation
 "Cour des chevaux du Soleil",,,,way
@@ -551,7 +553,6 @@ Ledru-Rollin,,,,way
 Petit-Pont,,,,way
 "Place Albert Memmi",,,,way
 "Place Alice Mathieu-Dubois",,,,relation
-"Place Artemisia Gentileschi",,,,relation
 "Place Baudoyer",,,,relation
 "Place Charles Monselet",,,,way
 "Place ED/19",,,,relation
@@ -588,6 +589,7 @@ Petit-Pont,,,,way
 "Place des Vins de France",,,,relation
 "Place du Calvaire",,,,relation
 "Place du Cardinal Amette",,,,relation
+"Place du Général Cartoux",,,,way
 "Place du Général Ingold",,,,way
 "Place du Guignier",,,,relation
 "Place du Moulin de Javel",,,,relation+way
@@ -643,6 +645,7 @@ Petit-Pont,,,,way
 "Rampe Finlay",,,,way
 "Rampe Keller",,,,way
 "Rampe Van Loo",,,,way
+"Rampe d'accès à la gare de Bercy",,,,way
 Rolltreppe,,,,way
 "Rond des Mélèzes",,,,relation
 "Rond-Point de Mortemart",,,,way
@@ -764,13 +767,11 @@ Rolltreppe,,,,way
 "Rue Ernestine",,,,relation
 "Rue Evette",,,,relation
 "Rue Fanny",,,,relation
-"Rue Fermat",,,,relation+way
 "Rue Fondary",,,,relation
 "Rue Fourcade",,,,relation
 "Rue Frémicourt",,,,relation
 "Rue Gabrielle",,,,relation
 "Rue Galleron",,,,relation
-"Rue Ganneron",,,,relation
 "Rue Gaston de Cavaillet",,,,way
 "Rue Geoffroy l'Angevin",,,,relation
 "Rue Geoffroy l'Asnier",,,,relation
@@ -807,7 +808,6 @@ Rolltreppe,,,,way
 "Rue Lespagnol",,,,relation
 "Rue Letellier",,,,relation
 "Rue Levert",,,,relation
-"Rue Lhomond",,,,relation
 "Rue Lhuillier",,,,relation
 "Rue Maillard",,,,relation
 "Rue Maison Dieu",,,,relation
@@ -860,7 +860,6 @@ Rolltreppe,,,,way
 "Rue Préault",,,,relation
 "Rue Princesse",,,,relation
 "Rue Quincampoix",,,,relation
-"Rue Ramey",,,,relation
 "Rue Rataud",,,,relation
 "Rue Régis",,,,relation
 "Rue Riboutté",,,,relation
@@ -906,14 +905,12 @@ Rolltreppe,,,,way
 "Rue Troyon",,,,relation
 "Rue Valadon",,,,relation
 "Rue Verderet",,,,relation
-"Rue Véron",,,,relation
 "Rue Vésale",,,,relation
 "Rue Vivienne",,,,relation
 "Rue au Maire",,,,relation
 "Rue aux Ours",,,,relation
 "Rue d'Armaillé",,,,relation
 "Rue d'Armenonville",,,,way
-"Rue d'Astorg",,,,relation
 "Rue d'Idalie",,,,relation
 "Rue d'Olivet",,,,relation
 "Rue d'Orchampt",,,,relation
@@ -1099,7 +1096,6 @@ Rolltreppe,,,,way
 "Rue des Lions Saint-Paul",,,,relation
 "Rue des Longues Raies",,,,relation
 "Rue des Lyanes",,,,relation
-"Rue des Malmaisons",,,,relation+way
 "Rue des Maraîchers",,,,relation
 "Rue des Marchais",,,,relation
 "Rue des Mariniers",,,,relation
@@ -1775,7 +1771,6 @@ Sortie,,,,way
 "Voie Y/18",,,,relation
 "Voie Y/19",,,,relation
 "Voie Z/16",,,,relation
-"Voie Z/18",,,,relation
 "Voie d'accès vélostation Gare du Nord",,,,way
 "Voie de/13",,,,relation
 "Voie de/19",,,,relation
