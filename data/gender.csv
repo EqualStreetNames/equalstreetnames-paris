@@ -143,7 +143,7 @@ name,source,gender,wikidata,type
 "Avenue de la Porte de la Villette",wikidata,-,Q14352277,relation
 "Avenue de la Porte des Lilas",wikidata,-,Q3399160,relation+way
 "Avenue de la Porte des Poissonniers",wikidata,-,Q3399165,relation
-"Avenue de la Porte des Ternes",wikidata,-,Q3399167,relation
+"Avenue de la Porte des Ternes",wikidata,-,Q3399167,relation+way
 "Avenue de la Porte du Pré Saint-Gervais",wikidata,-,Q3399189,relation
 "Avenue de la République",wikidata,-,Q17152708;Q175055;Q7270,relation+way
 "Avenue de la Sibelle",wikidata,-,Q273320;Q188236,relation
@@ -915,7 +915,7 @@ name,source,gender,wikidata,type
 "Pont de Bir Hakeim",wikidata,-,Q836128,relation+way
 "Pont de Grenelle - Cadets de Saumur",wikidata,-,Q18199186,relation
 "Pont de Puteaux",wikidata,-,Q234743,relation+way
-"Pont de Tolbiac",wikidata,-,Q3451089,relation
+"Pont de Tolbiac",wikidata,-,Q3451089,relation+way
 "Pont de l'Alma",wikidata,-,Q913604,relation+way
 "Pont de l'Archevêché",wikidata,-,Q1242250,relation
 "Pont de la Concorde",wikidata,-,Q746321,relation+way
@@ -2631,7 +2631,6 @@ name,source,gender,wikidata,type
 "Avenue Philippe Auguste",wikidata,M,Q34428,relation
 "Avenue Pierre Brossolette",wikidata,M,Q680881,relation
 "Avenue Pierre Grenier",wikidata,M,Q3385325,relation
-"Avenue Pierre Larousse",wikidata,M,Q313709,relation
 "Avenue Pierre Loti",wikidata,M,Q311854,relation+way
 "Avenue Pierre Masse",wikidata,M,Q3386188,relation
 "Avenue Pierre Mendès France",wikidata,M,Q314265,relation
@@ -2747,7 +2746,7 @@ name,source,gender,wikidata,type
 "Boulevard Henri IV",wikidata,M,Q936976,relation+way
 "Boulevard Hippolyte Marquès",wikidata,M,Q81066470,relation+way
 "Boulevard Jean Jaurès",wikidata,M,Q12688,relation
-"Boulevard Jourdan",wikidata,M,Q21453039;Q250003,relation+way
+"Boulevard Jourdan",wikidata,M,Q250003,relation+way
 "Boulevard Jules Ferry",wikidata,M,Q959708,relation
 "Boulevard Jules Sandeau",wikidata,M,Q609039,relation
 "Boulevard Kellermann",wikidata,M,Q138105;Q356933,relation+way
@@ -3193,6 +3192,7 @@ name,source,gender,wikidata,type
 "Place d'Aligre",wikidata,M,Q3592173,relation
 "Place d'Alleray",wikidata,M,Q3022488,relation
 "Place d'Estienne d'Orves",wikidata,M,Q471460,relation
+"Place d’Aligre",wikidata,M,Q3592173,way
 "Place de Breteuil",wikidata,M,Q1777234,relation
 "Place de Joinville",wikidata,M,Q454337,relation
 "Place de Moro-Giafferi",wikidata,M,Q365259,relation
@@ -3224,7 +3224,7 @@ name,source,gender,wikidata,type
 "Place du Général Gouraud",wikidata,M,Q2572143,relation+way
 "Place du Général Kœnig",wikidata,M,Q433116,relation
 "Place du Général Monclar",wikidata,M,Q2917676,relation
-"Place du Général Patton",wikidata,M,Q186492,relation
+"Place du Général Patton",wikidata,M,Q186492,relation+way
 "Place du Général Stefanik",wikidata,M,Q319962,relation
 "Place du Général Tessier de Marguerites",wikidata,M,Q18744857,relation
 "Place du Lieutenant Henri Karcher",wikidata,M,Q3131371,relation
@@ -5115,7 +5115,7 @@ name,source,gender,wikidata,type
 "Rue du Colonel Monteil",wikidata,M,Q3365040,relation
 "Rue du Colonel Oudot",wikidata,M,Q20968283,relation
 "Rue du Colonel Pierre Avia",wikidata,M,Q27307196,relation
-"Rue du Colonel Rozanoff",wikidata,M,Q2995018,relation
+"Rue du Colonel Rozanoff",wikidata,M,Q2995018,relation+way
 "Rue du Commandant Guilbaud",wikidata,M,Q3426310,relation+way
 "Rue du Commandant L'Herminier",wikidata,M,Q3172913,way
 "Rue du Commandant Lamy",wikidata,M,Q353572,relation

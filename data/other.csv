@@ -6,7 +6,6 @@ name,source,gender,wikidata,type
 "Accès Turbigo (Voie A1)",,,,way
 "Accès de la Dalle Beaugrenelle",,,,way
 "Aire Livraison Nord",,,,way
-"Aire Technique",,,,way
 "Allée André François Bron De Bailly",,,,way
 "Allée Andrée Jacob",,,,way
 "Allée Antonio Tabucchi",,,,way
@@ -124,6 +123,7 @@ name,source,gender,wikidata,type
 "Avenue Transversale n°2",,,,way
 "Avenue de Grenelle",,,,way
 "Avenue de Javel",,,,way
+"Avenue de Paris",,,,way
 "Avenue de Rouvray",,,,relation
 "Avenue de Villiers",,,,relation
 "Avenue de l'Ermitage",,,,relation
@@ -432,6 +432,7 @@ Ledru-Rollin,,,,way
 "Nation - Trône",,,,way
 "Nouvelle Athènes",,,,relation
 "P Vélo Gare Montparnasse",,,,way
+"Parcours Biodiversité",,,,way
 "Parcours Santé",,,,way
 "Parcours de Santé",,,,way
 "Parcours sportif des Minimes",,,,way
@@ -480,7 +481,6 @@ Ledru-Rollin,,,,way
 "Passage Compans",,,,way
 "Passage DL/20",,,,relation
 "Passage Desgrais",,,,relation
-"Passage G10",,,,relation
 "Passage Gérard",,,,relation
 "Passage Lathuille",,,,relation+way
 "Passage Léon",,,,way
@@ -842,7 +842,7 @@ Rolltreppe,,,,way
 "Rue Mousset Robert",,,,relation
 "Rue Myrha",,,,relation
 "Rue Neuve Popincourt",,,,relation
-"Rue Neuve Tolbiac",,,,relation
+"Rue Neuve Tolbiac",,,,relation+way
 "Rue Neuve de la Chardonnière",,,,relation
 "Rue Neuve des Boulets",,,,relation
 "Rue Nicolas Roret",,,,relation
@@ -1236,7 +1236,6 @@ Rolltreppe,,,,way
 "Rue du Talus du Cours",,,,relation
 "Rue du Vélodrome",,,,relation
 "Rue du Vertbois",,,,relation
-"Rue résidentielle",,,,way
 "Ruelle Fraisier",,,,relation
 "Ruelle Planchette",,,,relation
 "Ruelle Sourdis",,,,relation
@@ -1333,6 +1332,7 @@ Sortie,,,,way
 "Villa Championnet",,,,relation
 "Villa Chanez",,,,relation
 "Villa Croix Nivert",,,,relation
+"Villa Curial",,,,way
 "Villa Damremont",,,,relation
 "Villa Dancourt",,,,relation
 "Villa Daviel",,,,relation
@@ -1725,6 +1725,7 @@ Sortie,,,,way
 "Voie FK/20",,,,relation
 "Voie FL/20",,,,way
 "Voie FS/20",,,,relation
+"Voie G/10",,,,relation
 "Voie G/15",,,,relation
 "Voie G/17",,,,relation
 "Voie G/5",,,,relation
@@ -1776,6 +1777,7 @@ Sortie,,,,way
 "Voie de/19",,,,relation
 "Voie du/13",,,,relation
 "avenue Michel Bizot",,,,way
+"jardin de l'îlot Ricquet",,,,way
 "rampe PMR",,,,way
 "rue de rennes",,,,way
 "villa Curial",,,,relation
