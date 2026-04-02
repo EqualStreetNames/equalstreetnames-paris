@@ -73,7 +73,6 @@ name,source,gender,wikidata,type
 "Allée des Enfants et Victimes de la Prise d'Otages de Djibouti-Loyada de Février 1976",,,,relation
 "Allée des Feuillants",,,,way
 "Allée des Jussieu",,,,way
-"Allée des Maronniers",,,,way
 "Allée des Marronniers",,,,way
 "Allée des Mauves",,,,relation
 "Allée des Mousquetaires",,,,way
@@ -147,6 +146,7 @@ name,source,gender,wikidata,type
 "Avenue du Roule",,,,relation
 "Avenue du Square",,,,relation
 "Avenue du Tremblay",,,,relation
+"Axe de promenade",,,,way
 "Belvédère Susan Travers",,,,relation
 "Bouche Métro",,,,way
 "Boulevard Bineau",,,,relation+way
@@ -616,6 +616,7 @@ Petit-Pont,,,,way
 "Port des Champs Elysées",,,,relation
 "Porte Saint-Denis",,,,way
 "Porte d'Asnières",,,,way
+"Porte de Versailles",,,,way
 "Porte des lions",,,,way
 "Porte du Louvre",,,,way
 "Porte du Pont Neuf",,,,relation

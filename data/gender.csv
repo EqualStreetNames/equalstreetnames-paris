@@ -1360,7 +1360,7 @@ name,source,gender,wikidata,type
 "Rue de Beaune",wikidata,-,Q16121,relation
 "Rue de Belfort",wikidata,-,Q171545,relation
 "Rue de Belgrade",wikidata,-,Q3711,relation
-"Rue de Belleville",wikidata,-,Q815949,relation
+"Rue de Belleville",wikidata,-,Q815949,relation+way
 "Rue de Bercy",wikidata,-,Q16532200;Q773318,relation+way
 "Rue de Bérite",wikidata,-,Q3820,relation
 "Rue de Berne",wikidata,-,Q70,relation
