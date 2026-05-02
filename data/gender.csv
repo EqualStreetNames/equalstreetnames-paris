@@ -711,7 +711,7 @@ name,source,gender,wikidata,type
 "Passage du Génie",wikidata,-,Q15726563,relation
 "Passage du Gué",wikidata,-,Q12743,relation
 "Passage du Guesclin",wikidata,-,Q3447715,relation
-"Passage du Havre",wikidata,-,Q3452382,relation
+"Passage du Havre",wikidata,-,Q3452382;Q42810,relation+way
 "Passage du Jeu de Boules",wikidata,-,Q895060,relation
 "Passage du Marché",wikidata,-,Q3289911,relation
 "Passage du Mont Cenis",wikidata,-,Q3452452,relation
@@ -1237,7 +1237,6 @@ name,source,gender,wikidata,type
 "Rue Riblette",wikidata,-,Q618532,relation
 "Rue Ricaut",wikidata,-,Q618532,relation+way
 "Rue Robineau",wikidata,-,Q618532,relation
-"Rue Rochebrune",wikidata,-,Q3449755,relation
 "Rue Roger",wikidata,-,Q618532,relation
 "Rue Roli",wikidata,-,Q618532,relation
 "Rue Rosenwald",wikidata,-,Q618532,relation
@@ -1737,7 +1736,6 @@ name,source,gender,wikidata,type
 "Rue des Cévennes",wikidata,-,Q626655,relation
 "Rue des Chartreux",wikidata,-,Q220979,relation
 "Rue des Cheminots",wikidata,-,Q7063944,relation+way
-"Rue des Cloys",wikidata,-,Q3451754,relation
 "Rue des Colonnes du Trône",wikidata,-,Q2885674,relation
 "Rue des Cordelières",wikidata,-,Q1137929,relation
 "Rue des Dames",wikidata,-,Q14397431,relation
@@ -1921,7 +1919,6 @@ name,source,gender,wikidata,type
 "Rue du Rendez-Vous",wikidata,-,Q1424449,relation+way
 "Rue du Repos",wikidata,-,Q311,relation
 "Rue du Rhin",wikidata,-,Q584,relation
-"Rue du Roi d'Alger",wikidata,-,Q3452569,relation
 "Rue du Ruisseau",wikidata,-,Q47521,relation
 "Rue du Sahel",wikidata,-,Q66065,relation
 "Rue du Saint-Gothard",wikidata,-,Q688549,relation
@@ -1962,7 +1959,7 @@ name,source,gender,wikidata,type
 "Square Vitruve",wikidata,-,Q3450360,relation
 "Square d'Amiens",wikidata,-,Q41604,relation
 "Square d'Aquitaine",wikidata,-,Q1179,relation
-"Square d'Orléans",wikidata,-,Q6548,relation
+"Square d'Orléans",wikidata,-,Q6548,relation+way
 "Square de Châtillon",wikidata,-,Q212947,relation
 "Square de Maubeuge",wikidata,-,Q138648,relation
 "Square de Monsoreau",wikidata,-,Q2664833,relation
@@ -2061,7 +2058,6 @@ name,source,gender,wikidata,type
 "Villa du Parc de Montsouris",wikidata,-,Q1538929,relation
 "Villa du Progrès",wikidata,-,Q247792,relation
 "Villa du Sahel",wikidata,-,Q3452577;Q66065,relation
-"liaison Gare du Nord – Gare de l'Est",wikidata,-,,way
 "Avenue de la Porte d'Orléans",wikidata,?,Q179888;Q2537524,relation+way
 "Boulevard Barbès",wikidata,?,Q13103683;Q677193,relation+way
 "Boulevard de Clichy",wikidata,?,Q13403;Q1810764;Q2064625,relation+way
@@ -2371,7 +2367,7 @@ name,source,gender,wikidata,type
 "Rue Marietta Martin",wikidata,F,Q3293020,relation
 "Rue Martha Graham",wikidata,F,Q487604,relation
 "Rue Maryse Bastié",wikidata,F,Q18410,relation
-"Rue Maryse Hilsz",wikidata,F,Q3296334,relation
+"Rue Maryse Hilsz",wikidata,F,Q3296334,relation+way
 "Rue Mère Teresa",wikidata,F,Q30547,relation
 "Rue Mère-Marie Skobtsov",wikidata,F,Q283654,relation
 "Rue Nelly Kaplan",wikidata,F,Q528421,relation
@@ -2629,7 +2625,7 @@ name,source,gender,wikidata,type
 "Avenue Paul Vaillant-Couturier",wikidata,M,Q3372335,relation
 "Avenue Percier",wikidata,M,Q969714,relation
 "Avenue Philippe Auguste",wikidata,M,Q34428,relation
-"Avenue Pierre Brossolette",wikidata,M,Q680881,relation
+"Avenue Pierre Brossolette",wikidata,M,Q680881,way
 "Avenue Pierre Grenier",wikidata,M,Q3385325,relation
 "Avenue Pierre Loti",wikidata,M,Q311854,relation+way
 "Avenue Pierre Masse",wikidata,M,Q3386188,relation
@@ -2944,7 +2940,7 @@ name,source,gender,wikidata,type
 "Place August Strindberg",wikidata,M,Q7724,way
 "Place Auguste Baron",wikidata,M,Q946910,relation
 "Place Auguste Métivier",wikidata,M,Q110797778,relation+way
-"Place Balard",wikidata,M,Q314306,relation
+"Place Balard",wikidata,M,Q314306,relation+way
 "Place Benjamin Fondane",wikidata,M,Q817484,relation
 "Place Bernard Halpern",wikidata,M,Q822456,relation
 "Place Bernard Lazare",wikidata,M,Q822562,relation
@@ -3837,7 +3833,7 @@ name,source,gender,wikidata,type
 "Rue Émile Dubois",wikidata,M,Q16030971,relation
 "Rue Émile Duclaux",wikidata,M,Q2354446,relation
 "Rue Émile Duploye",wikidata,M,Q113075,relation
-"Rue Émile Durkheim",wikidata,M,Q15948,relation
+"Rue Émile Durkheim",wikidata,M,Q15948,relation+way
 "Rue Émile Faguet",wikidata,M,Q551543,relation
 "Rue Émile Gilbert",wikidata,M,Q3588575,relation
 "Rue Émile Landrin",wikidata,M,Q26261634,relation

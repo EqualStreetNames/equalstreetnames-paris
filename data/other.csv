@@ -245,6 +245,7 @@ name,source,gender,wikidata,type
 "Cour Censier",,,,way
 "Cour Clisson",,,,way
 "Cour Droussals",,,,way
+"Cour George Sand",,,,way
 "Cour Greneta",,,,relation
 "Cour Lassay",,,,relation
 "Cour Mazarin",,,,relation
@@ -288,10 +289,10 @@ name,source,gender,wikidata,type
 "Cour des Ateliers",,,,relation
 "Cour des Bretons",,,,relation
 "Cour des Fabriques",,,,relation
+"Cour des Marronniers",,,,way
 "Cour des Petites Écuries",,,,relation
 "Cour des Trois Frères",,,,relation
 "Cour des chevaux du Soleil",,,,way
-"Cour des marroniers",,,,way
 "Cour du 36 Quai des Orfèvres",,,,way
 "Cour du Bel Air",,,,relation
 "Cour du Dépôt",,,,way
@@ -866,6 +867,7 @@ Rolltreppe,,,,way
 "Rue Riboutté",,,,relation
 "Rue Richer",,,,relation
 "Rue Robert le Coin",,,,relation
+"Rue Rochebrune",,,,relation
 "Rue Rollin",,,,relation
 "Rue Rouvet",,,,relation
 "Rue Royale",,,,relation
@@ -1060,6 +1062,7 @@ Rolltreppe,,,,way
 "Rue des Cinq Diamants",,,,relation
 "Rue des Ciseaux",,,,relation
 "Rue des Cités",,,,relation+way
+"Rue des Cloys",,,,relation
 "Rue des Colonnes",,,,relation
 "Rue des Cottages",,,,relation
 "Rue des Couronnes",,,,relation
@@ -1231,6 +1234,7 @@ Rolltreppe,,,,way
 "Rue du Retrait",,,,relation
 "Rue du Rocher",,,,relation
 "Rue du Roi Doré",,,,relation
+"Rue du Roi d'Alger",,,,relation
 "Rue du Roule",,,,relation
 "Rue du Sabot",,,,relation
 "Rue du Sentier",,,,relation
@@ -1595,28 +1599,37 @@ Sortie,,,,way
 "Voie CD/18",,,,relation
 "Voie CD/20",,,,relation
 "Voie CE/12",,,,relation
+"Voie CE/14",,,,relation
 "Voie CE/15",,,,relation
 "Voie CE/16",,,,relation
 "Voie CF/12",,,,relation
+"Voie CF/14",,,,relation
 "Voie CF/15",,,,relation
 "Voie CF/16",,,,relation
 "Voie CG/12",,,,relation
+"Voie CG/14",,,,relation
 "Voie CG/15",,,,relation
 "Voie CG/16",,,,relation
 "Voie CH/12",,,,relation
+"Voie CH/14",,,,relation
 "Voie CH/15",,,,relation
 "Voie CH/16",,,,relation
 "Voie CI/12",,,,relation
+"Voie CI/14",,,,relation
 "Voie CI/15",,,,relation
 "Voie CI/16",,,,relation
 "Voie CJ/12",,,,relation
+"Voie CJ/14",,,,relation
 "Voie CJ/15",,,,relation
 "Voie CJ/16",,,,relation
 "Voie CJ/20",,,,relation
 "Voie CK/12",,,,relation
+"Voie CK/14",,,,relation
 "Voie CK/16",,,,relation
 "Voie CL/12",,,,relation
+"Voie CL/14",,,,relation
 "Voie CM/12",,,,relation
+"Voie CM/14",,,,relation
 "Voie CM/16",,,,relation
 "Voie CN/12",,,,relation
 "Voie CN/16",,,,relation
@@ -1699,7 +1712,6 @@ Sortie,,,,way
 "Voie EF/20",,,,relation
 "Voie EG/20",,,,relation
 "Voie EH/20",,,,relation
-"Voie EJ/20",,,,relation
 "Voie EK/20",,,,relation
 "Voie EL/20",,,,relation
 "Voie EM/20",,,,relation
@@ -1779,6 +1791,7 @@ Sortie,,,,way
 "Voie du/13",,,,relation
 "avenue Michel Bizot",,,,way
 "jardin de l'îlot Ricquet",,,,way
+"liaison Gare du Nord – Gare de l'Est",,,,way
 "rampe PMR",,,,way
 "rue de rennes",,,,way
 "villa Curial",,,,relation
