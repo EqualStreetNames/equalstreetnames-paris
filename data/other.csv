@@ -17,7 +17,6 @@ name,source,gender,wikidata,type
 "Allée Chevreul",,,,way
 "Allée Circulaire",,,,way
 "Allée Clara Tolub",,,,way
-"Allée Claude Lanzmann",,,,way
 "Allée Claude Montal",,,,relation
 "Allée Claude-Bernard",,,,way
 "Allée Clubs des Loges",,,,way
@@ -46,7 +45,7 @@ name,source,gender,wikidata,type
 "Allée Principale",,,,way
 "Allée Raffet",,,,way
 "Allée Roger Heim",,,,way
-"Allée Royale",,,,relation
+"Allée Royale",,,,relation+way
 "Allée Saint-Denis",,,,relation
 "Allée Samuel Pisar",,,,way
 "Allée Sigmund Freud",,,,way
@@ -304,7 +303,6 @@ name,source,gender,wikidata,type
 "Cour du Premier Président",,,,way
 "Cour du Roi François",,,,relation
 "Cour du Saint-Esprit",,,,relation
-"Cours Albert-Iᵉʳ",,,,way
 "Cours Marty",,,,way
 "Cours des Maréchaux",,,,relation+way
 "Dalle Keller",,,,way
@@ -498,7 +496,6 @@ Ledru-Rollin,,,,way
 "Passage U/10",,,,relation
 "Passage Vendôme",,,,relation
 "Passage Verdeau",,,,relation
-"Passage X/12",,,,relation
 "Passage Y/12",,,,relation
 "Passage d'Étienne",,,,way
 "Passage de Choiseul",,,,way
@@ -561,10 +558,8 @@ Petit-Pont,,,,way
 "Place FO/13",,,,relation
 "Place Ferdinand Forest",,,,way
 "Place Hébert",,,,relation
-"Place Jean-Paul Sartre et Simone de Beauvoir",,,,way
 "Place Jeanne Bohec",,,,way
 "Place Jules Henaffe",,,,relation
-"Place Le Corbusier",,,,way
 "Place Madeleine Renaud et Jean-Louis Barrault",,,,way
 "Place Maréchal de Rochambeau",,,,way
 "Place Maubert",,,,relation
@@ -624,7 +619,6 @@ Petit-Pont,,,,way
 "Promenade Alain Devaquet",,,,relation
 "Promenade Plantée",,,,way
 "Promenade des Berges de la Seine — Port des Invalides",,,,way
-"Promenade des Champs-Élysées",,,,way
 "Promenade du Quai Branly",,,,way
 "Promenade plantée Pierre Mauroy",,,,way
 "Promenadée plantée Pierre Mauroy",,,,way
@@ -902,7 +896,6 @@ Rolltreppe,,,,way
 "Rue Tiquetonne",,,,relation
 "Rue Tiron",,,,relation
 "Rue Tournefort",,,,relation
-"Rue Toustain",,,,relation
 "Rue Trolley de Prévaux",,,,relation
 "Rue Trousseau",,,,relation
 "Rue Troyon",,,,relation
@@ -1793,5 +1786,4 @@ Sortie,,,,way
 "jardin de l'îlot Ricquet",,,,way
 "liaison Gare du Nord – Gare de l'Est",,,,way
 "rampe PMR",,,,way
-"rue de rennes",,,,way
 "villa Curial",,,,relation

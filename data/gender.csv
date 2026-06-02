@@ -7,6 +7,7 @@ name,source,gender,wikidata,type
 "Place Chavarche et Arpik Missakian",wikidata,+,Q21152245;Q55992700,relation
 "Place Ghislaine Dupont ‒ Claude Verlon ‒ Camille Lepage",wikidata,+,Q15127495;Q16540300;Q16873989,way
 "Place Jacques et Thérèse Tréfouël",wikidata,+,Q3160106;Q27439263,way
+"Place Jean-Paul Sartre et Simone de Beauvoir",wikidata,+,Q9364;Q7197,way
 "Place Josette et Maurice Audin",wikidata,+,Q3182348;Q53344441,relation
 "Place Laurent Terzieff et Pascale de Boysson",wikidata,+,Q523545;Q3367717,way
 "Place Mireille Jacques Renouvin",wikidata,+,Q3159859;Q86514201,relation
@@ -183,7 +184,7 @@ name,source,gender,wikidata,type
 "Boulevard Saint-Germain",wikidata,-,Q255910,relation
 "Boulevard Saint-Jacques",wikidata,-,Q3452300;Q43999,relation+way
 "Boulevard Saint-Marcel",wikidata,-,Q1398337;Q166691,relation+way
-"Boulevard Saint-Martin",wikidata,-,Q1478999;Q656302;Q133704,relation+way
+"Boulevard Saint-Martin",wikidata,-,Q1478999;Q1478999;Q656302;Q133704,relation+way
 "Boulevard Saint-Michel",wikidata,-,Q1329076,relation+way
 "Boulevard d'Algérie",wikidata,-,Q262,relation+way
 "Boulevard d'Auteuil",wikidata,-,Q784536,relation
@@ -937,6 +938,7 @@ name,source,gender,wikidata,type
 "Porte de la Chapelle",wikidata,-,Q2125122,way
 "Promenade Dora Bruder",wikidata,-,Q3036950,relation
 "Promenade d'Australie",wikidata,-,Q408,relation
+"Promenade des Champs-Élysées",wikidata,-,Q157128,way
 "Quai Saint-Michel",wikidata,-,Q1329076,relation
 "Quai aux Fleurs",wikidata,-,Q3289836,relation
 "Quai d'Anjou",wikidata,-,Q939200;Q107426,relation
@@ -1061,7 +1063,7 @@ name,source,gender,wikidata,type
 "Rue Chaligny",wikidata,-,Q19951984,relation
 "Rue Chanoinesse",wikidata,-,Q1104153,relation
 "Rue Charbonnel",wikidata,-,Q618532,relation
-"Rue Charlemagne",wikidata,-,Q748307,relation
+"Rue Charlemagne",wikidata,-,Q748307;Q3044,relation
 "Rue Charles Bertheau",wikidata,-,Q618532,relation
 "Rue Chéreau",wikidata,-,Q618532,relation
 "Rue Cloche Perce",wikidata,-,Q11170170,relation
@@ -1195,7 +1197,7 @@ name,source,gender,wikidata,type
 "Rue Montauban",wikidata,-,Q172593,relation
 "Rue Monte Cristo",wikidata,-,Q191838,relation
 "Rue Montera",wikidata,-,Q11293375;Q618532,relation
-"Rue Montgallet",wikidata,-,Q11293375;Q618532;Q618532,relation+way
+"Rue Montgallet",wikidata,-,Q11293375;Q618532,relation+way
 "Rue Montgolfier",wikidata,-,Q193751,relation
 "Rue Montmartre",wikidata,-,Q186115,relation
 "Rue Mony",wikidata,-,Q618532,relation
@@ -1412,7 +1414,7 @@ name,source,gender,wikidata,type
 "Rue de Constantinople",wikidata,-,Q16869,relation
 "Rue de Copenhague",wikidata,-,Q1748,relation
 "Rue de Coulmiers",wikidata,-,Q570919,relation
-"Rue de Courcelles",wikidata,-,Q3001242,relation
+"Rue de Courcelles",wikidata,-,Q3001242,relation+way
 "Rue de Courty",wikidata,-,Q618532,relation
 "Rue de Crimée",wikidata,-,Q254106;Q7835,relation
 "Rue de Cronstadt",wikidata,-,Q155863,relation
@@ -2058,6 +2060,7 @@ name,source,gender,wikidata,type
 "Villa du Parc de Montsouris",wikidata,-,Q1538929,relation
 "Villa du Progrès",wikidata,-,Q247792,relation
 "Villa du Sahel",wikidata,-,Q3452577;Q66065,relation
+"rue de rennes",wikidata,-,Q647,way
 "Avenue de la Porte d'Orléans",wikidata,?,Q179888;Q2537524,relation+way
 "Boulevard Barbès",wikidata,?,Q13103683;Q677193,relation+way
 "Boulevard de Clichy",wikidata,?,Q13403;Q1810764;Q2064625,relation+way
@@ -2193,7 +2196,7 @@ name,source,gender,wikidata,type
 "Place Edwige Feuillère",wikidata,F,Q449091,relation
 "Place Élisabeth Dmitrieff",wikidata,F,Q2707971,relation
 "Place Flora Tristan",wikidata,F,Q254068,way
-"Place Françoise Dorin",wikidata,F,Q3086464,relation
+"Place Françoise Dorin",wikidata,F,Q3086464,relation+way
 "Place Françoise Dorleac",wikidata,F,Q235982,relation
 "Place Fréhel",wikidata,F,Q253990,relation
 "Place Geneviève de Gaulle Anthonioz",wikidata,F,Q275274,relation
@@ -2420,6 +2423,7 @@ name,source,gender,wikidata,type
 "Allée Celestino Alfonso",wikidata,M,Q2943919,relation
 "Allée Charles Brennus",wikidata,M,Q2958613,relation
 "Allée Christian Pineau",wikidata,M,Q661825,relation
+"Allée Claude Lanzmann",wikidata,M,Q551512,way
 "Allée Claude Mademba-Sy",wikidata,M,Q97657727,way
 "Allée Cocteau",wikidata,M,Q83158,way
 "Allée Cuvier",wikidata,M,Q171969,way
@@ -2761,7 +2765,7 @@ name,source,gender,wikidata,type
 "Boulevard Pershing",wikidata,M,Q272383,relation
 "Boulevard Poniatowski",wikidata,M,Q154382,relation+way
 "Boulevard Raspail",wikidata,M,Q682230,relation+way
-"Boulevard Richard Wallace",wikidata,M,Q2033868,relation+way
+"Boulevard Richard Wallace",wikidata,M,Q2033868,relation
 "Boulevard Richard-Lenoir",wikidata,M,Q3085685,relation
 "Boulevard Romain Rolland",wikidata,M,Q47162,relation+way
 "Boulevard Sérurier",wikidata,M,Q376344,relation+way
@@ -2812,6 +2816,7 @@ name,source,gender,wikidata,type
 "Cour Sedaine",wikidata,M,Q367243,relation
 "Cour de Rohan",wikidata,M,Q363636,relation+way
 "Cours Albert 1er",wikidata,M,Q55008046,relation
+"Cours Albert-Iᵉʳ",wikidata,M,Q159646,way
 "Cours Paul Ricard",wikidata,M,Q329401,relation
 "Esplanade André Chamson",wikidata,M,Q517743,relation
 "Esplanade André Tollet",wikidata,M,Q2848703,relation
@@ -3072,6 +3077,7 @@ name,source,gender,wikidata,type
 "Place Keith Haring",wikidata,M,Q485635,relation
 "Place Kossuth",wikidata,M,Q157040,relation
 "Place Lachambeaudie",wikidata,M,Q1346280,relation
+"Place Le Corbusier",wikidata,M,Q4724,way
 "Place Léo Ferré",wikidata,M,Q320146,relation
 "Place Léon Blum",wikidata,M,Q18434,relation+way
 "Place Léon Deubel",wikidata,M,Q1121416,relation
@@ -3188,7 +3194,6 @@ name,source,gender,wikidata,type
 "Place d'Aligre",wikidata,M,Q3592173,relation
 "Place d'Alleray",wikidata,M,Q3022488,relation
 "Place d'Estienne d'Orves",wikidata,M,Q471460,relation
-"Place d’Aligre",wikidata,M,Q3592173,way
 "Place de Breteuil",wikidata,M,Q1777234,relation
 "Place de Joinville",wikidata,M,Q454337,relation
 "Place de Moro-Giafferi",wikidata,M,Q365259,relation
@@ -4883,6 +4888,7 @@ name,source,gender,wikidata,type
 "Rue Toullier",wikidata,M,Q2958572,relation
 "Rue Toulouse-Lautrec",wikidata,M,Q82445,relation
 "Rue Toussaint Louverture",wikidata,M,Q205783,relation
+"Rue Toustain",wikidata,M,Q2958065,relation
 "Rue Treilhard",wikidata,M,Q721665,relation
 "Rue Tristan Tzara",wikidata,M,Q16409,relation
 "Rue Tronchet",wikidata,M,Q920257,relation
