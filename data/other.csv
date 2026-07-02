@@ -353,6 +353,7 @@ name,source,gender,wikidata,type
 "Galerie Sevrien",,,,way
 "Galerie des Proues",,,,relation
 "Galerie des Sept Parnassiens",,,,way
+"Gare de Paris-Brancion",,,,way
 "Grand Balcon",,,,relation
 "Grande Avenue de la Villa de la Réunion",,,,relation
 "Grande Terrasse",,,,way
@@ -367,7 +368,7 @@ Hémicycle,,,,way
 "Impasse Fortin",,,,relation
 "Impasse H/15",,,,relation
 "Impasse Louis Robert",,,,relation
-"Impasse Marie Blanche",,,,relation
+"Impasse Marie Blanche",,,,relation+way
 "Impasse Marie de Régnier",,,,way
 "Impasse Marteau",,,,relation
 "Impasse Maubert",,,,relation
@@ -419,9 +420,10 @@ Ledru-Rollin,,,,way
 "Les Balcons de Montparnasse",,,,way
 "Les Galeries de Paname",,,,way
 "Liaison piétonne Bercy - Charenton",,,,way
-"Ligne de La Râpée à Batignolles (petite ceinture de Paris)",,,,way
+"Ligne d'Auteuil à La Râpée (Petite Ceinture)",,,,way
+"Ligne de La Râpée à Batignolles (Petite Ceinture)",,,,way
 "Ligne de Paris-Bastille à Marles-en-Brie",,,,way
-"Ligne de Pont-Cardinet à Auteuil-Boulogne",,,,way
+"Ligne de Pont-Cardinet à Auteuil-Boulogne (Petite Ceinture)",,,,way
 "Mail Bréchet",,,,way
 "Mail Pierre Desproges",,,,relation
 "Mail des Minimes",,,,way
@@ -549,6 +551,7 @@ Ledru-Rollin,,,,way
 "Péristyle de Montpensier",,,,relation
 "Péristyle de Valois",,,,relation
 Petit-Pont,,,,way
+"Petite Ceinture",,,,way
 "Place Albert Memmi",,,,way
 "Place Alice Mathieu-Dubois",,,,relation
 "Place Baudoyer",,,,relation
@@ -618,8 +621,10 @@ Petit-Pont,,,,way
 "Porte du Pont Neuf",,,,relation
 "Promenade Alain Devaquet",,,,relation
 "Promenade Plantée",,,,way
+"Promenade Plantée du Raccordement de Bel-Air",,,,way
 "Promenade des Berges de la Seine — Port des Invalides",,,,way
 "Promenade du Quai Branly",,,,way
+"Promenade du Rien n'est simple",,,,way
 "Promenade plantée Pierre Mauroy",,,,way
 "Promenadée plantée Pierre Mauroy",,,,way
 "Quai A",,,,way
@@ -637,6 +642,7 @@ Petit-Pont,,,,way
 "Quai des Grands Augustins",,,,relation
 "Quai du Gros Caillou",,,,way
 "Quai du Nord",,,,way
+"Raccordement de Vaugirard",,,,way
 "Rampe Emeriau",,,,way
 "Rampe Finlay",,,,way
 "Rampe Keller",,,,way
@@ -1244,6 +1250,7 @@ Rolltreppe,,,,way
 "Sente à Bigot",,,,relation
 "Sente des Dorées",,,,relation
 "Sentier Briens",,,,relation
+"Sentier Nature (Petite Ceinture)",,,,way
 "Sentier Nature (petite ceinture)",,,,way
 "Sentier Rouvray",,,,relation
 "Sentier de la Pointe",,,,relation+way
@@ -1652,6 +1659,7 @@ Sortie,,,,way
 "Voie CY/12",,,,relation
 "Voie CY/19",,,,relation
 "Voie CZ/12",,,,relation
+"Voie CZ/18",,,,relation
 "Voie D/12",,,,relation
 "Voie D/17",,,,relation
 "Voie D/19",,,,relation
@@ -1659,30 +1667,43 @@ Sortie,,,,way
 "Voie D/8",,,,relation
 "Voie D/9",,,,relation
 "Voie DA/12",,,,relation
+"Voie DA/18",,,,relation
 "Voie DA/19",,,,relation
 "Voie DB/12",,,,relation
+"Voie DB/18",,,,relation
 "Voie DB/19",,,,relation
 "Voie DC/12",,,,relation
 "Voie DC/13",,,,relation
+"Voie DC/18",,,,relation
 "Voie DC/19",,,,relation
 "Voie DD/13",,,,relation
+"Voie DD/18",,,,relation
 "Voie DD/19",,,,relation
+"Voie DE/18",,,,relation
 "Voie DF/12",,,,relation
 "Voie DF/13",,,,relation
+"Voie DF/18",,,,relation
 "Voie DF/19",,,,relation
 "Voie DG/13",,,,relation
+"Voie DG/18",,,,relation
 "Voie DG/19",,,,relation
 "Voie DH/13",,,,relation
+"Voie DH/18",,,,relation
 "Voie DH/19",,,,relation
 "Voie DI/13",,,,relation
+"Voie DI/18",,,,relation
 "Voie DI/19",,,,relation
 "Voie DJ/13",,,,relation
+"Voie DJ/18",,,,relation
 "Voie DJ/19",,,,relation
 "Voie DK/13",,,,relation
+"Voie DK/18",,,,relation
 "Voie DK/19",,,,relation
 "Voie DK/20",,,,relation
 "Voie DL/13",,,,relation
+"Voie DL/18",,,,relation
 "Voie DM/13",,,,relation
+"Voie DM/18",,,,relation
 "Voie DM/20",,,,relation
 "Voie DN/13",,,,relation
 "Voie DO/13",,,,relation

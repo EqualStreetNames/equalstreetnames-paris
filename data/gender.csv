@@ -248,7 +248,7 @@ name,source,gender,wikidata,type
 "Cité Champagne",wikidata,-,Q273827,relation
 "Cité Debergue",wikidata,-,Q11293375;Q618532,relation
 "Cité Dubourg",wikidata,-,Q618532,relation
-"Cité Dupetit Thouars",wikidata,-,Q3447741;Q537070;Q665065,relation
+"Cité Dupetit-Thouars",wikidata,-,Q3447741;Q537070;Q665065,relation
 "Cité Duplan",wikidata,-,Q618532,relation
 "Cité Dupont",wikidata,-,Q618532,relation
 "Cité Durmar",wikidata,-,Q618532,relation
@@ -735,7 +735,6 @@ name,source,gender,wikidata,type
 "Passerelle de la Moselle",wikidata,-,Q1667,way
 "Passerelle des Ardennes",wikidata,-,Q3164,way
 "Péristyle de Beaujolais",wikidata,-,Q7179060,relation
-"Petite Ceinture",wikidata,-,Q2873598;Q3449783,way
 "Place Beauvau",wikidata,-,Q3145745,relation
 "Place Blanche",wikidata,-,Q3247199;Q23444,relation
 "Place Carmen",wikidata,-,Q18123205,relation
@@ -4850,7 +4849,7 @@ name,source,gender,wikidata,type
 "Rue Stanislas",wikidata,M,Q54022,relation
 "Rue Stanislas Meunier",wikidata,M,Q3496694,relation
 "Rue Steinlen",wikidata,M,Q706041,relation
-"Rue Stendhal",wikidata,M,Q502,relation+way
+"Rue Stendhal",wikidata,M,Q502,relation
 "Rue Stéphane Grappelli",wikidata,M,Q206244,relation
 "Rue Stephenson",wikidata,M,Q133614,relation
 "Rue Sthrau",wikidata,M,Q3514740,relation
