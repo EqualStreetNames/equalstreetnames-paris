@@ -52,6 +52,7 @@ name,source,gender,wikidata,type
 "Allée des Orgues de Flandre",wikidata,-,Q3356257,relation
 "Allée des Prunus",wikidata,-,Q190545,way
 "Allée des Refuzniks",wikidata,-,Q126214,relation
+"Allée des Rochambelles",wikidata,-,Q106609593,way
 "Allée des Vergers",wikidata,-,Q236371,relation
 "Allée du Canal",wikidata,-,Q1032646,relation
 "Allée du Columbarium",wikidata,-,Q675824,way
@@ -732,6 +733,7 @@ name,source,gender,wikidata,type
 "Passage du Télégraphe",wikidata,-,Q3452622,relation
 "Passage du Trône",wikidata,-,Q2874198,relation
 "Passage du Vertbois",wikidata,-,Q3452627,relation
+"Passerelle de Crimée",wikidata,-,Q3450694,way
 "Passerelle de la Moselle",wikidata,-,Q1667,way
 "Passerelle des Ardennes",wikidata,-,Q3164,way
 "Péristyle de Beaujolais",wikidata,-,Q7179060,relation
@@ -774,6 +776,7 @@ name,source,gender,wikidata,type
 "Place de Clichy",wikidata,-,Q13403;Q201982,relation+way
 "Place de Colombie",wikidata,-,Q739,relation
 "Place de Costa Rica",wikidata,-,Q800,relation
+"Place de Dublin",wikidata,-,Q1761,way
 "Place de Finlande",wikidata,-,Q33,relation
 "Place de Fontenoy",wikidata,-,Q569953,relation+way
 "Place de Fontenoy - UNESCO",wikidata,-,Q569953;Q7809;Q7809,relation+way
@@ -876,7 +879,7 @@ name,source,gender,wikidata,type
 "Place du Bataillon du Pacifique",wikidata,-,Q3455192,relation
 "Place du Caire",wikidata,-,Q85,relation
 "Place du Canada",wikidata,-,Q16,relation
-"Place du Carrousel",wikidata,-,Q24347985,relation
+"Place du Carrousel",wikidata,-,Q24347985,relation+way
 "Place du Châtelet",wikidata,-,Q673526,relation
 "Place du Commerce",wikidata,-,Q601401,relation
 "Place du Comtat Venaissin",wikidata,-,Q1122980,way
@@ -884,7 +887,7 @@ name,source,gender,wikidata,type
 "Place du Louvre",wikidata,-,Q1075988,relation+way
 "Place du Maquis du Vercors",wikidata,-,Q3287307,relation
 "Place du Marché Saint-Honoré",wikidata,-,Q37654;Q3463841,relation
-"Place du Marché Sainte-Catherine",wikidata,-,Q1552514,relation
+"Place du Marché Sainte-Catherine",wikidata,-,Q1552514,relation+way
 "Place du Maroc",wikidata,-,Q1028,relation
 "Place du Musée du Louvre",wikidata,-,Q19675,relation
 "Place du Palais Bourbon",wikidata,-,Q936633,relation
@@ -2060,7 +2063,7 @@ name,source,gender,wikidata,type
 "Villa du Progrès",wikidata,-,Q247792,relation
 "Villa du Sahel",wikidata,-,Q3452577;Q66065,relation
 "rue de rennes",wikidata,-,Q647,way
-"Avenue de la Porte d'Orléans",wikidata,?,Q179888;Q2537524,relation+way
+"Avenue de la Porte d'Orléans",wikidata,?,Q179888;Q2537524;Q6548,relation+way
 "Boulevard Barbès",wikidata,?,Q13103683;Q677193,relation+way
 "Boulevard de Clichy",wikidata,?,Q13403;Q1810764;Q2064625,relation+way
 "Parvis Notre-Dame - Place Jean-Paul II",wikidata,?,Q2981;Q989;Q989,relation
@@ -2819,6 +2822,7 @@ name,source,gender,wikidata,type
 "Cours Paul Ricard",wikidata,M,Q329401,relation
 "Esplanade André Chamson",wikidata,M,Q517743,relation
 "Esplanade André Tollet",wikidata,M,Q2848703,relation
+"Esplanade Bernard Duperier",wikidata,M,Q2897843,relation
 "Esplanade Charles-Axel Guillaumot",wikidata,M,Q2957976,way
 "Esplanade Claude Luter",wikidata,M,Q1096905,way
 "Esplanade David Ben Gourion",wikidata,M,Q37610,relation
@@ -2908,6 +2912,7 @@ name,source,gender,wikidata,type
 "Passage Thomas Sankara",wikidata,M,Q202155,relation
 "Passage Walter Benjamin",wikidata,M,Q61078,relation
 "Passage du Commandant Charles Martel",wikidata,M,Q26269627,relation
+"Passerelle Claude Bernard",wikidata,M,Q208230,way
 "Passerelle Debilly",wikidata,M,Q3173260,way
 "Passerelle Jim-Morrison",wikidata,M,Q944098,way
 "Passerelle Léopold Sedar Senghor",wikidata,M,Q154545,relation
@@ -2990,6 +2995,7 @@ name,source,gender,wikidata,type
 "Place Émile Goudeau",wikidata,M,Q3588544,relation+way
 "Place Émile Landrin",wikidata,M,Q26261634,relation
 "Place Émile Mâle",wikidata,M,Q286253,relation
+"Place Emmanuel Lévinas",wikidata,M,Q153034,relation
 "Place Ernest Denis",wikidata,M,Q1706744,relation
 "Place Étienne Pernet",wikidata,M,Q4025427,relation
 "Place Eugène Claudius Petit",wikidata,M,Q3059775,relation
@@ -3111,6 +3117,7 @@ name,source,gender,wikidata,type
 "Place Michel Audiard",wikidata,M,Q7122,relation+way
 "Place Michel Debré",wikidata,M,Q296386,relation
 "Place Michel Petrucciani",wikidata,M,Q317155,way
+"Place Michel Rocard",wikidata,M,Q12946,relation
 "Place Mike Brant",wikidata,M,Q709215,way
 "Place Mohamed Bouazizi",wikidata,M,Q214088,relation
 "Place Mohamed Lakhdar Toumi",wikidata,M,Q134540746,relation
@@ -3222,6 +3229,7 @@ name,source,gender,wikidata,type
 "Place du Général Catroux",wikidata,M,Q553522,relation
 "Place du Général Cochet",wikidata,M,Q3093672,relation
 "Place du Général Gouraud",wikidata,M,Q2572143,relation+way
+"Place du Général Ingold",wikidata,M,Q3084937,way
 "Place du Général Kœnig",wikidata,M,Q433116,relation
 "Place du Général Monclar",wikidata,M,Q2917676,relation
 "Place du Général Patton",wikidata,M,Q186492,relation+way
@@ -3750,7 +3758,7 @@ name,source,gender,wikidata,type
 "Rue Delbet",wikidata,M,Q3384684,relation
 "Rue Demarquay",wikidata,M,Q1685718,relation
 "Rue Denis Poisson",wikidata,M,Q190772,relation
-"Rue Déodat de Severac",wikidata,M,Q726550,relation
+"Rue Déodat de Séverac",wikidata,M,Q726550,relation
 "Rue Deparcieux",wikidata,M,Q2853864,relation+way
 "Rue Desaix",wikidata,M,Q313196,relation
 "Rue Desargues",wikidata,M,Q152817,relation
@@ -4419,7 +4427,7 @@ name,source,gender,wikidata,type
 "Rue Manuel",wikidata,M,Q512930,relation
 "Rue Marc Antoine Charpentier",wikidata,M,Q55524,relation
 "Rue Marc Seguin",wikidata,M,Q732114,relation
-"Rue Marceau",wikidata,M,Q1003655,relation
+"Rue Marceau",wikidata,M,Q1003655,relation+way
 "Rue Marcel Dassault",wikidata,M,Q160802,relation+way
 "Rue Marcel Dubois",wikidata,M,Q20968222,relation
 "Rue Marcel Duchamp",wikidata,M,Q5912,relation
@@ -5123,7 +5131,7 @@ name,source,gender,wikidata,type
 "Rue du Commandant Léandri",wikidata,M,Q2898200,relation
 "Rue du Commandant Marchand",wikidata,M,Q947371,relation
 "Rue du Commandant Mortenol",wikidata,M,Q2935015,relation
-"Rue du Commandant René Mouchotte",wikidata,M,Q3426652,relation
+"Rue du Commandant René Mouchotte",wikidata,M,Q3426652,relation+way
 "Rue du Commandant Rivière",wikidata,M,Q1926906,relation
 "Rue du Commandant Schloesing",wikidata,M,Q3157962,relation
 "Rue du Commandant l'Herminier",wikidata,M,Q3172913,relation

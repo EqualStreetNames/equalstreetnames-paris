@@ -13,6 +13,7 @@ name,source,gender,wikidata,type
 "Allée Brongniart",,,,way
 "Allée Cavalière",,,,way
 "Allée Centrale",,,,way
+"Allée Charles Marville",,,,way
 "Allée Chauveau Lagarde",,,,way
 "Allée Chevreul",,,,way
 "Allée Circulaire",,,,way
@@ -72,6 +73,7 @@ name,source,gender,wikidata,type
 "Allée des Enfants et Victimes de la Prise d'Otages de Djibouti-Loyada de Février 1976",,,,relation
 "Allée des Feuillants",,,,way
 "Allée des Jussieu",,,,way
+"Allée des Marinettes",,,,way
 "Allée des Marronniers",,,,way
 "Allée des Mauves",,,,relation
 "Allée des Mousquetaires",,,,way
@@ -333,7 +335,6 @@ name,source,gender,wikidata,type
 "Escalier d'honneur",,,,way
 "Escalier des Carrières du Jardin des Plantes",,,,way
 "Espace chapiteaux",,,,way
-"Esplanade Bernard Duperier",,,,relation
 "Esplanade Léo Hamon",,,,way
 "Esplanade Renée Lebas",,,,way
 "Esplanade Silvia Monfort",,,,relation+way
@@ -539,9 +540,7 @@ Ledru-Rollin,,,,way
 "Passage du Nord",,,,relation
 "Passage du Pont aux Biches",,,,relation
 "Passage du Souvenir",,,,relation
-"Passerelle Claude Bernard",,,,way
 "Passerelle Lambeau",,,,way
-"Passerelle de Crimée",,,,way
 "Passerelle des Arts et Métiers",,,,way
 "Passerelle des Écluses de la Villette",,,,way
 "Passerelle des Grands Moulins",,,,way
@@ -557,7 +556,6 @@ Petit-Pont,,,,way
 "Place Baudoyer",,,,relation
 "Place Charles Monselet",,,,way
 "Place ED/19",,,,relation
-"Place Emmanuel Lévinas",,,,relation
 "Place FO/13",,,,relation
 "Place Ferdinand Forest",,,,way
 "Place Hébert",,,,relation
@@ -566,14 +564,12 @@ Petit-Pont,,,,way
 "Place Madeleine Renaud et Jean-Louis Barrault",,,,way
 "Place Maréchal de Rochambeau",,,,way
 "Place Maubert",,,,relation
-"Place Michel Rocard",,,,relation
 "Place Saint-Blaise",,,,relation
 "Place Saint-Ferdinand",,,,relation
 "Place Saint-Gervais",,,,relation
 "Place Saint-Jean",,,,relation
 "Place Saint-Pierre",,,,relation
 "Place Sans Nom",,,,relation
-"Place de Dublin",,,,way
 "Place de Flore",,,,relation
 "Place de Thorigny",,,,relation
 "Place de l'Hôtel de Ville",,,,relation
@@ -589,7 +585,6 @@ Petit-Pont,,,,way
 "Place du Calvaire",,,,relation
 "Place du Cardinal Amette",,,,relation
 "Place du Général Cartoux",,,,way
-"Place du Général Ingold",,,,way
 "Place du Guignier",,,,relation
 "Place du Moulin de Javel",,,,relation+way
 "Place du Paraguay",,,,relation
@@ -974,6 +969,7 @@ Rolltreppe,,,,way
 "Rue de la Cavalerie",,,,relation
 "Rue de la Chaise",,,,relation
 "Rue de la Charbonnière",,,,relation
+"Rue de la Chaussée-d'Antin",,,,way
 "Rue de la Clef",,,,relation
 "Rue de la Cloture",,,,relation
 "Rue de la Collégiale",,,,relation
@@ -995,7 +991,7 @@ Rolltreppe,,,,way
 "Rue de la Faisanderie",,,,relation
 "Rue de la Félicité",,,,relation
 "Rue de la Ferme de Savy",,,,relation
-"Rue de la Ferronnerie",,,,relation
+"Rue de la Ferronnerie",,,,relation+way
 "Rue de la Fidélité",,,,relation
 "Rue de la Fontaine à Mulard",,,,relation
 "Rue de la Fontaine au Roi",,,,relation
