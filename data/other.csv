@@ -26,6 +26,7 @@ name,source,gender,wikidata,type
 "Allée Eveline Garnier",,,,way
 "Allée Fortunée",,,,relation
 "Allée Georges Ville",,,,way
+"Allée Gil Taïeb",,,,way
 "Allée Gracia et Joseph Saltiel",,,,way
 "Allée Hauÿ",,,,way
 "Allée Jussieu",,,,way
@@ -131,6 +132,7 @@ name,source,gender,wikidata,type
 "Avenue de la Chapelle",,,,relation
 "Avenue de la Frillière",,,,relation
 "Avenue de la Grotte",,,,relation
+"Avenue de la porte de Bagnolet",,,,way
 "Avenue de la porte de Vincennes",,,,way
 "Avenue des Ailantes",,,,way
 "Avenue des Chalets",,,,relation
@@ -415,9 +417,7 @@ Hémicycle,,,,way
 "L'Artère - Jardin des Dessins",,,,way
 "La Coulée Verte René-Dumont",,,,way
 "La Terrasse du Parc",,,,relation
-"Le Marais",,,,relation
 "Le Square",,,,way
-Ledru-Rollin,,,,way
 "Les Balcons de Montparnasse",,,,way
 "Les Galeries de Paname",,,,way
 "Liaison piétonne Bercy - Charenton",,,,way
@@ -1803,4 +1803,5 @@ Sortie,,,,way
 "jardin de l'îlot Ricquet",,,,way
 "liaison Gare du Nord – Gare de l'Est",,,,way
 "rampe PMR",,,,way
+"rue Breguet",,,,way
 "villa Curial",,,,relation

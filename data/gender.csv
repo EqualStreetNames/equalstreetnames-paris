@@ -1935,7 +1935,7 @@ name,source,gender,wikidata,type
 "Rue du Surmelin",wikidata,-,Q2368614,relation
 "Rue du Tage",wikidata,-,Q14294,relation
 "Rue du Télégraphe",wikidata,-,Q3546615,relation
-"Rue du Temple",wikidata,-,Q3280072;Q3413286,relation
+"Rue du Temple",wikidata,-,Q3280072;Q3413286;Q41300,relation+way
 "Rue du Texel",wikidata,-,Q9966,relation+way
 "Rue du Théâtre",wikidata,-,Q3527472,relation
 "Rue du Tibre",wikidata,-,Q13712,relation
@@ -2450,6 +2450,7 @@ name,source,gender,wikidata,type
 "Allée Jean Sablon",wikidata,M,Q330824,relation
 "Allée Jean-François Divry",wikidata,M,Q110684217,relation
 "Allée Jean-Jacques Servan-Schreiber",wikidata,M,Q431565,relation
+"Allée Jean-Marc Vallet",wikidata,M,Q500611,way
 "Allée Joseph Récamier",wikidata,M,Q3185606,relation
 "Allée Jules Supervielle",wikidata,M,Q732569,relation
 "Allée Jules-Supervielle",wikidata,M,Q732569,way
@@ -5247,7 +5248,6 @@ name,source,gender,wikidata,type
 "Square Auguste Renoir",wikidata,M,Q39931,relation+way
 "Square Beaujon",wikidata,M,Q3340081,relation
 "Square Bolivar",wikidata,M,Q8605,relation+way
-"Square Boucicaut",wikidata,M,Q665114,relation
 "Square Brancion",wikidata,M,Q2984211,relation
 "Square Brizeux",wikidata,M,Q251037,relation
 "Square Charles Dickens",wikidata,M,Q5686,relation
