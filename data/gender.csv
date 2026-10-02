@@ -690,7 +690,7 @@ name,source,gender,wikidata,type
 "Passage des Deux Pavillons",wikidata,-,Q276173,relation
 "Passage des Entrepreneurs",wikidata,-,Q3451803,relation
 "Passage des Épinettes",wikidata,-,Q2426877,relation
-"Passage des Gravilliers",wikidata,-,Q3451846,relation
+"Passage des Gravilliers",wikidata,-,Q16640071;Q3451846,relation+way
 "Passage des Jacobins",wikidata,-,Q1552859,relation
 "Passage des Marais",wikidata,-,Q16673900,relation
 "Passage des Minerais",wikidata,-,Q102798,way
@@ -1199,7 +1199,7 @@ name,source,gender,wikidata,type
 "Rue Montauban",wikidata,-,Q172593,relation
 "Rue Monte Cristo",wikidata,-,Q191838,relation
 "Rue Montera",wikidata,-,Q11293375;Q618532,relation
-"Rue Montgallet",wikidata,-,Q11293375;Q618532,relation+way
+"Rue Montgallet",wikidata,-,Q11293375;Q618532;Q618532,relation+way
 "Rue Montgolfier",wikidata,-,Q193751,relation
 "Rue Montmartre",wikidata,-,Q186115,relation
 "Rue Mony",wikidata,-,Q618532,relation
@@ -1334,6 +1334,7 @@ name,source,gender,wikidata,type
 "Rue d'Arcueil",wikidata,-,Q467132,relation
 "Rue d'Argenteuil",wikidata,-,Q181946,relation
 "Rue d'Argentine",wikidata,-,Q414,relation
+"Rue d'Armenonville",wikidata,-,Q1075237,way
 "Rue d'Arras",wikidata,-,Q131329;Q4795856,relation
 "Rue d'Artois",wikidata,-,Q159987;Q7758,relation
 "Rue d'Athènes",wikidata,-,Q1524,relation
@@ -1364,7 +1365,7 @@ name,source,gender,wikidata,type
 "Rue de Belfort",wikidata,-,Q171545,relation
 "Rue de Belgrade",wikidata,-,Q3711,relation
 "Rue de Belleville",wikidata,-,Q815949,relation+way
-"Rue de Bercy",wikidata,-,Q16532200;Q773318,relation+way
+"Rue de Bercy",wikidata,-,Q16532200;Q16532200;Q773318,relation+way
 "Rue de Bérite",wikidata,-,Q3820,relation
 "Rue de Berne",wikidata,-,Q70,relation
 "Rue de Bièvre",wikidata,-,Q879306,relation
@@ -1535,7 +1536,7 @@ name,source,gender,wikidata,type
 "Rue de Rome",wikidata,-,Q220,relation
 "Rue de Rouen",wikidata,-,Q30974,relation
 "Rue de Rungis",wikidata,-,Q478105,relation
-"Rue de Sablonville",wikidata,-,Q64532656;Q3460630,relation+way
+"Rue de Sablonville",wikidata,-,Q3460630;Q64532656;Q3460630,relation+way
 "Rue de Saïgon",wikidata,-,Q1854,relation
 "Rue de Saint-Pétersbourg",wikidata,-,Q656,relation
 "Rue de Saint-Quentin",wikidata,-,Q182744,relation
@@ -1714,6 +1715,7 @@ name,source,gender,wikidata,type
 "Rue de la Villette",wikidata,-,Q1463559,relation
 "Rue de la Vistule",wikidata,-,Q548,relation
 "Rue de la Voute",wikidata,-,Q189771,relation
+"Rue de la Voûte",wikidata,-,Q189771,way
 "Rue des Abbesses",wikidata,-,Q14397431,relation
 "Rue des Acacias",wikidata,-,Q81666,relation
 "Rue des Alouettes",wikidata,-,Q2839337,relation
@@ -2466,6 +2468,7 @@ name,source,gender,wikidata,type
 "Allée Michel Berger",wikidata,M,Q543613,relation
 "Allée Michel Delpech",wikidata,M,Q972386,relation
 "Allée Michel Serrault",wikidata,M,Q318088,relation
+"Allée Nicolae Titulescu",wikidata,M,Q781476,way
 "Allée Paul Deschanel",wikidata,M,Q309995,relation
 "Allée Pierre Bérégovoy",wikidata,M,Q298355,relation+way
 "Allée Pierre Herbart",wikidata,M,Q3385446,way
@@ -2819,7 +2822,7 @@ name,source,gender,wikidata,type
 "Cour Sedaine",wikidata,M,Q367243,relation
 "Cour de Rohan",wikidata,M,Q363636,relation+way
 "Cours Albert 1er",wikidata,M,Q55008046,relation
-"Cours Albert-Iᵉʳ",wikidata,M,Q159646,way
+"Cours Albert-Iᵉʳ",wikidata,M,Q55008046,way
 "Cours Paul Ricard",wikidata,M,Q329401,relation
 "Esplanade André Chamson",wikidata,M,Q517743,relation
 "Esplanade André Tollet",wikidata,M,Q2848703,relation
@@ -5092,6 +5095,7 @@ name,source,gender,wikidata,type
 "Rue de l'Inspecteur Allès",wikidata,M,Q110797786,relation
 "Rue de l'Interne Loeb",wikidata,M,Q64528288,relation
 "Rue de la Chaussée d'Antin",wikidata,M,Q8056,relation+way
+"Rue de la Chaussée-d'Antin",wikidata,M,Q8056,way
 "Rue de la Michodière",wikidata,M,Q17276569,relation
 "Rue de la Planche",wikidata,M,Q64524521,relation
 "Rue de la Reynie",wikidata,M,Q2634140,relation
@@ -5383,6 +5387,6 @@ name,source,gender,wikidata,type
 "Villa de Saxe",wikidata,M,Q76723,relation
 "Villa de Ségur",wikidata,M,Q2087492,relation
 "Voie Alphonse Loubat",wikidata,M,Q2839888,relation
-"Voie Georges-Pompidou",wikidata,M,Q2185,relation
+"Voie Georges-Pompidou",wikidata,M,Q2185,relation+way
 "Voie Mazas",wikidata,M,Q3158925,way
 "Rue Rosa Bonheur",wikidata,NB,Q241732,relation

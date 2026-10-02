@@ -40,7 +40,6 @@ name,source,gender,wikidata,type
 "Allée Mangin",,,,way
 "Allée Marcel Bernard",,,,way
 "Allée Mary Reynolds",,,,relation+way
-"Allée Nicolae Titulescu",,,,way
 "Allée Nord Chatrier",,,,way
 "Allée Olympe de Gouges",,,,way
 "Allée Pierre Hadot",,,,way
@@ -545,6 +544,7 @@ Hémicycle,,,,way
 "Passerelle des Écluses de la Villette",,,,way
 "Passerelle des Grands Moulins",,,,way
 "Passerelle du Cambodge",,,,way
+"Passerelle périphérique",,,,way
 "Péristyle de Chartres",,,,relation
 "Péristyle de Joinville",,,,relation
 "Péristyle de Montpensier",,,,relation
@@ -907,7 +907,6 @@ Rolltreppe,,,,way
 "Rue au Maire",,,,relation
 "Rue aux Ours",,,,relation
 "Rue d'Armaillé",,,,relation
-"Rue d'Armenonville",,,,way
 "Rue d'Idalie",,,,relation
 "Rue d'Olivet",,,,relation
 "Rue d'Orchampt",,,,relation
@@ -969,7 +968,6 @@ Rolltreppe,,,,way
 "Rue de la Cavalerie",,,,relation
 "Rue de la Chaise",,,,relation
 "Rue de la Charbonnière",,,,relation
-"Rue de la Chaussée-d'Antin",,,,way
 "Rue de la Clef",,,,relation
 "Rue de la Cloture",,,,relation
 "Rue de la Collégiale",,,,relation
@@ -1033,7 +1031,6 @@ Rolltreppe,,,,way
 "Rue de la Tour des Dames",,,,relation
 "Rue de la Ville Neuve",,,,relation
 "Rue de la Ville l'Évêque",,,,relation
-"Rue de la Voûte",,,,way
 "Rue des Annelets",,,,relation+way
 "Rue des Archers",,,,way
 "Rue des Arquebusiers",,,,relation
@@ -1312,7 +1309,6 @@ Sortie,,,,way
 "Terrasse du Bord de l'Eau",,,,way
 "Tunnel Chaumont Pantin",,,,way
 "Tunnel Concorde",,,,way
-"Tunnel Grand-Maillot",,,,way
 "Tunnel Villette Pantin",,,,way
 "Tunnel d'Italie",,,,way
 "Tunnel d'Orléans",,,,way
@@ -1799,6 +1795,7 @@ Sortie,,,,way
 "Voie de/13",,,,relation
 "Voie de/19",,,,relation
 "Voie du/13",,,,relation
+Voltaire-Montreuil,,,,way
 "avenue Michel Bizot",,,,way
 "jardin de l'îlot Ricquet",,,,way
 "liaison Gare du Nord – Gare de l'Est",,,,way
