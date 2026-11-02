@@ -127,6 +127,7 @@ name,source,gender,wikidata,type
 "Avenue de la Porte de Choisy",wikidata,-,Q3399030,relation+way
 "Avenue de la Porte de Clichy",wikidata,-,Q3399028,relation+way
 "Avenue de la Porte de Clignancourt",wikidata,-,Q3399039,relation+way
+"Avenue de la Porte de La Chapelle",wikidata,-,Q3413190,way
 "Avenue de la Porte de Ménilmontant",wikidata,-,Q3399063,relation+way
 "Avenue de la Porte de Montmartre",wikidata,-,Q3399057,relation+way
 "Avenue de la Porte de Montreuil",wikidata,-,Q3399061,relation+way
@@ -1860,7 +1861,7 @@ name,source,gender,wikidata,type
 "Rue du Faubourg Saint-Antoine",wikidata,-,Q1500914;Q3067308,relation+way
 "Rue du Faubourg Saint-Honoré",wikidata,-,Q3067310,relation+way
 "Rue du Faubourg Saint-Jacques",wikidata,-,Q24931996,relation
-"Rue du Faubourg Saint-Martin",wikidata,-,Q1478999,relation
+"Rue du Faubourg Saint-Martin",wikidata,-,Q1478999;Q656302,relation+way
 "Rue du Figuier",wikidata,-,Q36146,relation
 "Rue du Foin",wikidata,-,Q336989,relation
 "Rue du Forez",wikidata,-,Q1437284,relation
@@ -2141,7 +2142,7 @@ name,source,gender,wikidata,type
 "Avenue Victoria",wikidata,F,Q9439,relation
 "Avenue de Lamballe",wikidata,F,Q233210,relation
 "Avenue de Montespan",wikidata,F,Q230982,relation
-"Avenue de la Belle Gabrielle",wikidata,F,Q234911,relation
+"Avenue de la Belle Gabrielle",wikidata,F,Q234911,relation+way
 "Avenue de la Sœur Rosalie",wikidata,F,Q3442221,relation
 "Belvédère Anouk Aimée",wikidata,F,Q228607,relation
 "Cité Anne-Marie Bauer",wikidata,F,Q2850819,relation
@@ -2178,6 +2179,7 @@ name,source,gender,wikidata,type
 "Passerelle Michèle Morgan",wikidata,F,Q234897,relation+way
 "Passerelle Simone de Beauvoir",wikidata,F,Q7197,way
 "Patio-place Pina Bausch",wikidata,F,Q155538,relation
+"Place Aimée Millot",wikidata,F,Q2828109,relation
 "Place Alice Guy",wikidata,F,Q263367,relation
 "Place Angélique du Coudray",wikidata,F,Q2849879,relation
 "Place Anne-Marie Carrière",wikidata,F,Q564812,relation
@@ -2249,7 +2251,6 @@ name,source,gender,wikidata,type
 "Place Suzanne Valadon",wikidata,F,Q156889,relation
 "Place Tina Turner",wikidata,F,Q131814,relation
 "Place Yvette Vincent-Alleaume",wikidata,F,Q110629666,relation
-"Place de la Bergère d'Ivry",wikidata,F,Q2828109,relation
 "Place de la Reine Astrid",wikidata,F,Q230238,relation
 "Placette Jacqueline-de-Romilly",wikidata,F,Q261687,relation
 "Pont Maria Casarès",wikidata,F,Q270834,way
@@ -5308,7 +5309,6 @@ name,source,gender,wikidata,type
 "Square Rapp",wikidata,M,Q1351171,relation
 "Square Raynouard",wikidata,M,Q769608,relation
 "Square Roland Garros",wikidata,M,Q207709,relation
-"Square Rosny Aîné",wikidata,M,Q725475,relation
 "Square Saint-Charles",wikidata,M,Q7758,relation
 "Square Sédillot",wikidata,M,Q2840126,relation
 "Square Théodore Judlin",wikidata,M,Q48761102,relation

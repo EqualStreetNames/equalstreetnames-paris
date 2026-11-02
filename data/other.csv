@@ -243,6 +243,9 @@ name,source,gender,wikidata,type
 "Cité du Figuier",,,,way
 "Cité du Palais-Royal de Belleville",,,,relation
 "Cité du Retiro",,,,relation
+"Corridor de Metz",,,,way
+"Corridor de Nîmes",,,,way
+"Corridor de Valenciennes",,,,way
 "Cour Carrée",,,,relation
 "Cour Censier",,,,way
 "Cour Clisson",,,,way
@@ -410,7 +413,6 @@ Hémicycle,,,,way
 "Impasse du Rouet",,,,relation
 "Impasse du Talus",,,,relation
 "Jardin Francais",,,,way
-"Jardin de l'Abondance",,,,way
 "Jardin de la Porte de Saint-Cloud",,,,relation
 "Jardin des Présentateurs",,,,way
 "L'Artère - Jardin des Dessins",,,,way
@@ -544,7 +546,6 @@ Hémicycle,,,,way
 "Passerelle des Écluses de la Villette",,,,way
 "Passerelle des Grands Moulins",,,,way
 "Passerelle du Cambodge",,,,way
-"Passerelle périphérique",,,,way
 "Péristyle de Chartres",,,,relation
 "Péristyle de Joinville",,,,relation
 "Péristyle de Montpensier",,,,relation
@@ -609,6 +610,7 @@ Petit-Pont,,,,way
 "Port de la Tournelle",,,,relation
 "Port des Champs Elysées",,,,relation
 "Porte Saint-Denis",,,,way
+"Porte d'Arcueil",,,,way
 "Porte d'Asnières",,,,way
 "Porte de Versailles",,,,way
 "Porte des lions",,,,way
@@ -630,7 +632,6 @@ Petit-Pont,,,,way
 "Quai F",,,,way
 "Quai Malaquais",,,,relation
 "Quai Saint-Bernard",,,,relation
-"Quai Transversal",,,,way
 "Quai de Conti",,,,relation+way
 "Quai de Gesvres",,,,relation
 "Quai de l'Archevêché",,,,relation
@@ -1044,7 +1045,7 @@ Rolltreppe,,,,way
 "Rue des Bois",,,,relation
 "Rue des Bons Enfants",,,,relation
 "Rue des Boulangers",,,,relation
-"Rue des Boulets",,,,relation
+"Rue des Boulets",,,,relation+way
 "Rue des Bourdonnais",,,,relation
 "Rue des Cendriers",,,,relation
 "Rue des Chantiers",,,,relation
